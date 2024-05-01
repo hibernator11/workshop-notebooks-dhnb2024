@@ -16,9 +16,9 @@ The coordinators of the workshop are:
 ## Digital collections
 [Timarit.is](https://timarit.is/) is a collaborative project between the:
 
-- National Library of the Faroe Islands,
-- National and Public Library of Greenland and
-- National and University Library of Iceland.
+- National Library of the Faroe Islands
+- National and Public Library of Greenland
+- National and University Library of Iceland
 
 The access is open to everyone and the material is made available by using the latest methods in information technology.
 
@@ -27,3 +27,10 @@ The access is open to everyone and the material is made available by using the l
 This project contains the following Jupyter Notebooks:
 
 - [yolo-example-cli.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-dhnb2024/blob/main/notebooks/yolo-example-cli.ipynb)
+
+## References
+
+- [Timarit.is](https://timarit.is/)
+- [GLAM Workbench](https://glam-workbench.net/)
+- [International GLAM Labs Community](https://glamlabs.io/)
+- Candela, G., Chambers, S., & Sherratt, T. (2023). An approach to assess the quality of Jupyter projects published by GLAM institutions. Journal of the Association for Information Science and Technology, 74(13), 1550–1564. https://doi.org/10.1002/asi.24835
