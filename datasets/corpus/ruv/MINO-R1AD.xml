@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MINO-R1AD" xml:lang="is">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Fiskeldi í umhverfismat</title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</orgName>
+          <orgName xml:lang="en">Árni Magnússon Institute for Icelandic Studies</orgName>
+        </publisher>
+        <availability status="restricted">
+        <licence>https://repository.clarin.is/licenses/userlicense_igc_restricted_download_en.pdf</licence>
+        <p xml:lang="is">Þessi texti er gefinn út með <ref target="https://repository.clarin.is/licenses/userlicense_igc_restricted_download_en.pdf">IGC - restricted licence</ref>.</p>
+        <p xml:lang="en">This work is licensed under the <ref target="https://repository.clarin.is/licenses/userlicense_igc_restricted_download_en.pdf">IGC - restricted licence</ref>.</p>
+      </availability>
+      <date when="2022-07-01">2022-07-01</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <title>Fiskeldi í umhverfismat</title>
+            <author>Guðmundur Hörður Guðmundsson</author>
+            <imprint>
+              <publisher>Ríkisútvarpið</publisher>
+              <date when="2003-09-16">2003-09-16</date>
+              <time from="18:00:00"/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="2"/>
+          <tagUsage gi="w" occurs="84"/>
+          <tagUsage gi="c" occurs="7"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p xml:id="MINO-R1AD.1">
+          <s xml:id="MINO-R1AD.1.1">
+            <w lemma="umhverfisráðherra" pos="nken-s" xml:id="MINO-R1AD.1.1.1">Umhverfisráðherra</w>
+            <w lemma="hafa" pos="sfg3en" xml:id="MINO-R1AD.1.1.2">hefur</w>
+            <w lemma="úrskurða" pos="ssg" xml:id="MINO-R1AD.1.1.3">úrskurðað</w>
+            <w lemma="að" pos="c" xml:id="MINO-R1AD.1.1.4">að</w>
+            <w lemma="fyrirhugaður" pos="lheosf" xml:id="MINO-R1AD.1.1.5">fyrirhugað</w>
+            <w lemma="elda" pos="sfg3eþ" xml:id="MINO-R1AD.1.1.6">eldi</w>
+            <w lemma="á" pos="aþ" xml:id="MINO-R1AD.1.1.7">á</w>
+            <w lemma="8" pos="ta" xml:id="MINO-R1AD.1.1.8">8</w>
+            <w lemma="þúsund" pos="tfhfþ" xml:id="MINO-R1AD.1.1.9">þúsund</w>
+            <w lemma="tonn" pos="nhfþ" xml:id="MINO-R1AD.1.1.10">tonnum</w>
+            <w lemma="af" pos="aþ" xml:id="MINO-R1AD.1.1.11">af</w>
+            <w lemma="laxur" pos="nkeþ" xml:id="MINO-R1AD.1.1.12">laxi</w>
+            <pc pos="punctuation" xml:id="MINO-R1AD.1.1.13">,</pc>
+            <w lemma="regnbogasilungur" pos="nkeþ" xml:id="MINO-R1AD.1.1.14">regnbogasilungi</w>
+            <w lemma="og" pos="c" xml:id="MINO-R1AD.1.1.15">og</w>
+            <w lemma="þorskur" pos="nkeþ" xml:id="MINO-R1AD.1.1.16">þorski</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R1AD.1.1.17">í</w>
+            <w lemma="sjókvía" pos="nvfþ" xml:id="MINO-R1AD.1.1.18">sjókvíum</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R1AD.1.1.19">í</w>
+            <w lemma="seyðisfjörður" pos="nkeþ-s" xml:id="MINO-R1AD.1.1.20">Seyðisfirði</w>
+            <pc pos="punctuation" xml:id="MINO-R1AD.1.1.21">,</pc>
+            <w lemma="skulu" pos="svg3en" xml:id="MINO-R1AD.1.1.22">skuli</w>
+            <w lemma="fara" pos="sng" xml:id="MINO-R1AD.1.1.23">fara</w>
+            <w lemma="í" pos="ao" xml:id="MINO-R1AD.1.1.24">í</w>
+            <w lemma="matur" pos="nkeo" xml:id="MINO-R1AD.1.1.25">mat</w>
+            <w lemma="á" pos="aþ" xml:id="MINO-R1AD.1.1.26">á</w>
+            <w lemma="umhverfisáhrif" pos="nhfþ" xml:id="MINO-R1AD.1.1.27">umhverfisáhrifum</w>
+            <pc pos="punctuation" xml:id="MINO-R1AD.1.1.28">.</pc>
+            <w lemma="áður" pos="aa" xml:id="MINO-R1AD.1.1.29">Áður</w>
+            <w lemma="hafa" pos="sfg3eþ" xml:id="MINO-R1AD.1.1.30">hafði</w>
+            <w lemma="skipulagsstofnun" pos="nven" xml:id="MINO-R1AD.1.1.31">Skipulagsstofnun</w>
+            <w lemma="úrskurða" pos="ssg" xml:id="MINO-R1AD.1.1.32">úrskurðað</w>
+            <w lemma="að" pos="c" xml:id="MINO-R1AD.1.1.33">að</w>
+            <w lemma="það" pos="fphee" xml:id="MINO-R1AD.1.1.34">þess</w>
+            <w lemma="þurfa" pos="svg3eþ" xml:id="MINO-R1AD.1.1.35">þyrfti</w>
+            <w lemma="ekki" pos="aa" xml:id="MINO-R1AD.1.1.36">ekki</w>
+            <w lemma="en" pos="c" xml:id="MINO-R1AD.1.1.37">en</w>
+            <w lemma="sá" pos="faken" xml:id="MINO-R1AD.1.1.38">sá</w>
+            <w lemma="úrskurður" pos="nken" xml:id="MINO-R1AD.1.1.39">úrskurður</w>
+            <w lemma="vera" pos="sfg3eþ" xml:id="MINO-R1AD.1.1.40">var</w>
+            <w lemma="kærður" pos="lkensf" xml:id="MINO-R1AD.1.1.41">kærður</w>
+            <w lemma="og" pos="c" xml:id="MINO-R1AD.1.1.42">og</w>
+            <w lemma="hafa" pos="sfg3en" xml:id="MINO-R1AD.1.1.43">hefur</w>
+            <w lemma="umhverfisráðherri" pos="nkeo" xml:id="MINO-R1AD.1.1.44">umhverfisráðherra</w>
+            <w lemma="nú" pos="aa" xml:id="MINO-R1AD.1.1.45">nú</w>
+            <w lemma="fella" pos="ssg" xml:id="MINO-R1AD.1.1.46">fellt</w>
+            <w lemma="hann" pos="fpkeo" xml:id="MINO-R1AD.1.1.47">hann</w>
+            <w lemma="úr" pos="aþ" xml:id="MINO-R1AD.1.1.48">úr</w>
+            <w lemma="gildi" pos="nheþ" xml:id="MINO-R1AD.1.1.49">gildi</w>
+            <pc pos="punctuation" xml:id="MINO-R1AD.1.1.50">.</pc>
+          </s>
+          <s xml:id="MINO-R1AD.1.2">
+            <w lemma="tryggvi" pos="nken-s" xml:id="MINO-R1AD.1.2.1">Tryggvi</w>
+            <w lemma="harðarson" pos="nken-s" xml:id="MINO-R1AD.1.2.2">Harðarson</w>
+            <pc pos="punctuation" xml:id="MINO-R1AD.1.2.3">,</pc>
+            <w lemma="bæjarstjóri" pos="nken" xml:id="MINO-R1AD.1.2.4">bæjarstjóri</w>
+            <w lemma="segja" pos="sfg3en" xml:id="MINO-R1AD.1.2.5">segir</w>
+            <w lemma="þessi" pos="fahen" xml:id="MINO-R1AD.1.2.6">þetta</w>
+            <w lemma="koma" pos="sfg3fn" xml:id="MINO-R1AD.1.2.7">koma</w>
+            <w lemma="seyðfirðingur" pos="nkfþ-s" xml:id="MINO-R1AD.1.2.8">Seyðfirðingum</w>
+            <w lemma="mjög" pos="aa" xml:id="MINO-R1AD.1.2.9">mjög</w>
+            <w lemma="á" pos="ao" xml:id="MINO-R1AD.1.2.10">á</w>
+            <w lemma="óvar" pos="lheosf" xml:id="MINO-R1AD.1.2.11">óvart</w>
+            <pc pos="punctuation" xml:id="MINO-R1AD.1.2.12">.</pc>
+            <w lemma="búinn" pos="lhensf" xml:id="MINO-R1AD.1.2.13">Búið</w>
+            <w lemma="vera" pos="svg3eþ" xml:id="MINO-R1AD.1.2.14">væri</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R1AD.1.2.15">að</w>
+            <w lemma="leggja" pos="sng" xml:id="MINO-R1AD.1.2.16">leggja</w>
+            <w lemma="mikill" pos="lveosf" xml:id="MINO-R1AD.1.2.17">mikla</w>
+            <w lemma="vinna" pos="nveo" xml:id="MINO-R1AD.1.2.18">vinnu</w>
+            <w lemma="í" pos="ao" xml:id="MINO-R1AD.1.2.19">í</w>
+            <w lemma="rannsókn" pos="nvfo" xml:id="MINO-R1AD.1.2.20">rannsóknir</w>
+            <w lemma="og" pos="c" xml:id="MINO-R1AD.1.2.21">og</w>
+            <w lemma="margur" pos="lheovm" xml:id="MINO-R1AD.1.2.22">fleira</w>
+            <w lemma="til" pos="ae" xml:id="MINO-R1AD.1.2.23">til</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R1AD.1.2.24">að</w>
+            <w lemma="uppfylla" pos="sng" xml:id="MINO-R1AD.1.2.25">uppfylla</w>
+            <w lemma="skilyrði" pos="nhfo" xml:id="MINO-R1AD.1.2.26">skilyrði</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R1AD.1.2.27">sem</w>
+            <w lemma="skipulagsstofnun" pos="nven" xml:id="MINO-R1AD.1.2.28">Skipulagsstofnun</w>
+            <w lemma="hafa" pos="svg3eþ" xml:id="MINO-R1AD.1.2.29">hefði</w>
+            <w lemma="setja" pos="ssg" xml:id="MINO-R1AD.1.2.30">sett</w>
+            <w lemma="og" pos="c" xml:id="MINO-R1AD.1.2.31">og</w>
+            <w lemma="því" pos="aa" xml:id="MINO-R1AD.1.2.32">því</w>
+            <w lemma="hafa" pos="svg3fþ" xml:id="MINO-R1AD.1.2.33">hefðu</w>
+            <w lemma="seyðfirðingur" pos="nkfn-s" xml:id="MINO-R1AD.1.2.34">Seyðfirðingar</w>
+            <w lemma="ekki" pos="aa" xml:id="MINO-R1AD.1.2.35">ekki</w>
+            <w lemma="búa" pos="ssm" xml:id="MINO-R1AD.1.2.36">búist</w>
+            <w lemma="við" pos="aþ" xml:id="MINO-R1AD.1.2.37">við</w>
+            <w lemma="þessi" pos="faveþ" xml:id="MINO-R1AD.1.2.38">þessari</w>
+            <w lemma="ákvörðun" pos="nveþ" xml:id="MINO-R1AD.1.2.39">ákvörðun</w>
+            <w lemma="umhverfisráðherra" pos="nkee" xml:id="MINO-R1AD.1.2.40">umhverfisráðherra</w>
+            <pc pos="punctuation" xml:id="MINO-R1AD.1.2.41">.</pc>
+          </s>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

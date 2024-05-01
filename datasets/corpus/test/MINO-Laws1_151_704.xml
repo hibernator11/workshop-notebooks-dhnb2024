@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="is" xml:id="MIMO-Laws1_151_704">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Málheild íslensks námsorðaforða (MÍNO) - Tillögur til Alþingis, 151. löggjafarþing, þingskjal nr. 704</title>
+        <respStmt>
+          <persName>Starkaður Barkarson</persName>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta. TEI-kóðun.</resp>
+          <resp xml:lang="en">Collection and processing of texts. TEI encoding.</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Starkaður Barkarson</persName>
+          <resp xml:lang="is">Málfræðimörkun</resp>
+          <resp xml:lang="en">Linguistic annotation</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</orgName>
+          <orgName xml:lang="en"> Árni Magnússon Institute for Icelandic Studies.</orgName>
+          <ref target="https://www.arnastofnun.is/">www.arnastofnun.is</ref>
+        </publisher>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="is">Þessi texti er gefinn út með <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-07-01">2022-07-01</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title type="main">Frestun á fundum Alþingis</title>
+            <title type="sub">Þingsályktun - þingskjal nr. 704</title>
+            <idno type="URI">http://althingi.is/altext/151/s/0704.html</idno>
+            <date when="2020-12-17">2020-12-17</date>
+          </analytic>
+          <monogr>
+            <title>Tillögur lagðar fram á Alþingi Íslendinga</title>
+            <idno type="URI">www.athingi.is</idno>
+            <imprint>
+              <publisher>Alþingi</publisher>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage occurs="1" gi="text"/>
+          <tagUsage occurs="1" gi="body"/>
+          <tagUsage occurs="1" gi="div"/>
+          <tagUsage occurs="3" gi="head"/>
+          <tagUsage occurs="2" gi="p"/>
+          <tagUsage occurs="2" gi="s"/>
+          <tagUsage occurs="39" gi="w"/>
+          <tagUsage occurs="4" gi="pc"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>151. löggjafarþing 2020–2021.</head>
+        <head>Nr. 12/151.</head>
+        <head>Þingskjal 704 - 425. mál.</head>
+        <p xml:id="MINO-Laws1_151_704.1">
+          <s xml:id="MINO-Laws1_151_704.1.1">
+            <w lemma="þingsályktun" xml:id="MINO-Laws1_151_704.1.1.1" pos="nven">Þingsályktun</w>
+            <w lemma="um" xml:id="MINO-Laws1_151_704.1.1.2" pos="af">um</w>
+            <w lemma="samþykki" xml:id="MINO-Laws1_151_704.1.1.3" pos="nheo">samþykki</w>
+            <w lemma="til" xml:id="MINO-Laws1_151_704.1.1.4" pos="af">til</w>
+            <w lemma="frestun" xml:id="MINO-Laws1_151_704.1.1.5" pos="nvee">frestunar</w>
+            <w lemma="á" xml:id="MINO-Laws1_151_704.1.1.6" pos="af">á</w>
+            <w lemma="fundur" xml:id="MINO-Laws1_151_704.1.1.7" pos="nkfþ">fundum</w>
+            <w lemma="Alþingi" xml:id="MINO-Laws1_151_704.1.1.8" pos="nhee-s">Alþingis</w>
+            <w lemma="samkvæmt" xml:id="MINO-Laws1_151_704.1.1.9" pos="af">samkvæmt</w>
+            <w lemma="1." xml:id="MINO-Laws1_151_704.1.1.10" pos="ta">1.</w>
+            <w lemma="mgr." xml:id="MINO-Laws1_151_704.1.1.11" pos="ks">mgr.</w>
+            <w lemma="23." xml:id="MINO-Laws1_151_704.1.1.12" pos="ta">23.</w>
+            <w lemma="gr." xml:id="MINO-Laws1_151_704.1.1.13" pos="ks">gr.</w>
+            <w lemma="stjórnarskrá" xml:id="MINO-Laws1_151_704.1.1.14" pos="nveeg">stjórnarskrárinnar</w>
+            <pc xml:id="MINO-Laws1_151_704.1.1.15" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws1_151_704.2">
+          <s xml:id="MINO-Laws1_151_704.2.1">
+            <w lemma="Alþingi" xml:id="MINO-Laws1_151_704.2.1.1" pos="nhen-s">Alþingi</w>
+            <w lemma="álykta" xml:id="MINO-Laws1_151_704.2.1.2" pos="sfg3en">ályktar</w>
+            <w lemma="að" xml:id="MINO-Laws1_151_704.2.1.3" pos="cn">að</w>
+            <w lemma="veita" xml:id="MINO-Laws1_151_704.2.1.4" pos="sng">veita</w>
+            <w lemma="samþykki" xml:id="MINO-Laws1_151_704.2.1.5" pos="nheo">samþykki</w>
+            <w lemma="til" xml:id="MINO-Laws1_151_704.2.1.6" pos="af">til</w>
+            <w lemma="það" xml:id="MINO-Laws1_151_704.2.1.7" pos="fphee">þess</w>
+            <w lemma="að" xml:id="MINO-Laws1_151_704.2.1.8" pos="c">að</w>
+            <w lemma="fundur" xml:id="MINO-Laws1_151_704.2.1.9" pos="nkfþ">fundum</w>
+            <w lemma="þing" xml:id="MINO-Laws1_151_704.2.1.10" pos="nheeg">þingsins</w>
+            <w lemma="verða" xml:id="MINO-Laws1_151_704.2.1.11" pos="svg3en">verði</w>
+            <w lemma="fresta" xml:id="MINO-Laws1_151_704.2.1.12" pos="sþghen">frestað</w>
+            <w lemma="frá" xml:id="MINO-Laws1_151_704.2.1.13" pos="af">frá</w>
+            <w lemma="18." xml:id="MINO-Laws1_151_704.2.1.14" pos="lkeþvf">18.</w>
+            <w lemma="desember" xml:id="MINO-Laws1_151_704.2.1.15" pos="nkeþ">desember</w>
+            <w lemma="2020" xml:id="MINO-Laws1_151_704.2.1.16" pos="ta">2020</w>
+            <w lemma="eða" xml:id="MINO-Laws1_151_704.2.1.17" pos="c">eða</w>
+            <w lemma="síðar" xml:id="MINO-Laws1_151_704.2.1.18" pos="aam">síðar</w>
+            <pc xml:id="MINO-Laws1_151_704.2.1.19" pos="pk">,</pc>
+            <w lemma="ef" xml:id="MINO-Laws1_151_704.2.1.20" pos="c">ef</w>
+            <w lemma="nauðsyn" xml:id="MINO-Laws1_151_704.2.1.21" pos="nven">nauðsyn</w>
+            <w lemma="krefja" xml:id="MINO-Laws1_151_704.2.1.22" pos="sfg3en">krefur</w>
+            <pc xml:id="MINO-Laws1_151_704.2.1.23" pos="pk">,</pc>
+            <w lemma="til" xml:id="MINO-Laws1_151_704.2.1.24" pos="af">til</w>
+            <w lemma="18." xml:id="MINO-Laws1_151_704.2.1.25" pos="lkeevf">18.</w>
+            <w lemma="janúar" xml:id="MINO-Laws1_151_704.2.1.26" pos="nkee">janúar</w>
+            <w lemma="2021" xml:id="MINO-Laws1_151_704.2.1.27" pos="ta">2021</w>
+            <pc xml:id="MINO-Laws1_151_704.2.1.28" pos="pl">.</pc>
+          </s>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

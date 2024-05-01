@@ -1,0 +1,736 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MINO-R439" xml:lang="is">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Vanhæfi?</title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</orgName>
+          <orgName xml:lang="en">Árni Magnússon Institute for Icelandic Studies</orgName>
+        </publisher>
+        <availability status="restricted">
+        <licence>https://repository.clarin.is/licenses/userlicense_igc_restricted_download_en.pdf</licence>
+        <p xml:lang="is">Þessi texti er gefinn út með <ref target="https://repository.clarin.is/licenses/userlicense_igc_restricted_download_en.pdf">IGC - restricted licence</ref>.</p>
+        <p xml:lang="en">This work is licensed under the <ref target="https://repository.clarin.is/licenses/userlicense_igc_restricted_download_en.pdf">IGC - restricted licence</ref>.</p>
+      </availability>
+      <date when="2022-07-01">2022-07-01</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <title>Vanhæfi?</title>
+            <author>Finnur Beck</author>
+            <imprint>
+              <publisher>sjónvarpið</publisher>
+              <date when="2004-09-25">2004-09-25</date>
+              <time from="19:00:00"/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="9"/>
+          <tagUsage gi="w" occurs="615"/>
+          <tagUsage gi="c" occurs="41"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p xml:id="MINO-R439.1">
+          <s xml:id="MINO-R439.1.1">
+            <w lemma="jakob" pos="nken-s" xml:id="MINO-R439.1.1.1">Jakob</w>
+            <w lemma="r." pos="nken-s" xml:id="MINO-R439.1.1.2">R.</w>
+            <w lemma="möller" pos="nken-s" xml:id="MINO-R439.1.1.3">Möller</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.1.4">,</pc>
+            <w lemma="hæstaréttarlögmaður" pos="nken" xml:id="MINO-R439.1.1.5">hæstaréttarlögmaður</w>
+            <w lemma="segja" pos="sfg3en" xml:id="MINO-R439.1.1.6">segir</w>
+            <w lemma="að" pos="c" xml:id="MINO-R439.1.1.7">að</w>
+            <w lemma="setja" pos="sþgken" xml:id="MINO-R439.1.1.8">settur</w>
+            <w lemma="dómsmálaráðherra" pos="nken" xml:id="MINO-R439.1.1.9">dómsmálaráðherra</w>
+            <w lemma="verða" pos="svg3en" xml:id="MINO-R439.1.1.10">verði</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R439.1.1.11">að</w>
+            <w lemma="meta" pos="sng" xml:id="MINO-R439.1.1.12">meta</w>
+            <w lemma="hvort" pos="c" xml:id="MINO-R439.1.1.13">hvort</w>
+            <w lemma="jón" pos="nken-s" xml:id="MINO-R439.1.1.14">Jón</w>
+            <w lemma="steinn" pos="nkeo-s" xml:id="MINO-R439.1.1.15">Steinar</w>
+            <w lemma="gunnlaugsson" pos="nken-s" xml:id="MINO-R439.1.1.16">Gunnlaugsson</w>
+            <w lemma="geta" pos="svg3en" xml:id="MINO-R439.1.1.17">geti</w>
+            <w lemma="telja" pos="ssm" xml:id="MINO-R439.1.1.18">talist</w>
+            <w lemma="vanhæfur" pos="lkensf" xml:id="MINO-R439.1.1.19">vanhæfur</w>
+            <w lemma="til" pos="ae" xml:id="MINO-R439.1.1.20">til</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R439.1.1.21">að</w>
+            <w lemma="gegna" pos="sng" xml:id="MINO-R439.1.1.22">gegna</w>
+            <w lemma="staða" pos="nveo" xml:id="MINO-R439.1.1.23">stöðu</w>
+            <w lemma="hæstaréttardómari" pos="nkfe" xml:id="MINO-R439.1.1.24">hæstaréttardómara</w>
+            <w lemma="vegna" pos="ae" xml:id="MINO-R439.1.1.25">vegna</w>
+            <w lemma="list" pos="nvfe" xml:id="MINO-R439.1.1.26">lista</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R439.1.1.27">sem</w>
+            <w lemma="á" pos="ao" xml:id="MINO-R439.1.1.28">á</w>
+            <w lemma="annar" pos="foheo" xml:id="MINO-R439.1.1.29">annað</w>
+            <w lemma="hundrað" pos="tfheo" xml:id="MINO-R439.1.1.30">hundrað</w>
+            <w lemma="lögmaður" pos="nkfn" xml:id="MINO-R439.1.1.31">lögmenn</w>
+            <w lemma="undirritaður" pos="lheþsf" xml:id="MINO-R439.1.1.32">undirrituðu</w>
+            <w lemma="hann" pos="fpkeþ" xml:id="MINO-R439.1.1.33">honum</w>
+            <w lemma="til" pos="ae" xml:id="MINO-R439.1.1.34">til</w>
+            <w lemma="stuðningur" pos="nkee" xml:id="MINO-R439.1.1.35">stuðnings</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.1.36">.</pc>
+            <w lemma="sveinn" pos="nken" xml:id="MINO-R439.1.1.37">Sveinn</w>
+            <w lemma="andri" pos="nken-s" xml:id="MINO-R439.1.1.38">Andri</w>
+            <w lemma="sveinsson" pos="nken-s" xml:id="MINO-R439.1.1.39">Sveinsson</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.1.40">,</pc>
+            <w lemma="hæstaréttarlögmaður" pos="nken" xml:id="MINO-R439.1.1.41">hæstaréttarlögmaður</w>
+            <w lemma="segja" pos="sfg3en" xml:id="MINO-R439.1.1.42">segir</w>
+            <w lemma="undirskriftir" pos="nvfog" xml:id="MINO-R439.1.1.43">undirskriftirnar</w>
+            <w lemma="ekki" pos="aa" xml:id="MINO-R439.1.1.44">ekki</w>
+            <w lemma="valda" pos="sng" xml:id="MINO-R439.1.1.45">valda</w>
+            <w lemma="vanhæfi" pos="nheo" xml:id="MINO-R439.1.1.46">vanhæfi</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.1.47">.</pc>
+          </s>
+          <s xml:id="MINO-R439.1.2">
+            <w lemma="bæði" pos="c" xml:id="MINO-R439.1.2.1">Bæði</w>
+            <w lemma="sigurður" pos="nken-s" xml:id="MINO-R439.1.2.2">Sigurður</w>
+            <w lemma="líndal" pos="nken-s" xml:id="MINO-R439.1.2.3">Líndal</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.2.4">,</pc>
+            <w lemma="fyrrverandi" pos="lkenof" xml:id="MINO-R439.1.2.5">fyrrverandi</w>
+            <w lemma="lagaprófessor" pos="nken" xml:id="MINO-R439.1.2.6">lagaprófessor</w>
+            <w lemma="og" pos="c" xml:id="MINO-R439.1.2.7">og</w>
+            <w lemma="gunnar" pos="nken-s" xml:id="MINO-R439.1.2.8">Gunnar</w>
+            <w lemma="jónsson" pos="nken-s" xml:id="MINO-R439.1.2.9">Jónsson</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.2.10">,</pc>
+            <w lemma="formaður" pos="nken" xml:id="MINO-R439.1.2.11">formaður</w>
+            <w lemma="lögmannafélag" pos="nhee-s" xml:id="MINO-R439.1.2.12">Lögmannafélags</w>
+            <w lemma="ísland" pos="nhee-s" xml:id="MINO-R439.1.2.13">Íslands</w>
+            <w lemma="hafa" pos="sfg3fn" xml:id="MINO-R439.1.2.14">hafa</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R439.1.2.15">í</w>
+            <w lemma="fjölmiðill" pos="nkfþ" xml:id="MINO-R439.1.2.16">fjölmiðlum</w>
+            <w lemma="setja" pos="sþgven" xml:id="MINO-R439.1.2.17">sett</w>
+            <w lemma="fram" pos="ao" xml:id="MINO-R439.1.2.18">fram</w>
+            <w lemma="sá" pos="faveo" xml:id="MINO-R439.1.2.19">þá</w>
+            <w lemma="spurning" pos="nveo" xml:id="MINO-R439.1.2.20">spurningu</w>
+            <w lemma="hvort" pos="c" xml:id="MINO-R439.1.2.21">hvort</w>
+            <w lemma="að" pos="c" xml:id="MINO-R439.1.2.22">að</w>
+            <w lemma="jón" pos="nken-s" xml:id="MINO-R439.1.2.23">Jón</w>
+            <w lemma="steinn" pos="nkeo-s" xml:id="MINO-R439.1.2.24">Steinar</w>
+            <w lemma="gunnlaugsson" pos="nken-s" xml:id="MINO-R439.1.2.25">Gunnlaugsson</w>
+            <w lemma="kunna" pos="sfg3eþ" xml:id="MINO-R439.1.2.26">kunni</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R439.1.2.27">að</w>
+            <w lemma="vera" pos="sng" xml:id="MINO-R439.1.2.28">vera</w>
+            <w lemma="vanhæfur" pos="lkensf" xml:id="MINO-R439.1.2.29">vanhæfur</w>
+            <w lemma="ef" pos="c" xml:id="MINO-R439.1.2.30">ef</w>
+            <w lemma="hann" pos="fpken" xml:id="MINO-R439.1.2.31">hann</w>
+            <w lemma="verða" pos="sfg3en" xml:id="MINO-R439.1.2.32">verður</w>
+            <w lemma="skipa" pos="sþgken" xml:id="MINO-R439.1.2.33">skipaður</w>
+            <w lemma="hæstaréttardómari" pos="nken" xml:id="MINO-R439.1.2.34">hæstaréttardómari</w>
+            <w lemma="til" pos="ae" xml:id="MINO-R439.1.2.35">til</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R439.1.2.36">að</w>
+            <w lemma="dæma" pos="sng" xml:id="MINO-R439.1.2.37">dæma</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R439.1.2.38">í</w>
+            <w lemma="mál" pos="nhfþ" xml:id="MINO-R439.1.2.39">málum</w>
+            <w lemma="þar" pos="aa" xml:id="MINO-R439.1.2.40">þar</w>
+            <w lemma="sem" pos="c" xml:id="MINO-R439.1.2.41">sem</w>
+            <w lemma="að" pos="c" xml:id="MINO-R439.1.2.42">að</w>
+            <w lemma="lögmaður" pos="nkfn" xml:id="MINO-R439.1.2.43">lögmenn</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R439.1.2.44">sem</w>
+            <w lemma="skrifa" pos="sfg3fþ" xml:id="MINO-R439.1.2.45">skrifuðu</w>
+            <w lemma="undir" pos="aþ" xml:id="MINO-R439.1.2.46">undir</w>
+            <w lemma="hann" pos="fpkeþ" xml:id="MINO-R439.1.2.47">honum</w>
+            <w lemma="til" pos="ae" xml:id="MINO-R439.1.2.48">til</w>
+            <w lemma="stuðningur" pos="nkee" xml:id="MINO-R439.1.2.49">stuðnings</w>
+            <w lemma="koma" pos="sfg3fn" xml:id="MINO-R439.1.2.50">koma</w>
+            <w lemma="við" pos="ao" xml:id="MINO-R439.1.2.51">við</w>
+            <w lemma="saga" pos="nveo" xml:id="MINO-R439.1.2.52">sögu</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.2.53">.</pc>
+            <w lemma="þá" pos="aa" xml:id="MINO-R439.1.2.54">Þá</w>
+            <w lemma="hafa" pos="sfg3en" xml:id="MINO-R439.1.2.55">hefur</w>
+            <w lemma="sigurður" pos="nken-s" xml:id="MINO-R439.1.2.56">Sigurður</w>
+            <w lemma="líndal" pos="nken-s" xml:id="MINO-R439.1.2.57">Líndal</w>
+            <w lemma="benda" pos="ssg" xml:id="MINO-R439.1.2.58">bent</w>
+            <w lemma="á" pos="ao" xml:id="MINO-R439.1.2.59">á</w>
+            <w lemma="að" pos="c" xml:id="MINO-R439.1.2.60">að</w>
+            <w lemma="samur" pos="fbheþ" xml:id="MINO-R439.1.2.61">sama</w>
+            <w lemma="geta" pos="svg3en" xml:id="MINO-R439.1.2.62">geti</w>
+            <w lemma="gilda" pos="ssg" xml:id="MINO-R439.1.2.63">gilt</w>
+            <w lemma="um" pos="ao" xml:id="MINO-R439.1.2.64">um</w>
+            <w lemma="mál" pos="nheo" xml:id="MINO-R439.1.2.65">mál</w>
+            <w lemma="þar" pos="aa" xml:id="MINO-R439.1.2.66">þar</w>
+            <w lemma="sem" pos="c" xml:id="MINO-R439.1.2.67">sem</w>
+            <w lemma="lögmaður" pos="nkfn" xml:id="MINO-R439.1.2.68">lögmenn</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R439.1.2.69">sem</w>
+            <w lemma="ekki" pos="aa" xml:id="MINO-R439.1.2.70">ekki</w>
+            <w lemma="skrifa" pos="sfg3fþ" xml:id="MINO-R439.1.2.71">skrifuðu</w>
+            <w lemma="undir" pos="aþ" xml:id="MINO-R439.1.2.72">undir</w>
+            <w lemma="eiga" pos="sfg3fn" xml:id="MINO-R439.1.2.73">eiga</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R439.1.2.74">í</w>
+            <w lemma="hlutur" pos="nkeo" xml:id="MINO-R439.1.2.75">hlut</w>
+            <w lemma="það" pos="fpheþ" xml:id="MINO-R439.1.2.76">því</w>
+            <w lemma="hann" pos="fpkfn" xml:id="MINO-R439.1.2.77">þeir</w>
+            <w lemma="geta" pos="svg3fn" xml:id="MINO-R439.1.2.78">geti</w>
+            <w lemma="njóta" pos="ssg" xml:id="MINO-R439.1.2.79">notið</w>
+            <w lemma="óvild" pos="nvee" xml:id="MINO-R439.1.2.80">óvildar</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.2.81">.</pc>
+            <w lemma="þessi" pos="faheþ" xml:id="MINO-R439.1.2.82">Þessu</w>
+            <w lemma="vera" pos="sfg3en" xml:id="MINO-R439.1.2.83">er</w>
+            <w lemma="sveinn" pos="nken-s" xml:id="MINO-R439.1.2.84">Sveinn</w>
+            <w lemma="andri" pos="nken-s" xml:id="MINO-R439.1.2.85">Andri</w>
+            <w lemma="sveinsson" pos="nken-s" xml:id="MINO-R439.1.2.86">Sveinsson</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.2.87">,</pc>
+            <w lemma="einn" pos="tfken" xml:id="MINO-R439.1.2.88">einn</w>
+            <w lemma="stuðningsmaður" pos="nkfe" xml:id="MINO-R439.1.2.89">stuðningsmanna</w>
+            <w lemma="jón" pos="nkee-s" xml:id="MINO-R439.1.2.90">Jóns</w>
+            <w lemma="steinarur" pos="nkee-s" xml:id="MINO-R439.1.2.91">Steinars</w>
+            <w lemma="ósammála" pos="lhfnof" xml:id="MINO-R439.1.2.92">ósammála</w>
+            <w lemma="og" pos="c" xml:id="MINO-R439.1.2.93">og</w>
+            <w lemma="segja" pos="sfg3en" xml:id="MINO-R439.1.2.94">segir</w>
+            <w lemma="þessi" pos="fahen" xml:id="MINO-R439.1.2.95">þetta</w>
+            <w lemma="nýr" pos="lveosf" xml:id="MINO-R439.1.2.96">nýja</w>
+            <w lemma="kenning" pos="nveo" xml:id="MINO-R439.1.2.97">kenningu</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R439.1.2.98">í</w>
+            <w lemma="réttarfar" pos="nheþ" xml:id="MINO-R439.1.2.99">réttarfari</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.2.100">.</pc>
+          </s>
+          <s xml:id="MINO-R439.1.3">
+            <w lemma="með" pos="nken-s" xml:id="MINO-R439.1.3.1">Með</w>
+            <w lemma="nákvæmlega" pos="aa" xml:id="MINO-R439.1.3.2">nákvæmlega</w>
+            <w lemma="samur" pos="fbhfþ" xml:id="MINO-R439.1.3.3">sömu</w>
+            <w lemma="rök" pos="nhfþ" xml:id="MINO-R439.1.3.4">rökum</w>
+            <w lemma="mega" pos="sfg3en" xml:id="MINO-R439.1.3.5">má</w>
+            <w lemma="segja" pos="sng" xml:id="MINO-R439.1.3.6">segja</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.3.7">,</pc>
+            <w lemma="með" pos="ao" xml:id="MINO-R439.1.3.8">með</w>
+            <w lemma="vís" pos="lkeosf" xml:id="MINO-R439.1.3.9">vísan</w>
+            <w lemma="til" pos="ae" xml:id="MINO-R439.1.3.10">til</w>
+            <w lemma="það" pos="fphee" xml:id="MINO-R439.1.3.11">þess</w>
+            <w lemma="að" pos="c" xml:id="MINO-R439.1.3.12">að</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R439.1.3.13">í</w>
+            <w lemma="undirskriftalisti" pos="nkeþg" xml:id="MINO-R439.1.3.14">undirskriftalistanum</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.3.15">,</pc>
+            <w lemma="í" pos="aþ" xml:id="MINO-R439.1.3.16">í</w>
+            <w lemma="efni" pos="nheþ" xml:id="MINO-R439.1.3.17">efni</w>
+            <w lemma="hann" pos="fpkee" xml:id="MINO-R439.1.3.18">hans</w>
+            <w lemma="vera" pos="sfg3en" xml:id="MINO-R439.1.3.19">er</w>
+            <w lemma="vera" pos="sþghen" xml:id="MINO-R439.1.3.20">verið</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R439.1.3.21">að</w>
+            <w lemma="gagnrýna" pos="sng" xml:id="MINO-R439.1.3.22">gagnrýna</w>
+            <w lemma="umsögn" pos="nveo" xml:id="MINO-R439.1.3.23">umsögn</w>
+            <w lemma="hæstiréttur" pos="nkee-s" xml:id="MINO-R439.1.3.24">Hæstaréttar</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.3.25">,</pc>
+            <w lemma="með" pos="aþ" xml:id="MINO-R439.1.3.26">með</w>
+            <w lemma="nákvæmlega" pos="aa" xml:id="MINO-R439.1.3.27">nákvæmlega</w>
+            <w lemma="samur" pos="fbhen" xml:id="MINO-R439.1.3.28">sama</w>
+            <w lemma="háttur" pos="nkeþ" xml:id="MINO-R439.1.3.29">hætti</w>
+            <w lemma="mega" pos="sfg3en" xml:id="MINO-R439.1.3.30">má</w>
+            <w lemma="þá" pos="aa" xml:id="MINO-R439.1.3.31">þá</w>
+            <w lemma="segja" pos="sng" xml:id="MINO-R439.1.3.32">segja</w>
+            <w lemma="að" pos="c" xml:id="MINO-R439.1.3.33">að</w>
+            <w lemma="sá" pos="fakfn" xml:id="MINO-R439.1.3.34">þeir</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R439.1.3.35">sem</w>
+            <w lemma="skrifa" pos="sfg3fn" xml:id="MINO-R439.1.3.36">skrifa</w>
+            <w lemma="undir" pos="ao" xml:id="MINO-R439.1.3.37">undir</w>
+            <w lemma="listi" pos="nkeog" xml:id="MINO-R439.1.3.38">listann</w>
+            <w lemma="hann" pos="fpkfn" xml:id="MINO-R439.1.3.39">þeir</w>
+            <w lemma="verða" pos="svg3fn" xml:id="MINO-R439.1.3.40">verði</w>
+            <w lemma="þá" pos="aa" xml:id="MINO-R439.1.3.41">þá</w>
+            <w lemma="fyrir" pos="ao" xml:id="MINO-R439.1.3.42">fyrir</w>
+            <w lemma="óvild" pos="nveo" xml:id="MINO-R439.1.3.43">óvild</w>
+            <w lemma="hinn" pos="gkfe" xml:id="MINO-R439.1.3.44">hinna</w>
+            <w lemma="dómarur" pos="nkfeg" xml:id="MINO-R439.1.3.45">dómaranna</w>
+            <w lemma="og" pos="c" xml:id="MINO-R439.1.3.46">og</w>
+            <w lemma="sá" pos="fakfn" xml:id="MINO-R439.1.3.47">þeir</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R439.1.3.48">sem</w>
+            <w lemma="ekki" pos="aa" xml:id="MINO-R439.1.3.49">ekki</w>
+            <w lemma="skrifa" pos="sng" xml:id="MINO-R439.1.3.50">skrifa</w>
+            <w lemma="undir" pos="ao" xml:id="MINO-R439.1.3.51">undir</w>
+            <w lemma="listi" pos="nkeog" xml:id="MINO-R439.1.3.52">listann</w>
+            <w lemma="hann" pos="fpkfn" xml:id="MINO-R439.1.3.53">þeir</w>
+            <w lemma="njóta" pos="svg3fn" xml:id="MINO-R439.1.3.54">njóti</w>
+            <w lemma="þá" pos="aa" xml:id="MINO-R439.1.3.55">þá</w>
+            <w lemma="velvild" pos="nvee" xml:id="MINO-R439.1.3.56">velvildar</w>
+            <w lemma="hinn" pos="gkfe" xml:id="MINO-R439.1.3.57">hinna</w>
+            <w lemma="dómarur" pos="nkfeg" xml:id="MINO-R439.1.3.58">dómaranna</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.3.59">.</pc>
+            <w lemma="formaður" pos="nken" xml:id="MINO-R439.1.3.60">Formaður</w>
+            <w lemma="lögmannafélag" pos="nheegs" xml:id="MINO-R439.1.3.61">Lögmannafélagsins</w>
+            <w lemma="hann" pos="fpken" xml:id="MINO-R439.1.3.62">hann</w>
+            <w lemma="óumbeðinn" pos="lkensf" xml:id="MINO-R439.1.3.63">óumbeðinn</w>
+            <w lemma="skrifa" pos="sfg3eþ" xml:id="MINO-R439.1.3.64">skrifaði</w>
+            <w lemma="blaðagrein" pos="nveo" xml:id="MINO-R439.1.3.65">blaðagrein</w>
+            <w lemma="í" pos="ao" xml:id="MINO-R439.1.3.66">í</w>
+            <w lemma="fyrri" pos="lheovm" xml:id="MINO-R439.1.3.67">fyrra</w>
+            <w lemma="þar" pos="aa" xml:id="MINO-R439.1.3.68">þar</w>
+            <w lemma="sem" pos="c" xml:id="MINO-R439.1.3.69">sem</w>
+            <w lemma="hann" pos="fpken" xml:id="MINO-R439.1.3.70">hann</w>
+            <w lemma="gagnrýna" pos="sfg3eþ" xml:id="MINO-R439.1.3.71">gagnrýndi</w>
+            <w lemma="skipan" pos="nveo" xml:id="MINO-R439.1.3.72">skipan</w>
+            <w lemma="ólafur" pos="nkee-s" xml:id="MINO-R439.1.3.73">Ólafs</w>
+            <w lemma="barkar" pos="nkee-s" xml:id="MINO-R439.1.3.74">Barkar</w>
+            <w lemma="í" pos="ao" xml:id="MINO-R439.1.3.75">í</w>
+            <w lemma="hæstiréttur" pos="nkeo-s" xml:id="MINO-R439.1.3.76">Hæstarétt</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.3.77">.</pc>
+            <w lemma="samkvæmt" pos="aþ" xml:id="MINO-R439.1.3.78">Samkvæmt</w>
+            <w lemma="þessi" pos="faveþ" xml:id="MINO-R439.1.3.79">þessari</w>
+            <w lemma="samur" pos="fbveþ" xml:id="MINO-R439.1.3.80">sömu</w>
+            <w lemma="kenning" pos="nveþ" xml:id="MINO-R439.1.3.81">kenningu</w>
+            <w lemma="að" pos="c" xml:id="MINO-R439.1.3.82">að</w>
+            <w lemma="þá" pos="aa" xml:id="MINO-R439.1.3.83">þá</w>
+            <w lemma="væntanlega" pos="aa" xml:id="MINO-R439.1.3.84">væntanlega</w>
+            <w lemma="njóta" pos="sfg3en" xml:id="MINO-R439.1.3.85">nýtur</w>
+            <w lemma="hann" pos="fpken" xml:id="MINO-R439.1.3.86">hann</w>
+            <w lemma="óvild" pos="nvee" xml:id="MINO-R439.1.3.87">óvildar</w>
+            <w lemma="það" pos="fphee" xml:id="MINO-R439.1.3.88">þess</w>
+            <w lemma="dómari" pos="nkfe" xml:id="MINO-R439.1.3.89">dómara</w>
+            <w lemma="og" pos="c" xml:id="MINO-R439.1.3.90">og</w>
+            <w lemma="sá" pos="fakfn" xml:id="MINO-R439.1.3.91">þeir</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R439.1.3.92">sem</w>
+            <w lemma="ekki" pos="aa" xml:id="MINO-R439.1.3.93">ekki</w>
+            <w lemma="skrifa" pos="sfg3fþ" xml:id="MINO-R439.1.3.94">skrifuðu</w>
+            <w lemma="þessi" pos="faveo" xml:id="MINO-R439.1.3.95">þessa</w>
+            <w lemma="grein" pos="nveo" xml:id="MINO-R439.1.3.96">grein</w>
+            <w lemma="njóta" pos="sng" xml:id="MINO-R439.1.3.97">njóta</w>
+            <w lemma="þá" pos="aa" xml:id="MINO-R439.1.3.98">þá</w>
+            <w lemma="velvild" pos="nvee" xml:id="MINO-R439.1.3.99">velvildar</w>
+            <w lemma="hann" pos="fpkee" xml:id="MINO-R439.1.3.100">hans</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.3.101">.</pc>
+            <w lemma="nú" pos="aa" xml:id="MINO-R439.1.3.102">Nú</w>
+            <w lemma="miða" pos="sþghen" xml:id="MINO-R439.1.3.103">miðað</w>
+            <w lemma="við" pos="ao" xml:id="MINO-R439.1.3.104">við</w>
+            <w lemma="þessi" pos="faheo" xml:id="MINO-R439.1.3.105">þetta</w>
+            <w lemma="þá" pos="aa" xml:id="MINO-R439.1.3.106">þá</w>
+            <w lemma="vera" pos="sfg3fn" xml:id="MINO-R439.1.3.107">eru</w>
+            <w lemma="bara" pos="aa" xml:id="MINO-R439.1.3.108">bara</w>
+            <w lemma="allur" pos="fokfn" xml:id="MINO-R439.1.3.109">allir</w>
+            <w lemma="dómari" pos="nkfn" xml:id="MINO-R439.1.3.110">dómarar</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R439.1.3.111">í</w>
+            <w lemma="hæstarétti" pos="nheþ-s" xml:id="MINO-R439.1.3.112">Hæstarétti</w>
+            <w lemma="alltaf" pos="aa" xml:id="MINO-R439.1.3.113">alltaf</w>
+            <w lemma="vanhæfa" pos="sfg3en" xml:id="MINO-R439.1.3.114">vanhæfir</w>
+            <w lemma="til" pos="ae" xml:id="MINO-R439.1.3.115">til</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R439.1.3.116">að</w>
+            <w lemma="fjalla" pos="sng" xml:id="MINO-R439.1.3.117">fjalla</w>
+            <w lemma="um" pos="ao" xml:id="MINO-R439.1.3.118">um</w>
+            <w lemma="mál" pos="nheo" xml:id="MINO-R439.1.3.119">mál</w>
+            <w lemma="allur" pos="fokfe" xml:id="MINO-R439.1.3.120">allra</w>
+            <w lemma="lögmaður" pos="nkfe" xml:id="MINO-R439.1.3.121">lögmanna</w>
+            <w lemma="á" pos="aþ" xml:id="MINO-R439.1.3.122">á</w>
+            <w lemma="ísland" pos="nheþ-s" xml:id="MINO-R439.1.3.123">Íslandi</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.3.124">,</pc>
+            <w lemma="þessi" pos="fahen" xml:id="MINO-R439.1.3.125">þetta</w>
+            <w lemma="vera" pos="sfg3en" xml:id="MINO-R439.1.3.126">er</w>
+            <w lemma="bara" pos="aa" xml:id="MINO-R439.1.3.127">bara</w>
+            <w lemma="neyðarástand" pos="nhen" xml:id="MINO-R439.1.3.128">neyðarástand</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R439.1.3.129">í</w>
+            <w lemma="réttarkerfi" pos="nheþg" xml:id="MINO-R439.1.3.130">réttarkerfinu</w>
+            <w lemma="ef" pos="c" xml:id="MINO-R439.1.3.131">ef</w>
+            <w lemma="þessi" pos="faven" xml:id="MINO-R439.1.3.132">þessi</w>
+            <w lemma="kenning" pos="nven" xml:id="MINO-R439.1.3.133">kenning</w>
+            <w lemma="hafa" pos="svg3eþ" xml:id="MINO-R439.1.3.134">hefði</w>
+            <w lemma="einhver" pos="fokeo" xml:id="MINO-R439.1.3.135">einhvern</w>
+            <w lemma="grunnur" pos="nkeo" xml:id="MINO-R439.1.3.136">grunn</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.3.137">.</pc>
+            <w lemma="sá" pos="fahen" xml:id="MINO-R439.1.3.138">Það</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R439.1.3.139">sem</w>
+            <w lemma="vanta" pos="sfg3en" xml:id="MINO-R439.1.3.140">vantar</w>
+            <w lemma="auðvitað" pos="aa" xml:id="MINO-R439.1.3.141">auðvitað</w>
+            <w lemma="inn" pos="aa" xml:id="MINO-R439.1.3.142">inn</w>
+            <w lemma="í" pos="ao" xml:id="MINO-R439.1.3.143">í</w>
+            <w lemma="þessi" pos="faveo" xml:id="MINO-R439.1.3.144">þessa</w>
+            <w lemma="umræða" pos="nveo" xml:id="MINO-R439.1.3.145">umræðu</w>
+            <w lemma="vera" pos="sfg3en" xml:id="MINO-R439.1.3.146">er</w>
+            <w lemma="til" pos="ae" xml:id="MINO-R439.1.3.147">til</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R439.1.3.148">að</w>
+            <w lemma="mynda" pos="sng" xml:id="MINO-R439.1.3.149">mynda</w>
+            <w lemma="varða" pos="slg" xml:id="MINO-R439.1.3.150">varðandi</w>
+            <w lemma="prófessor" pos="nkeo" xml:id="MINO-R439.1.3.151">prófessor</w>
+            <w lemma="sigurður" pos="nkeo-s" xml:id="MINO-R439.1.3.152">Sigurð</w>
+            <w lemma="líndalur" pos="nkeo-s" xml:id="MINO-R439.1.3.153">Líndal</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R439.1.3.154">sem</w>
+            <w lemma="halda" pos="sfg3eþ" xml:id="MINO-R439.1.3.155">hélt</w>
+            <w lemma="þessi" pos="faheþ" xml:id="MINO-R439.1.3.156">þessu</w>
+            <w lemma="fram" pos="aa" xml:id="MINO-R439.1.3.157">fram</w>
+            <w lemma="að" pos="c" xml:id="MINO-R439.1.3.158">að</w>
+            <w lemma="þá" pos="aa" xml:id="MINO-R439.1.3.159">þá</w>
+            <w lemma="að" pos="aþ" xml:id="MINO-R439.1.3.160">að</w>
+            <w lemma="sjálfsagður" pos="lheþsf" xml:id="MINO-R439.1.3.161">sjálfsögðu</w>
+            <w lemma="hafa" pos="svg3eþ" xml:id="MINO-R439.1.3.162">hefði</w>
+            <w lemma="hann" pos="fpken" xml:id="MINO-R439.1.3.163">hann</w>
+            <w lemma="eiga" pos="ssg" xml:id="MINO-R439.1.3.164">átt</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R439.1.3.165">að</w>
+            <w lemma="taka" pos="sng" xml:id="MINO-R439.1.3.166">taka</w>
+            <w lemma="það" pos="fpheo" xml:id="MINO-R439.1.3.167">það</w>
+            <w lemma="fram" pos="aa" xml:id="MINO-R439.1.3.168">fram</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R439.1.3.169">í</w>
+            <w lemma="sinn" pos="feheþ" xml:id="MINO-R439.1.3.170">sínu</w>
+            <w lemma="viðtal" pos="nheþ" xml:id="MINO-R439.1.3.171">viðtali</w>
+            <w lemma="að" pos="c" xml:id="MINO-R439.1.3.172">að</w>
+            <w lemma="maki" pos="nheþ" xml:id="MINO-R439.1.3.173">maki</w>
+            <w lemma="bróðurdóttir" pos="nvee" xml:id="MINO-R439.1.3.174">bróðurdóttur</w>
+            <w lemma="hann" pos="fpkee" xml:id="MINO-R439.1.3.175">hans</w>
+            <w lemma="vera" pos="svg3eþ" xml:id="MINO-R439.1.3.176">væri</w>
+            <w lemma="einn" pos="tfken" xml:id="MINO-R439.1.3.177">einn</w>
+            <w lemma="umsækjandi" pos="nkee" xml:id="MINO-R439.1.3.178">umsækjanda</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R439.1.3.179">í</w>
+            <w lemma="hæstarétti" pos="nheþ-s" xml:id="MINO-R439.1.3.180">Hæstarétti</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R439.1.3.181">sem</w>
+            <w lemma="hafa" pos="svg3eþ" xml:id="MINO-R439.1.3.182">hefði</w>
+            <w lemma="vera" pos="ssg" xml:id="MINO-R439.1.3.183">verið</w>
+            <w lemma="telja" pos="sþgken" xml:id="MINO-R439.1.3.184">talinn</w>
+            <w lemma="hæfastur" pos="nken" xml:id="MINO-R439.1.3.185">hæfastur</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.3.186">.</pc>
+            <w lemma="einn" pos="lkenvf" xml:id="MINO-R439.1.3.187">Eini</w>
+            <w lemma="maður" pos="nkeng" xml:id="MINO-R439.1.3.188">maðurinn</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R439.1.3.189">í</w>
+            <w lemma="þessi" pos="faveþ" xml:id="MINO-R439.1.3.190">þessari</w>
+            <w lemma="umræða" pos="nveþ" xml:id="MINO-R439.1.3.191">umræðu</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R439.1.3.192">sem</w>
+            <w lemma="vera" pos="sfg3en" xml:id="MINO-R439.1.3.193">er</w>
+            <w lemma="vanhæfur" pos="lkensf" xml:id="MINO-R439.1.3.194">vanhæfur</w>
+            <w lemma="það" pos="fphen" xml:id="MINO-R439.1.3.195">það</w>
+            <w lemma="vera" pos="sfg3en" xml:id="MINO-R439.1.3.196">er</w>
+            <w lemma="hann" pos="fpken" xml:id="MINO-R439.1.3.197">hann</w>
+            <w lemma="sjálfur" pos="fbken" xml:id="MINO-R439.1.3.198">sjálfur</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.3.199">.</pc>
+          </s>
+          <s xml:id="MINO-R439.1.4">
+            <w lemma="geta" pos="sfg3en" xml:id="MINO-R439.1.4.1">Getur</w>
+            <w lemma="jón" pos="nken-s" xml:id="MINO-R439.1.4.2">Jón</w>
+            <w lemma="steinn" pos="nkeo-s" xml:id="MINO-R439.1.4.3">Steinar</w>
+            <w lemma="að" pos="aþ" xml:id="MINO-R439.1.4.4">að</w>
+            <w lemma="þinn" pos="feheþ" xml:id="MINO-R439.1.4.5">þínu</w>
+            <w lemma="mat" pos="nheþ" xml:id="MINO-R439.1.4.6">mati</w>
+            <w lemma="ef" pos="c" xml:id="MINO-R439.1.4.7">ef</w>
+            <w lemma="skipa" pos="sþgken" xml:id="MINO-R439.1.4.8">skipaður</w>
+            <w lemma="hæstaréttardómari" pos="nken" xml:id="MINO-R439.1.4.9">hæstaréttardómari</w>
+            <w lemma="verða" pos="ssg" xml:id="MINO-R439.1.4.10">orðið</w>
+            <w lemma="vanhæfur" pos="lkensf" xml:id="MINO-R439.1.4.11">vanhæfur</w>
+            <w lemma="til" pos="ae" xml:id="MINO-R439.1.4.12">til</w>
+            <w lemma="það" pos="fphee" xml:id="MINO-R439.1.4.13">þess</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R439.1.4.14">að</w>
+            <w lemma="dæma" pos="sng" xml:id="MINO-R439.1.4.15">dæma</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R439.1.4.16">í</w>
+            <w lemma="mál" pos="nhfþ" xml:id="MINO-R439.1.4.17">málum</w>
+            <w lemma="þar" pos="aa" xml:id="MINO-R439.1.4.18">þar</w>
+            <w lemma="sem" pos="c" xml:id="MINO-R439.1.4.19">sem</w>
+            <w lemma="að" pos="c" xml:id="MINO-R439.1.4.20">að</w>
+            <w lemma="lögmaður" pos="nkfn" xml:id="MINO-R439.1.4.21">lögmenn</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R439.1.4.22">sem</w>
+            <w lemma="að" pos="aþ" xml:id="MINO-R439.1.4.23">að</w>
+            <w lemma="styðja" pos="sfg3fþ" xml:id="MINO-R439.1.4.24">studdu</w>
+            <w lemma="hann" pos="fpkee" xml:id="MINO-R439.1.4.25">hans</w>
+            <w lemma="vera" pos="sfg3fn" xml:id="MINO-R439.1.4.26">eru</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R439.1.4.27">að</w>
+            <w lemma="sækja" pos="sng" xml:id="MINO-R439.1.4.28">sækja</w>
+            <w lemma="eða" pos="c" xml:id="MINO-R439.1.4.29">eða</w>
+            <w lemma="verja" pos="sng" xml:id="MINO-R439.1.4.30">verja</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.4.31">?</pc>
+          </s>
+          <s xml:id="MINO-R439.1.5">
+            <w lemma="það" pos="fphen" xml:id="MINO-R439.1.5.1">Það</w>
+            <w lemma="vera" pos="sfg3en" xml:id="MINO-R439.1.5.2">er</w>
+            <w lemma="mjög" pos="aa" xml:id="MINO-R439.1.5.3">mjög</w>
+            <w lemma="vel" pos="aa" xml:id="MINO-R439.1.5.4">vel</w>
+            <w lemma="hugsanlegur" pos="lhensf" xml:id="MINO-R439.1.5.5">hugsanlegt</w>
+            <w lemma="og" pos="c" xml:id="MINO-R439.1.5.6">og</w>
+            <w lemma="það" pos="fphen" xml:id="MINO-R439.1.5.7">það</w>
+            <w lemma="vera" pos="sfg3en" xml:id="MINO-R439.1.5.8">er</w>
+            <w lemma="atriði" pos="nhen" xml:id="MINO-R439.1.5.9">atriði</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R439.1.5.10">sem</w>
+            <w lemma="að" pos="aa" xml:id="MINO-R439.1.5.11">að</w>
+            <w lemma="mjög" pos="aa" xml:id="MINO-R439.1.5.12">mjög</w>
+            <w lemma="margur" pos="lkfnsf" xml:id="MINO-R439.1.5.13">margir</w>
+            <w lemma="lögmaður" pos="nkfn" xml:id="MINO-R439.1.5.14">lögmenn</w>
+            <w lemma="hafa" pos="sfg3fn" xml:id="MINO-R439.1.5.15">hafa</w>
+            <w lemma="hafa" pos="ssg" xml:id="MINO-R439.1.5.16">haft</w>
+            <w lemma="áhyggja" pos="nvfo" xml:id="MINO-R439.1.5.17">áhyggjur</w>
+            <w lemma="af" pos="aþ" xml:id="MINO-R439.1.5.18">af</w>
+            <w lemma="undanfarinn" pos="lkfosf" xml:id="MINO-R439.1.5.19">undanfarna</w>
+            <w lemma="dagur" pos="nkfo" xml:id="MINO-R439.1.5.20">daga</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.5.21">.</pc>
+            <w lemma="svar" pos="nheng" xml:id="MINO-R439.1.5.22">Svarið</w>
+            <w lemma="við" pos="aþ" xml:id="MINO-R439.1.5.23">við</w>
+            <w lemma="þessi" pos="faveþ" xml:id="MINO-R439.1.5.24">þessari</w>
+            <w lemma="spurning" pos="nveþ" xml:id="MINO-R439.1.5.25">spurningu</w>
+            <w lemma="vera" pos="sfg3en" xml:id="MINO-R439.1.5.26">er</w>
+            <w lemma="kannski" pos="aa" xml:id="MINO-R439.1.5.27">kannski</w>
+            <w lemma="ekki" pos="aa" xml:id="MINO-R439.1.5.28">ekki</w>
+            <w lemma="voðalega" pos="aa" xml:id="MINO-R439.1.5.29">voðalega</w>
+            <w lemma="einfaldur" pos="lhensf" xml:id="MINO-R439.1.5.30">einfalt</w>
+            <w lemma="og" pos="c" xml:id="MINO-R439.1.5.31">og</w>
+            <w lemma="þurfa" pos="svg3eþ" xml:id="MINO-R439.1.5.32">þyrfti</w>
+            <w lemma="raunar" pos="aa" xml:id="MINO-R439.1.5.33">raunar</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R439.1.5.34">að</w>
+            <w lemma="kanna" pos="sng" xml:id="MINO-R439.1.5.35">kanna</w>
+            <w lemma="mikill" pos="lheþsf" xml:id="MINO-R439.1.5.36">miklu</w>
+            <w lemma="náið" pos="aam" xml:id="MINO-R439.1.5.37">nánar</w>
+            <w lemma="heldur" pos="aam" xml:id="MINO-R439.1.5.38">heldur</w>
+            <w lemma="en" pos="c" xml:id="MINO-R439.1.5.39">en</w>
+            <w lemma="maður" pos="nkfn" xml:id="MINO-R439.1.5.40">menn</w>
+            <w lemma="hafa" pos="sfg3fn" xml:id="MINO-R439.1.5.41">hafa</w>
+            <w lemma="hafa" pos="ssg" xml:id="MINO-R439.1.5.42">haft</w>
+            <w lemma="tóm" pos="nheo" xml:id="MINO-R439.1.5.43">tóm</w>
+            <w lemma="til" pos="aa" xml:id="MINO-R439.1.5.44">til</w>
+            <w lemma="fram" pos="aa" xml:id="MINO-R439.1.5.45">fram</w>
+            <w lemma="að" pos="aþ" xml:id="MINO-R439.1.5.46">að</w>
+            <w lemma="þessi" pos="faheþ" xml:id="MINO-R439.1.5.47">þessu</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.5.48">.</pc>
+            <w lemma="hinn" pos="fakee" xml:id="MINO-R439.1.5.49">Hins</w>
+            <w lemma="vegur" pos="nkee" xml:id="MINO-R439.1.5.50">vegar</w>
+            <w lemma="ef" pos="c" xml:id="MINO-R439.1.5.51">ef</w>
+            <w lemma="svar" pos="nheng" xml:id="MINO-R439.1.5.52">svarið</w>
+            <w lemma="vera" pos="sfg3en" xml:id="MINO-R439.1.5.53">er</w>
+            <w lemma="já" pos="au" xml:id="MINO-R439.1.5.54">já</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.5.55">,</pc>
+            <w lemma="ef" pos="c" xml:id="MINO-R439.1.5.56">ef</w>
+            <w lemma="að" pos="c" xml:id="MINO-R439.1.5.57">að</w>
+            <w lemma="jón" pos="nken-s" xml:id="MINO-R439.1.5.58">Jón</w>
+            <w lemma="steinn" pos="nkeo-s" xml:id="MINO-R439.1.5.59">Steinar</w>
+            <w lemma="verða" pos="svg3eþ" xml:id="MINO-R439.1.5.60">yrði</w>
+            <w lemma="vanhæfur" pos="lkensf" xml:id="MINO-R439.1.5.61">vanhæfur</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R439.1.5.62">í</w>
+            <w lemma="mál" pos="nhfþ" xml:id="MINO-R439.1.5.63">málum</w>
+            <w lemma="maður" pos="nkfe" xml:id="MINO-R439.1.5.64">manna</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.5.65">,</pc>
+            <w lemma="annar" pos="fohen" xml:id="MINO-R439.1.5.66">annað</w>
+            <w lemma="hvor" pos="fohen" xml:id="MINO-R439.1.5.67">hvort</w>
+            <w lemma="sá" pos="fakfe" xml:id="MINO-R439.1.5.68">þeirra</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R439.1.5.69">sem</w>
+            <w lemma="hafa" pos="sfg3fn" xml:id="MINO-R439.1.5.70">hafa</w>
+            <w lemma="skrifa" pos="ssg" xml:id="MINO-R439.1.5.71">skrifað</w>
+            <w lemma="undir" pos="aa" xml:id="MINO-R439.1.5.72">undir</w>
+            <w lemma="eða" pos="c" xml:id="MINO-R439.1.5.73">eða</w>
+            <w lemma="sá" pos="fakfe" xml:id="MINO-R439.1.5.74">þeirra</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R439.1.5.75">sem</w>
+            <w lemma="ekki" pos="aa" xml:id="MINO-R439.1.5.76">ekki</w>
+            <w lemma="hafa" pos="sfg3fn" xml:id="MINO-R439.1.5.77">hafa</w>
+            <w lemma="skrifa" pos="ssg" xml:id="MINO-R439.1.5.78">skrifað</w>
+            <w lemma="undir" pos="aþ" xml:id="MINO-R439.1.5.79">undir</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.5.80">,</pc>
+            <w lemma="að" pos="c" xml:id="MINO-R439.1.5.81">að</w>
+            <w lemma="þá" pos="aa" xml:id="MINO-R439.1.5.82">þá</w>
+            <w lemma="vera" pos="sfg3en" xml:id="MINO-R439.1.5.83">er</w>
+            <w lemma="svar" pos="nheng" xml:id="MINO-R439.1.5.84">svarið</w>
+            <w lemma="einfaldur" pos="lhensf" xml:id="MINO-R439.1.5.85">einfalt</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.5.86">.</pc>
+            <w lemma="þá" pos="aa" xml:id="MINO-R439.1.5.87">Þá</w>
+            <w lemma="vera" pos="sfg3en" xml:id="MINO-R439.1.5.88">er</w>
+            <w lemma="hann" pos="fpken" xml:id="MINO-R439.1.5.89">hann</w>
+            <w lemma="verða" pos="sþgken" xml:id="MINO-R439.1.5.90">orðinn</w>
+            <w lemma="vanhæfur" pos="lkensf" xml:id="MINO-R439.1.5.91">vanhæfur</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R439.1.5.92">í</w>
+            <w lemma="þorri" pos="nkeþ" xml:id="MINO-R439.1.5.93">þorra</w>
+            <w lemma="sá" pos="fahfe" xml:id="MINO-R439.1.5.94">þeirra</w>
+            <w lemma="mál" pos="nhfe" xml:id="MINO-R439.1.5.95">mála</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R439.1.5.96">sem</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R439.1.5.97">að</w>
+            <w lemma="koma" pos="sng" xml:id="MINO-R439.1.5.98">koma</w>
+            <w lemma="fyrir" pos="ao" xml:id="MINO-R439.1.5.99">fyrir</w>
+            <w lemma="réttur" pos="nkeog" xml:id="MINO-R439.1.5.100">réttinn</w>
+            <w lemma="og" pos="c" xml:id="MINO-R439.1.5.101">og</w>
+            <w lemma="þá" pos="aa" xml:id="MINO-R439.1.5.102">þá</w>
+            <w lemma="samkvæmt" pos="aþ" xml:id="MINO-R439.1.5.103">samkvæmt</w>
+            <w lemma="hinn" pos="gveþ" xml:id="MINO-R439.1.5.104">hinni</w>
+            <w lemma="neikvæður" pos="lveþvf" xml:id="MINO-R439.1.5.105">neikvæðu</w>
+            <w lemma="hæfisregla" pos="nveþ" xml:id="MINO-R439.1.5.106">hæfisreglu</w>
+            <w lemma="..." pos="..." xml:id="MINO-R439.1.5.107">...</w>
+            <w lemma="réttur" pos="nkeeg" xml:id="MINO-R439.1.5.108">réttarins</w>
+            <w lemma="að" pos="c" xml:id="MINO-R439.1.5.109">að</w>
+            <w lemma="þá" pos="aa" xml:id="MINO-R439.1.5.110">þá</w>
+            <w lemma="mega" pos="sfg3en" xml:id="MINO-R439.1.5.111">má</w>
+            <w lemma="ekki" pos="aa" xml:id="MINO-R439.1.5.112">ekki</w>
+            <w lemma="skipa" pos="sng" xml:id="MINO-R439.1.5.113">skipa</w>
+            <w lemma="hann" pos="fpken" xml:id="MINO-R439.1.5.114">hann</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.5.115">.</pc>
+          </s>
+          <s xml:id="MINO-R439.1.6">
+            <w lemma="jakob" pos="nken-s" xml:id="MINO-R439.1.6.1">Jakob</w>
+            <w lemma="segja" pos="sfg3en" xml:id="MINO-R439.1.6.2">segir</w>
+            <w lemma="regla" pos="nveog" xml:id="MINO-R439.1.6.3">regluna</w>
+            <w lemma="þá" pos="aa" xml:id="MINO-R439.1.6.4">þá</w>
+            <w lemma="að" pos="c" xml:id="MINO-R439.1.6.5">að</w>
+            <w lemma="ef" pos="c" xml:id="MINO-R439.1.6.6">ef</w>
+            <w lemma="einstaklingur" pos="nken" xml:id="MINO-R439.1.6.7">einstaklingur</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R439.1.6.8">sem</w>
+            <w lemma="sækja" pos="sfg3en" xml:id="MINO-R439.1.6.9">sækir</w>
+            <w lemma="um" pos="ao" xml:id="MINO-R439.1.6.10">um</w>
+            <w lemma="staða" pos="nveo" xml:id="MINO-R439.1.6.11">stöðu</w>
+            <w lemma="verða" pos="svg3en" xml:id="MINO-R439.1.6.12">verði</w>
+            <w lemma="fyrirsjáanlega" pos="aa" xml:id="MINO-R439.1.6.13">fyrirsjáanlega</w>
+            <w lemma="vanhæfur" pos="lkensf" xml:id="MINO-R439.1.6.14">vanhæfur</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R439.1.6.15">í</w>
+            <w lemma="meginhluti" pos="nkeþ" xml:id="MINO-R439.1.6.16">meginhluta</w>
+            <w lemma="verkefni" pos="nhfe" xml:id="MINO-R439.1.6.17">verkefna</w>
+            <w lemma="þá" pos="aa" xml:id="MINO-R439.1.6.18">þá</w>
+            <w lemma="vera" pos="svg3en" xml:id="MINO-R439.1.6.19">sé</w>
+            <w lemma="hann" pos="fpken" xml:id="MINO-R439.1.6.20">hann</w>
+            <w lemma="vanhæfur" pos="lkensf" xml:id="MINO-R439.1.6.21">vanhæfur</w>
+            <w lemma="til" pos="ae" xml:id="MINO-R439.1.6.22">til</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R439.1.6.23">að</w>
+            <w lemma="sinna" pos="sng" xml:id="MINO-R439.1.6.24">sinna</w>
+            <w lemma="starf" pos="nheþg" xml:id="MINO-R439.1.6.25">starfinu</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.6.26">.</pc>
+            <w lemma="þessi" pos="fahen" xml:id="MINO-R439.1.6.27">Þetta</w>
+            <w lemma="hafa" pos="svg3en" xml:id="MINO-R439.1.6.28">hafi</w>
+            <w lemma="vera" pos="ssg" xml:id="MINO-R439.1.6.29">verið</w>
+            <w lemma="staðfesta" pos="sþghen" xml:id="MINO-R439.1.6.30">staðfest</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R439.1.6.31">í</w>
+            <w lemma="hæstarétti" pos="nheþ-s" xml:id="MINO-R439.1.6.32">Hæstarétti</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.6.33">.</pc>
+          </s>
+          <s xml:id="MINO-R439.1.7">
+            <w lemma="en" pos="c" xml:id="MINO-R439.1.7.1">En</w>
+            <w lemma="ef" pos="c" xml:id="MINO-R439.1.7.2">ef</w>
+            <w lemma="að" pos="c" xml:id="MINO-R439.1.7.3">að</w>
+            <w lemma="ráðherra" pos="nkeng" xml:id="MINO-R439.1.7.4">ráðherrann</w>
+            <w lemma="telja" pos="sfg3en" xml:id="MINO-R439.1.7.5">telur</w>
+            <w lemma="ekki" pos="aa" xml:id="MINO-R439.1.7.6">ekki</w>
+            <w lemma="hætta" pos="nveo" xml:id="MINO-R439.1.7.7">hættu</w>
+            <w lemma="af" pos="aþ" xml:id="MINO-R439.1.7.8">af</w>
+            <w lemma="þessi" pos="faheþ" xml:id="MINO-R439.1.7.9">þessu</w>
+            <w lemma="og" pos="c" xml:id="MINO-R439.1.7.10">og</w>
+            <w lemma="munu" pos="svg3eþ" xml:id="MINO-R439.1.7.11">mundi</w>
+            <w lemma="skipa" pos="sng" xml:id="MINO-R439.1.7.12">skipa</w>
+            <w lemma="hann" pos="fpken" xml:id="MINO-R439.1.7.13">hann</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.7.14">,</pc>
+            <w lemma="segja" pos="sfg1fn" xml:id="MINO-R439.1.7.15">segjum</w>
+            <w lemma="sem" pos="c" xml:id="MINO-R439.1.7.16">sem</w>
+            <w lemma="svo" pos="aa" xml:id="MINO-R439.1.7.17">svo</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.7.18">,</pc>
+            <w lemma="fá" pos="ssm" xml:id="MINO-R439.1.7.19">fengist</w>
+            <w lemma="þá" pos="aa" xml:id="MINO-R439.1.7.20">þá</w>
+            <w lemma="nokkur" pos="fohen" xml:id="MINO-R439.1.7.21">nokkuð</w>
+            <w lemma="úr" pos="aþ" xml:id="MINO-R439.1.7.22">úr</w>
+            <w lemma="þessi" pos="faheþ" xml:id="MINO-R439.1.7.23">þessu</w>
+            <w lemma="skera" pos="ssg" xml:id="MINO-R439.1.7.24">skorið</w>
+            <w lemma="fyrr" pos="aam" xml:id="MINO-R439.1.7.25">fyrr</w>
+            <w lemma="en" pos="c" xml:id="MINO-R439.1.7.26">en</w>
+            <w lemma="að" pos="aþ" xml:id="MINO-R439.1.7.27">að</w>
+            <w lemma="einhver" pos="foheþ" xml:id="MINO-R439.1.7.28">einhverju</w>
+            <w lemma="leyti" pos="nheþ" xml:id="MINO-R439.1.7.29">leyti</w>
+            <w lemma="á" pos="ao" xml:id="MINO-R439.1.7.30">á</w>
+            <w lemma="þessi" pos="faheo" xml:id="MINO-R439.1.7.31">þetta</w>
+            <w lemma="reyna" pos="sfg1en" xml:id="MINO-R439.1.7.32">reyni</w>
+            <w lemma="svo" pos="aa" xml:id="MINO-R439.1.7.33">svo</w>
+            <w lemma="fyrir" pos="ao" xml:id="MINO-R439.1.7.34">fyrir</w>
+            <w lemma="hæstaréttur" pos="nkeþ" xml:id="MINO-R439.1.7.35">Hæstarétti</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.7.36">?</pc>
+          </s>
+          <s xml:id="MINO-R439.1.8">
+            <w lemma="nei" pos="au" xml:id="MINO-R439.1.8.1">Nei</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.8.2">,</pc>
+            <w lemma="þá" pos="aa" xml:id="MINO-R439.1.8.3">þá</w>
+            <w lemma="munu" pos="svg3eþ" xml:id="MINO-R439.1.8.4">mundi</w>
+            <w lemma="reyna" pos="sng" xml:id="MINO-R439.1.8.5">reyna</w>
+            <w lemma="á" pos="ao" xml:id="MINO-R439.1.8.6">á</w>
+            <w lemma="þessi" pos="faheo" xml:id="MINO-R439.1.8.7">þetta</w>
+            <w lemma="fyrir" pos="ao" xml:id="MINO-R439.1.8.8">fyrir</w>
+            <w lemma="hæstaréttur" pos="nkeþ" xml:id="MINO-R439.1.8.9">Hæstarétti</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.8.10">.</pc>
+          </s>
+          <s xml:id="MINO-R439.1.9">
+            <w lemma="jón" pos="nken-s" xml:id="MINO-R439.1.9.1">Jón</w>
+            <w lemma="steinn" pos="nkeo-s" xml:id="MINO-R439.1.9.2">Steinar</w>
+            <w lemma="gunnlaugsson" pos="nken-s" xml:id="MINO-R439.1.9.3">Gunnlaugsson</w>
+            <w lemma="vilja" pos="sfg3eþ" xml:id="MINO-R439.1.9.4">vildi</w>
+            <w lemma="ekki" pos="aa" xml:id="MINO-R439.1.9.5">ekki</w>
+            <w lemma="koma" pos="sng" xml:id="MINO-R439.1.9.6">koma</w>
+            <w lemma="í" pos="ao" xml:id="MINO-R439.1.9.7">í</w>
+            <w lemma="viðtal" pos="nheo" xml:id="MINO-R439.1.9.8">viðtal</w>
+            <w lemma="um" pos="ao" xml:id="MINO-R439.1.9.9">um</w>
+            <w lemma="þessi" pos="faheo" xml:id="MINO-R439.1.9.10">þetta</w>
+            <w lemma="mál" pos="nheo" xml:id="MINO-R439.1.9.11">mál</w>
+            <w lemma="í" pos="ao" xml:id="MINO-R439.1.9.12">í</w>
+            <w lemma="dagur" pos="nkeo" xml:id="MINO-R439.1.9.13">dag</w>
+            <w lemma="þegar" pos="c" xml:id="MINO-R439.1.9.14">þegar</w>
+            <w lemma="fréttastofa" pos="nveng" xml:id="MINO-R439.1.9.15">fréttastofan</w>
+            <w lemma="leita" pos="sfg3eþ" xml:id="MINO-R439.1.9.16">leitaði</w>
+            <w lemma="eftir" pos="aþ" xml:id="MINO-R439.1.9.17">eftir</w>
+            <w lemma="það" pos="fpheþ" xml:id="MINO-R439.1.9.18">því</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.9.19">.</pc>
+            <w lemma="hann" pos="fpken" xml:id="MINO-R439.1.9.20">Hann</w>
+            <w lemma="staðfesta" pos="sfg3eþ" xml:id="MINO-R439.1.9.21">staðfesti</w>
+            <w lemma="þó" pos="aa" xml:id="MINO-R439.1.9.22">þó</w>
+            <w lemma="að" pos="c" xml:id="MINO-R439.1.9.23">að</w>
+            <w lemma="hann" pos="fpken" xml:id="MINO-R439.1.9.24">hann</w>
+            <w lemma="hafa" pos="svg3en" xml:id="MINO-R439.1.9.25">hafi</w>
+            <w lemma="senda" pos="ssg" xml:id="MINO-R439.1.9.26">sent</w>
+            <w lemma="settur" pos="lhfþsf" xml:id="MINO-R439.1.9.27">settum</w>
+            <w lemma="dómsmálaráðherra" pos="nken" xml:id="MINO-R439.1.9.28">dómsmálaráðherra</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.9.29">,</pc>
+            <w lemma="geir" pos="nken-s" xml:id="MINO-R439.1.9.30">Geir</w>
+            <w lemma="h." pos="nken-s" xml:id="MINO-R439.1.9.31">H.</w>
+            <w lemma="haarde" pos="nken-s" xml:id="MINO-R439.1.9.32">Haarde</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.9.33">,</pc>
+            <w lemma="greinargerð" pos="nveþ" xml:id="MINO-R439.1.9.34">greinargerð</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R439.1.9.35">sem</w>
+            <w lemma="svar" pos="nheþ" xml:id="MINO-R439.1.9.36">svari</w>
+            <w lemma="umsögn" pos="nven" xml:id="MINO-R439.1.9.37">umsögn</w>
+            <w lemma="hæstiréttur" pos="nkee-s" xml:id="MINO-R439.1.9.38">Hæstaréttar</w>
+            <w lemma="um" pos="ao" xml:id="MINO-R439.1.9.39">um</w>
+            <w lemma="umsækjandi" pos="nkfo" xml:id="MINO-R439.1.9.40">umsækjendur</w>
+            <w lemma="um" pos="ao" xml:id="MINO-R439.1.9.41">um</w>
+            <w lemma="staða" pos="nveo" xml:id="MINO-R439.1.9.42">stöðu</w>
+            <w lemma="hæstaréttardómari" pos="nkee" xml:id="MINO-R439.1.9.43">hæstaréttardómara</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.9.44">.</pc>
+            <w lemma="sveinn" pos="nken" xml:id="MINO-R439.1.9.45">Sveinn</w>
+            <w lemma="andri" pos="nken-s" xml:id="MINO-R439.1.9.46">Andri</w>
+            <w lemma="sveinsson" pos="nken-s" xml:id="MINO-R439.1.9.47">Sveinsson</w>
+            <w lemma="segja" pos="sfg3en" xml:id="MINO-R439.1.9.48">segir</w>
+            <w lemma="að" pos="c" xml:id="MINO-R439.1.9.49">að</w>
+            <w lemma="söfnun" pos="nveþ" xml:id="MINO-R439.1.9.50">söfnun</w>
+            <w lemma="undirskrift" pos="nvfe" xml:id="MINO-R439.1.9.51">undirskrifta</w>
+            <w lemma="til" pos="ae" xml:id="MINO-R439.1.9.52">til</w>
+            <w lemma="stuðningur" pos="nkee" xml:id="MINO-R439.1.9.53">stuðnings</w>
+            <w lemma="jón" pos="nkeþ-s" xml:id="MINO-R439.1.9.54">Jóni</w>
+            <w lemma="steinarur" pos="nkeþ-s" xml:id="MINO-R439.1.9.55">Steinari</w>
+            <w lemma="vera" pos="svg3en" xml:id="MINO-R439.1.9.56">sé</w>
+            <w lemma="ljúka" pos="sþghen" xml:id="MINO-R439.1.9.57">lokið</w>
+            <w lemma="og" pos="c" xml:id="MINO-R439.1.9.58">og</w>
+            <w lemma="um" pos="ao" xml:id="MINO-R439.1.9.59">um</w>
+            <w lemma="120" pos="ta" xml:id="MINO-R439.1.9.60">120</w>
+            <w lemma="lögmaður" pos="nkfn" xml:id="MINO-R439.1.9.61">lögmenn</w>
+            <w lemma="hafa" pos="svg3fn" xml:id="MINO-R439.1.9.62">hafi</w>
+            <w lemma="skrifa" pos="ssg" xml:id="MINO-R439.1.9.63">skrifað</w>
+            <w lemma="undir" pos="aa" xml:id="MINO-R439.1.9.64">undir</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.9.65">.</pc>
+            <w lemma="listi" pos="nkeþg" xml:id="MINO-R439.1.9.66">Listanum</w>
+            <w lemma="verða" pos="svg3en" xml:id="MINO-R439.1.9.67">verði</w>
+            <w lemma="skila" pos="sþghen" xml:id="MINO-R439.1.9.68">skilað</w>
+            <w lemma="til" pos="ae" xml:id="MINO-R439.1.9.69">til</w>
+            <w lemma="settur" pos="lkeesf" xml:id="MINO-R439.1.9.70">setts</w>
+            <w lemma="dómsmálaráðherra" pos="nkee" xml:id="MINO-R439.1.9.71">dómsmálaráðherra</w>
+            <w lemma="eftir" pos="aþ" xml:id="MINO-R439.1.9.72">eftir</w>
+            <w lemma="helgi" pos="nveþ" xml:id="MINO-R439.1.9.73">helgi</w>
+            <w lemma="og" pos="c" xml:id="MINO-R439.1.9.74">og</w>
+            <w lemma="það" pos="fphen" xml:id="MINO-R439.1.9.75">það</w>
+            <w lemma="vera" pos="svg3en" xml:id="MINO-R439.1.9.76">sé</w>
+            <w lemma="hann" pos="fpkee" xml:id="MINO-R439.1.9.77">hans</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R439.1.9.78">að</w>
+            <w lemma="ákveða" pos="sng" xml:id="MINO-R439.1.9.79">ákveða</w>
+            <w lemma="hvort" pos="c" xml:id="MINO-R439.1.9.80">hvort</w>
+            <w lemma="listi" pos="nkeng" xml:id="MINO-R439.1.9.81">listinn</w>
+            <w lemma="verða" pos="svg3en" xml:id="MINO-R439.1.9.82">verði</w>
+            <w lemma="gera" pos="sþgken" xml:id="MINO-R439.1.9.83">gerður</w>
+            <w lemma="opinber" pos="lhfnsf" xml:id="MINO-R439.1.9.84">opinber</w>
+            <pc pos="punctuation" xml:id="MINO-R439.1.9.85">.</pc>
+          </s>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

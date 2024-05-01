@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MINO-R1BC" xml:lang="is">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Áskriftargjöld</title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</orgName>
+          <orgName xml:lang="en">Árni Magnússon Institute for Icelandic Studies</orgName>
+        </publisher>
+        <availability status="restricted">
+        <licence>https://repository.clarin.is/licenses/userlicense_igc_restricted_download_en.pdf</licence>
+        <p xml:lang="is">Þessi texti er gefinn út með <ref target="https://repository.clarin.is/licenses/userlicense_igc_restricted_download_en.pdf">IGC - restricted licence</ref>.</p>
+        <p xml:lang="en">This work is licensed under the <ref target="https://repository.clarin.is/licenses/userlicense_igc_restricted_download_en.pdf">IGC - restricted licence</ref>.</p>
+      </availability>
+      <date when="2022-07-01">2022-07-01</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <title>Áskriftargjöld</title>
+            <author>Þulur</author>
+            <imprint>
+              <publisher>ríkisútvarpið</publisher>
+              <date when="2003-09-17">2003-09-17</date>
+              <time from="12:20:00"/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="1"/>
+          <tagUsage gi="w" occurs="66"/>
+          <tagUsage gi="c" occurs="7"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p xml:id="MINO-R1BC.1">
+          <s xml:id="MINO-R1BC.1.1">
+            <w lemma="áskriftargjald" pos="nhfn" xml:id="MINO-R1BC.1.1.1">Áskriftargjöld</w>
+            <w lemma="íslenskur" pos="lheevf" xml:id="MINO-R1BC.1.1.2">Íslenska</w>
+            <w lemma="útvarpsfélag" pos="nheeg" xml:id="MINO-R1BC.1.1.3">útvarpsfélagsins</w>
+            <w lemma="sem" pos="ct" xml:id="MINO-R1BC.1.1.4">sem</w>
+            <w lemma="m.a." pos="as" xml:id="MINO-R1BC.1.1.5">m.a.</w>
+            <w lemma="reka" pos="sfg3en" xml:id="MINO-R1BC.1.1.6">rekur</w>
+            <w lemma="stöð" pos="nveo-s" xml:id="MINO-R1BC.1.1.7">Stöð</w>
+            <w lemma="2" pos="ta" xml:id="MINO-R1BC.1.1.8">2</w>
+            <w lemma="og" pos="c" xml:id="MINO-R1BC.1.1.9">og</w>
+            <w lemma="sýn" pos="nven" xml:id="MINO-R1BC.1.1.10">Sýn</w>
+            <pc pos="punctuation" xml:id="MINO-R1BC.1.1.11">,</pc>
+            <w lemma="hækka" pos="sng" xml:id="MINO-R1BC.1.1.12">hækka</w>
+            <w lemma="um" pos="ao" xml:id="MINO-R1BC.1.1.13">um</w>
+            <w lemma="nærri" pos="lveþve" xml:id="MINO-R1BC.1.1.14">næstu</w>
+            <w lemma="mánaðamót" pos="nhfo" xml:id="MINO-R1BC.1.1.15">mánaðamót</w>
+            <w lemma="að" pos="aþ" xml:id="MINO-R1BC.1.1.16">að</w>
+            <w lemma="meðaltal" pos="nheþ" xml:id="MINO-R1BC.1.1.17">meðaltali</w>
+            <w lemma="um" pos="ao" xml:id="MINO-R1BC.1.1.18">um</w>
+            <w lemma="3,3%" pos="ta" xml:id="MINO-R1BC.1.1.19">3,3%</w>
+            <pc pos="punctuation" xml:id="MINO-R1BC.1.1.20">.</pc>
+            <w lemma="ástæða" pos="nveng" xml:id="MINO-R1BC.1.1.21">Ástæðan</w>
+            <w lemma="vera" pos="sfg3en" xml:id="MINO-R1BC.1.1.22">er</w>
+            <pc pos="punctuation" xml:id="MINO-R1BC.1.1.23">,</pc>
+            <w lemma="samkvæmt" pos="aþ" xml:id="MINO-R1BC.1.1.24">samkvæmt</w>
+            <w lemma="fréttatilkynning" pos="nveþ" xml:id="MINO-R1BC.1.1.25">fréttatilkynningu</w>
+            <w lemma="að" pos="c" xml:id="MINO-R1BC.1.1.26">að</w>
+            <w lemma="innkaupsverð" pos="nhen" xml:id="MINO-R1BC.1.1.27">innkaupsverð</w>
+            <w lemma="þáttaröð" pos="nvfe" xml:id="MINO-R1BC.1.1.28">þáttaraða</w>
+            <w lemma="kvikmynd" pos="nvfe" xml:id="MINO-R1BC.1.1.29">kvikmynda</w>
+            <w lemma="og" pos="c" xml:id="MINO-R1BC.1.1.30">og</w>
+            <w lemma="íþróttaefni" pos="nhee" xml:id="MINO-R1BC.1.1.31">íþróttaefnis</w>
+            <w lemma="hafa" pos="sfg3en" xml:id="MINO-R1BC.1.1.32">hefur</w>
+            <w lemma="hækka" pos="ssg" xml:id="MINO-R1BC.1.1.33">hækkað</w>
+            <w lemma="að" pos="aþ" xml:id="MINO-R1BC.1.1.34">að</w>
+            <w lemma="undanfarinn" pos="lheþsf" xml:id="MINO-R1BC.1.1.35">undanförnu</w>
+            <pc pos="punctuation" xml:id="MINO-R1BC.1.1.36">.</pc>
+            <w lemma="nú" pos="aa" xml:id="MINO-R1BC.1.1.37">Nú</w>
+            <w lemma="kosta" pos="sfg3en" xml:id="MINO-R1BC.1.1.38">kostar</w>
+            <w lemma="einfaldur" pos="lvensf" xml:id="MINO-R1BC.1.1.39">einföld</w>
+            <w lemma="nýr" pos="lvensf" xml:id="MINO-R1BC.1.1.40">ný</w>
+            <w lemma="áskrift" pos="nven" xml:id="MINO-R1BC.1.1.41">áskrift</w>
+            <w lemma="að" pos="aþ" xml:id="MINO-R1BC.1.1.42">að</w>
+            <w lemma="stöð" pos="nveþ-s" xml:id="MINO-R1BC.1.1.43">Stöð</w>
+            <w lemma="2" pos="ta" xml:id="MINO-R1BC.1.1.44">2</w>
+            <w lemma="rúmlega" pos="aa" xml:id="MINO-R1BC.1.1.45">rúmlega</w>
+            <w lemma="4.200" pos="ta" xml:id="MINO-R1BC.1.1.46">4.200</w>
+            <w lemma="króna" pos="nvfo" xml:id="MINO-R1BC.1.1.47">krónur</w>
+            <pc pos="punctuation" xml:id="MINO-R1BC.1.1.48">.</pc>
+            <w lemma="gamall" pos="lkfnvm" xml:id="MINO-R1BC.1.1.49">Eldri</w>
+            <w lemma="áskrifandi" pos="nkfn" xml:id="MINO-R1BC.1.1.50">áskrifendur</w>
+            <w lemma="greiða" pos="sfg3fn" xml:id="MINO-R1BC.1.1.51">greiða</w>
+            <w lemma="rétt" pos="aa" xml:id="MINO-R1BC.1.1.52">rétt</w>
+            <w lemma="innan" pos="aa" xml:id="MINO-R1BC.1.1.53">innan</w>
+            <w lemma="við" pos="ao" xml:id="MINO-R1BC.1.1.54">við</w>
+            <w lemma="4" pos="ta" xml:id="MINO-R1BC.1.1.55">4</w>
+            <w lemma="þúsund" pos="tfvfo" xml:id="MINO-R1BC.1.1.56">þúsund</w>
+            <w lemma="króna" pos="nvfo" xml:id="MINO-R1BC.1.1.57">krónur</w>
+            <pc pos="punctuation" xml:id="MINO-R1BC.1.1.58">.</pc>
+            <w lemma="afnotagjald" pos="nhen" xml:id="MINO-R1BC.1.1.59">Afnotagjald</w>
+            <w lemma="ríkisútvarp" pos="nheegs" xml:id="MINO-R1BC.1.1.60">Ríkisútvarpsins</w>
+            <w lemma="vera" pos="sfg3en" xml:id="MINO-R1BC.1.1.61">er</w>
+            <w lemma="2.400" pos="ta" xml:id="MINO-R1BC.1.1.62">2.400</w>
+            <w lemma="króna" pos="nvfo" xml:id="MINO-R1BC.1.1.63">krónur</w>
+            <w lemma="á" pos="aþ" xml:id="MINO-R1BC.1.1.64">á</w>
+            <w lemma="mánuður" pos="nkeþ" xml:id="MINO-R1BC.1.1.65">mánuði</w>
+            <w lemma="og" pos="c" xml:id="MINO-R1BC.1.1.66">og</w>
+            <w lemma="mánaðaráskrift" pos="nveþ" xml:id="MINO-R1BC.1.1.67">mánaðaráskrift</w>
+            <w lemma="að" pos="aþ" xml:id="MINO-R1BC.1.1.68">að</w>
+            <w lemma="morgunblað" pos="nheþgs" xml:id="MINO-R1BC.1.1.69">Morgunblaðinu</w>
+            <w lemma="kosta" pos="sfg3en" xml:id="MINO-R1BC.1.1.70">kostar</w>
+            <w lemma="2.100" pos="ta" xml:id="MINO-R1BC.1.1.71">2.100</w>
+            <w lemma="króna" pos="nvfo" xml:id="MINO-R1BC.1.1.72">krónur</w>
+            <pc pos="punctuation" xml:id="MINO-R1BC.1.1.73">.</pc>
+          </s>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

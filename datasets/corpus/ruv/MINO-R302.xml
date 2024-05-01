@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MINO-R302" xml:lang="is">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sjómannahelgi</title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</orgName>
+          <orgName xml:lang="en">Árni Magnússon Institute for Icelandic Studies</orgName>
+        </publisher>
+        <availability status="restricted">
+        <licence>https://repository.clarin.is/licenses/userlicense_igc_restricted_download_en.pdf</licence>
+        <p xml:lang="is">Þessi texti er gefinn út með <ref target="https://repository.clarin.is/licenses/userlicense_igc_restricted_download_en.pdf">IGC - restricted licence</ref>.</p>
+        <p xml:lang="en">This work is licensed under the <ref target="https://repository.clarin.is/licenses/userlicense_igc_restricted_download_en.pdf">IGC - restricted licence</ref>.</p>
+      </availability>
+      <date when="2022-07-01">2022-07-01</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <title>Sjómannahelgi</title>
+            <author>Jóhann Hauksson</author>
+            <imprint>
+              <publisher>sjónvarpið</publisher>
+              <date when="2000-06-04">2000-06-04</date>
+              <time from="19:00:00"/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="2"/>
+          <tagUsage gi="w" occurs="153"/>
+          <tagUsage gi="c" occurs="17"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p xml:id="MINO-R302.1">
+          <s xml:id="MINO-R302.1.1">
+            <w lemma="þá" pos="nveo-s" xml:id="MINO-R302.1.1.1">Þá</w>
+            <w lemma="vík" pos="nvfo" xml:id="MINO-R302.1.1.2">víkur</w>
+            <w lemma="saga" pos="nveþg" xml:id="MINO-R302.1.1.3">sögunni</w>
+            <w lemma="til" pos="ae" xml:id="MINO-R302.1.1.4">til</w>
+            <w lemma="austfirðir" pos="nkfe-s" xml:id="MINO-R302.1.1.5">Austfjarða</w>
+            <w lemma="en" pos="c" xml:id="MINO-R302.1.1.6">en</w>
+            <w lemma="þar" pos="aa" xml:id="MINO-R302.1.1.7">þar</w>
+            <w lemma="vera" pos="svg3eþ" xml:id="MINO-R302.1.1.8">væri</w>
+            <w lemma="sumur" pos="fohfn" xml:id="MINO-R302.1.1.9">sum</w>
+            <w lemma="staður" pos="nkee" xml:id="MINO-R302.1.1.10">staðar</w>
+            <w lemma="nærri" pos="aþm" xml:id="MINO-R302.1.1.11">nær</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R302.1.1.12">að</w>
+            <w lemma="tala" pos="sng" xml:id="MINO-R302.1.1.13">tala</w>
+            <w lemma="um" pos="ao" xml:id="MINO-R302.1.1.14">um</w>
+            <w lemma="sjómannahelgi" pos="nveo" xml:id="MINO-R302.1.1.15">sjómannahelgi</w>
+            <w lemma="en" pos="c" xml:id="MINO-R302.1.1.16">en</w>
+            <w lemma="ekki" pos="aa" xml:id="MINO-R302.1.1.17">ekki</w>
+            <w lemma="sjómannadagur" pos="nkeo" xml:id="MINO-R302.1.1.18">sjómannadag</w>
+            <pc pos="punctuation" xml:id="MINO-R302.1.1.19">.</pc>
+          </s>
+          <s xml:id="MINO-R302.1.2">
+            <w lemma="austfirðingur" pos="nkfn-s" xml:id="MINO-R302.1.2.1">Austfirðingar</w>
+            <w lemma="láta" pos="sng" xml:id="MINO-R302.1.2.2">láta</w>
+            <w lemma="sinn" pos="feheo" xml:id="MINO-R302.1.2.3">sitt</w>
+            <w lemma="ekki" pos="aa" xml:id="MINO-R302.1.2.4">ekki</w>
+            <w lemma="eftir" pos="aa" xml:id="MINO-R302.1.2.5">eftir</w>
+            <w lemma="liggja" pos="sng" xml:id="MINO-R302.1.2.6">liggja</w>
+            <w lemma="á" pos="aþ" xml:id="MINO-R302.1.2.7">á</w>
+            <w lemma="dagur" pos="nkeþ" xml:id="MINO-R302.1.2.8">degi</w>
+            <w lemma="sjómaður" pos="nkfe" xml:id="MINO-R302.1.2.9">sjómanna</w>
+            <w lemma="og" pos="c" xml:id="MINO-R302.1.2.10">og</w>
+            <w lemma="hefja" pos="sfm3fþ" xml:id="MINO-R302.1.2.11">hófust</w>
+            <w lemma="hátíðarhald" pos="nhfn" xml:id="MINO-R302.1.2.12">hátíðarhöld</w>
+            <w lemma="sumur" pos="fokee" xml:id="MINO-R302.1.2.13">sums</w>
+            <w lemma="staður" pos="nkee" xml:id="MINO-R302.1.2.14">staðar</w>
+            <w lemma="þegar" pos="c" xml:id="MINO-R302.1.2.15">þegar</w>
+            <w lemma="á" pos="aþ" xml:id="MINO-R302.1.2.16">á</w>
+            <w lemma="föstudagur" pos="nkeo" xml:id="MINO-R302.1.2.17">föstudag</w>
+            <w lemma="eins" pos="aa" xml:id="MINO-R302.1.2.18">eins</w>
+            <w lemma="og" pos="c" xml:id="MINO-R302.1.2.19">og</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R302.1.2.20">í</w>
+            <w lemma="neskaupstaður" pos="nkeþ-s" xml:id="MINO-R302.1.2.21">Neskaupstað</w>
+            <pc pos="punctuation" xml:id="MINO-R302.1.2.22">.</pc>
+            <w lemma="sex" pos="tfkfn" xml:id="MINO-R302.1.2.23">Sex</w>
+            <w lemma="um" pos="ao" xml:id="MINO-R302.1.2.24">um</w>
+            <w lemma="morgunn" pos="nkeog" xml:id="MINO-R302.1.2.25">morguninn</w>
+            <w lemma="róa" pos="sfg3fþ" xml:id="MINO-R302.1.2.26">réru</w>
+            <w lemma="38" pos="ta" xml:id="MINO-R302.1.2.27">38</w>
+            <w lemma="keppandi" pos="nkfn" xml:id="MINO-R302.1.2.28">keppendur</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R302.1.2.29">í</w>
+            <w lemma="sjóstangaveiðimóti" pos="nheþ" xml:id="MINO-R302.1.2.30">sjóstangaveiðimóti</w>
+            <pc pos="punctuation" xml:id="MINO-R302.1.2.31">,</pc>
+            <w lemma="út" pos="aa" xml:id="MINO-R302.1.2.32">út</w>
+            <w lemma="á" pos="ao" xml:id="MINO-R302.1.2.33">á</w>
+            <w lemma="norðfjarðarflói" pos="nkeogs" xml:id="MINO-R302.1.2.34">Norðfjarðarflóann</w>
+            <w lemma="á" pos="aþ" xml:id="MINO-R302.1.2.35">á</w>
+            <w lemma="12" pos="ta" xml:id="MINO-R302.1.2.36">12</w>
+            <w lemma="bátur" pos="nkfþ" xml:id="MINO-R302.1.2.37">bátum</w>
+            <pc pos="punctuation" xml:id="MINO-R302.1.2.38">.</pc>
+            <w lemma="keppni" pos="nveng" xml:id="MINO-R302.1.2.39">Keppnin</w>
+            <w lemma="vera" pos="sfg3en" xml:id="MINO-R302.1.2.40">er</w>
+            <w lemma="árlegur" pos="lkensf" xml:id="MINO-R302.1.2.41">árlegur</w>
+            <w lemma="viðburður" pos="nken" xml:id="MINO-R302.1.2.42">viðburður</w>
+            <w lemma="og" pos="c" xml:id="MINO-R302.1.2.43">og</w>
+            <w lemma="liður" pos="nken" xml:id="MINO-R302.1.2.44">liður</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R302.1.2.45">í</w>
+            <w lemma="keppn" pos="nveþg" xml:id="MINO-R302.1.2.46">keppninni</w>
+            <w lemma="um" pos="ao" xml:id="MINO-R302.1.2.47">um</w>
+            <w lemma="íslandssmeistaratitilur" pos="nkeog" xml:id="MINO-R302.1.2.48">Íslandssmeistaratitilinn</w>
+            <pc pos="punctuation" xml:id="MINO-R302.1.2.49">.</pc>
+            <w lemma="arnþór" pos="nken-s" xml:id="MINO-R302.1.2.50">Arnþór</w>
+            <w lemma="sigurðsson" pos="nken-s" xml:id="MINO-R302.1.2.51">Sigurðsson</w>
+            <pc pos="punctuation" xml:id="MINO-R302.1.2.52">,</pc>
+            <w lemma="úr" pos="aþ" xml:id="MINO-R302.1.2.53">úr</w>
+            <w lemma="vestmannaeyjar" pos="nvfþ-s" xml:id="MINO-R302.1.2.54">Vestmannaeyjum</w>
+            <w lemma="bera" pos="sfg3eþ" xml:id="MINO-R302.1.2.55">bar</w>
+            <w lemma="sigur" pos="nken" xml:id="MINO-R302.1.2.56">sigur</w>
+            <w lemma="úr" pos="aþ" xml:id="MINO-R302.1.2.57">úr</w>
+            <w lemma="bíti" pos="nhfþ" xml:id="MINO-R302.1.2.58">bítum</w>
+            <w lemma="eftir" pos="aþ" xml:id="MINO-R302.1.2.59">eftir</w>
+            <w lemma="2" pos="ta" xml:id="MINO-R302.1.2.60">2</w>
+            <w lemma="dagur" pos="nkfo" xml:id="MINO-R302.1.2.61">daga</w>
+            <w lemma="fiskerí" pos="nheo" xml:id="MINO-R302.1.2.62">fiskerí</w>
+            <pc pos="punctuation" xml:id="MINO-R302.1.2.63">,</pc>
+            <w lemma="með" pos="ao" xml:id="MINO-R302.1.2.64">með</w>
+            <w lemma="tæpur" pos="lhfosf" xml:id="MINO-R302.1.2.65">tæp</w>
+            <w lemma="410" pos="ta" xml:id="MINO-R302.1.2.66">410</w>
+            <w lemma="kíló" pos="nhfo" xml:id="MINO-R302.1.2.67">kíló</w>
+            <pc pos="punctuation" xml:id="MINO-R302.1.2.68">.</pc>
+            <w lemma="þessi" pos="favfn" xml:id="MINO-R302.1.2.69">Þessar</w>
+            <w lemma="mynd" pos="nvfn" xml:id="MINO-R302.1.2.70">myndir</w>
+            <w lemma="vera" pos="sfg3fn" xml:id="MINO-R302.1.2.71">eru</w>
+            <w lemma="frá" pos="aþ" xml:id="MINO-R302.1.2.72">frá</w>
+            <w lemma="fjarðabyggð" pos="nveþ-s" xml:id="MINO-R302.1.2.73">Fjarðabyggð</w>
+            <w lemma="en" pos="c" xml:id="MINO-R302.1.2.74">en</w>
+            <w lemma="þar" pos="aa" xml:id="MINO-R302.1.2.75">þar</w>
+            <w lemma="vera" pos="sfg3fn" xml:id="MINO-R302.1.2.76">eru</w>
+            <w lemma="fáni" pos="nkfn" xml:id="MINO-R302.1.2.77">fánar</w>
+            <w lemma="draga" pos="sþgkfn" xml:id="MINO-R302.1.2.78">dregnir</w>
+            <w lemma="að" pos="aþ" xml:id="MINO-R302.1.2.79">að</w>
+            <w lemma="húnur" pos="nkeþ" xml:id="MINO-R302.1.2.80">húni</w>
+            <pc pos="punctuation" xml:id="MINO-R302.1.2.81">,</pc>
+            <w lemma="kappróður" pos="nken" xml:id="MINO-R302.1.2.82">kappróður</w>
+            <pc pos="punctuation" xml:id="MINO-R302.1.2.83">,</pc>
+            <w lemma="stakkasund" pos="nhen" xml:id="MINO-R302.1.2.84">stakkasund</w>
+            <pc pos="punctuation" xml:id="MINO-R302.1.2.85">,</pc>
+            <w lemma="reiptog" pos="nhen" xml:id="MINO-R302.1.2.86">reiptog</w>
+            <w lemma="og" pos="c" xml:id="MINO-R302.1.2.87">og</w>
+            <w lemma="blöðruslagur" pos="nken" xml:id="MINO-R302.1.2.88">blöðruslagur</w>
+            <w lemma="vera" pos="sfg3fn" xml:id="MINO-R302.1.2.89">eru</w>
+            <w lemma="fastur" pos="lkfnsf" xml:id="MINO-R302.1.2.90">fastir</w>
+            <w lemma="liður" pos="nkfn" xml:id="MINO-R302.1.2.91">liðir</w>
+            <pc pos="punctuation" xml:id="MINO-R302.1.2.92">.</pc>
+            <w lemma="þessi" pos="faken" xml:id="MINO-R302.1.2.93">Þessi</w>
+            <w lemma="norðfirðingur" pos="nken-s" xml:id="MINO-R302.1.2.94">Norðfirðingur</w>
+            <w lemma="bregða" pos="sfg3eþ" xml:id="MINO-R302.1.2.95">brá</w>
+            <w lemma="sig" pos="fpkeþ" xml:id="MINO-R302.1.2.96">sér</w>
+            <w lemma="ekki" pos="aa" xml:id="MINO-R302.1.2.97">ekki</w>
+            <w lemma="á" pos="aþ" xml:id="MINO-R302.1.2.98">á</w>
+            <w lemma="sjóskíði" pos="nheo" xml:id="MINO-R302.1.2.99">sjóskíði</w>
+            <w lemma="heldur" pos="c" xml:id="MINO-R302.1.2.100">heldur</w>
+            <w lemma="bruna" pos="sfg3eþ" xml:id="MINO-R302.1.2.101">brunaði</w>
+            <w lemma="eftir" pos="aþ" xml:id="MINO-R302.1.2.102">eftir</w>
+            <w lemma="haffletur" pos="nkeþg" xml:id="MINO-R302.1.2.103">haffletinum</w>
+            <w lemma="á" pos="aþ" xml:id="MINO-R302.1.2.104">á</w>
+            <w lemma="venjulegur" pos="lkeþsf" xml:id="MINO-R302.1.2.105">venjulegum</w>
+            <w lemma="sleði" pos="nkeþ" xml:id="MINO-R302.1.2.106">sleða</w>
+            <w lemma="með" pos="aþ" xml:id="MINO-R302.1.2.107">með</w>
+            <w lemma="stýri" pos="nheþ" xml:id="MINO-R302.1.2.108">stýri</w>
+            <pc pos="punctuation" xml:id="MINO-R302.1.2.109">,</pc>
+            <w lemma="draga" pos="sþgken" xml:id="MINO-R302.1.2.110">dreginn</w>
+            <w lemma="af" pos="aþ" xml:id="MINO-R302.1.2.111">af</w>
+            <w lemma="hraðbátur" pos="nkeþ" xml:id="MINO-R302.1.2.112">hraðbáti</w>
+            <pc pos="punctuation" xml:id="MINO-R302.1.2.113">.</pc>
+            <w lemma="hátíðarhöldi" pos="nhfng" xml:id="MINO-R302.1.2.114">Hátíðarhöldin</w>
+            <w lemma="hefja" pos="sfm3fþ" xml:id="MINO-R302.1.2.115">hófust</w>
+            <w lemma="víða" pos="aa" xml:id="MINO-R302.1.2.116">víða</w>
+            <w lemma="á" pos="aþ" xml:id="MINO-R302.1.2.117">á</w>
+            <w lemma="austfirðir" pos="nkfþ-s" xml:id="MINO-R302.1.2.118">Austfjörðum</w>
+            <w lemma="í" pos="ao" xml:id="MINO-R302.1.2.119">í</w>
+            <w lemma="morgunn" pos="nkeo" xml:id="MINO-R302.1.2.120">morgun</w>
+            <w lemma="með" pos="aþ" xml:id="MINO-R302.1.2.121">með</w>
+            <w lemma="messa" pos="nveþ" xml:id="MINO-R302.1.2.122">messu</w>
+            <pc pos="punctuation" xml:id="MINO-R302.1.2.123">.</pc>
+            <w lemma="á" pos="aþ" xml:id="MINO-R302.1.2.124">Á</w>
+            <w lemma="eskifjörður" pos="nkeþ-s" xml:id="MINO-R302.1.2.125">Eskifirði</w>
+            <w lemma="vera" pos="sfg3eþ" xml:id="MINO-R302.1.2.126">var</w>
+            <w lemma="blómsveigur" pos="nken" xml:id="MINO-R302.1.2.127">blómsveigur</w>
+            <w lemma="leggja" pos="sþgken" xml:id="MINO-R302.1.2.128">lagður</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R302.1.2.129">að</w>
+            <w lemma="minnisvarða" pos="sng" xml:id="MINO-R302.1.2.130">minnisvarða</w>
+            <w lemma="um" pos="ao" xml:id="MINO-R302.1.2.131">um</w>
+            <w lemma="drukkinn" pos="lkfosf" xml:id="MINO-R302.1.2.132">drukkna</w>
+            <w lemma="sjómaður" pos="nkfo" xml:id="MINO-R302.1.2.133">sjómenn</w>
+            <w lemma="en" pos="c" xml:id="MINO-R302.1.2.134">en</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R302.1.2.135">í</w>
+            <w lemma="neskaupstaður" pos="nkeþ-s" xml:id="MINO-R302.1.2.136">Neskaupstað</w>
+            <w lemma="vera" pos="sfg3eþ" xml:id="MINO-R302.1.2.137">var</w>
+            <w lemma="skipstjórur" pos="nkfþ" xml:id="MINO-R302.1.2.138">skipstjórum</w>
+            <w lemma="afhenda" pos="sþghfn" xml:id="MINO-R302.1.2.139">afhent</w>
+            <w lemma="sjóferðarbænn" pos="lhfnsf" xml:id="MINO-R302.1.2.140">sjóferðarbæn</w>
+            <w lemma="í" pos="aþ" xml:id="MINO-R302.1.2.141">í</w>
+            <w lemma="hátíðarmessa" pos="nveþ" xml:id="MINO-R302.1.2.142">hátíðarmessu</w>
+            <pc pos="punctuation" xml:id="MINO-R302.1.2.143">.</pc>
+            <w lemma="hátíðarhölda" pos="nhfþg" xml:id="MINO-R302.1.2.144">Hátíðarhöldunum</w>
+            <w lemma="ljúka" pos="sfg3en" xml:id="MINO-R302.1.2.145">lýkur</w>
+            <w lemma="svo" pos="aa" xml:id="MINO-R302.1.2.146">svo</w>
+            <w lemma="í" pos="ao" xml:id="MINO-R302.1.2.147">í</w>
+            <w lemma="kvöld" pos="nheo" xml:id="MINO-R302.1.2.148">kvöld</w>
+            <w lemma="með" pos="aþ" xml:id="MINO-R302.1.2.149">með</w>
+            <w lemma="dansleikur" pos="nkfþ" xml:id="MINO-R302.1.2.150">dansleikjum</w>
+            <pc pos="punctuation" xml:id="MINO-R302.1.2.151">.</pc>
+          </s>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

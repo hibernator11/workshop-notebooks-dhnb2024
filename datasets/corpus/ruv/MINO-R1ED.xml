@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MINO-R1ED" xml:lang="is">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sjálfkjörin</title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</orgName>
+          <orgName xml:lang="en">Árni Magnússon Institute for Icelandic Studies</orgName>
+        </publisher>
+        <availability status="restricted">
+        <licence>https://repository.clarin.is/licenses/userlicense_igc_restricted_download_en.pdf</licence>
+        <p xml:lang="is">Þessi texti er gefinn út með <ref target="https://repository.clarin.is/licenses/userlicense_igc_restricted_download_en.pdf">IGC - restricted licence</ref>.</p>
+        <p xml:lang="en">This work is licensed under the <ref target="https://repository.clarin.is/licenses/userlicense_igc_restricted_download_en.pdf">IGC - restricted licence</ref>.</p>
+      </availability>
+      <date when="2022-07-01">2022-07-01</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <title>Sjálfkjörin</title>
+            <author>Þulur</author>
+            <imprint>
+              <publisher>ríkisútvarpið</publisher>
+              <date when="2003-09-19">2003-09-19</date>
+              <time from="18:00:00"/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="1"/>
+          <tagUsage gi="w" occurs="39"/>
+          <tagUsage gi="c" occurs="2"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p xml:id="MINO-R1ED.1">
+          <s xml:id="MINO-R1ED.1.1">
+            <w lemma="össur" pos="nken-s" xml:id="MINO-R1ED.1.1.1">Össur</w>
+            <w lemma="skarphéðinsson" pos="nken-s" xml:id="MINO-R1ED.1.1.2">Skarphéðinsson</w>
+            <w lemma="verða" pos="sfg3en" xml:id="MINO-R1ED.1.1.3">verður</w>
+            <w lemma="sjálfkjörinn" pos="lkensf" xml:id="MINO-R1ED.1.1.4">sjálfkjörinn</w>
+            <w lemma="formaður" pos="nken" xml:id="MINO-R1ED.1.1.5">formaður</w>
+            <w lemma="samfylking" pos="nveegs" xml:id="MINO-R1ED.1.1.6">Samfylkingarinnar</w>
+            <w lemma="til" pos="ae" xml:id="MINO-R1ED.1.1.7">til</w>
+            <w lemma="nærri" pos="lveþve" xml:id="MINO-R1ED.1.1.8">næstu</w>
+            <w lemma="tveir" pos="tfhfe" xml:id="MINO-R1ED.1.1.9">tveggja</w>
+            <w lemma="ár" pos="nhfe" xml:id="MINO-R1ED.1.1.10">ára</w>
+            <w lemma="á" pos="aþ" xml:id="MINO-R1ED.1.1.11">á</w>
+            <w lemma="landsfundur" pos="nkeþ" xml:id="MINO-R1ED.1.1.12">landsfundi</w>
+            <w lemma="flokkur" pos="nkeeg" xml:id="MINO-R1ED.1.1.13">flokksins</w>
+            <w lemma="í" pos="ao" xml:id="MINO-R1ED.1.1.14">í</w>
+            <w lemma="haust" pos="nheo" xml:id="MINO-R1ED.1.1.15">haust</w>
+            <w lemma="og" pos="c" xml:id="MINO-R1ED.1.1.16">og</w>
+            <w lemma="ingibjörg" pos="nven-s" xml:id="MINO-R1ED.1.1.17">Ingibjörg</w>
+            <w lemma="sólrún" pos="nven-s" xml:id="MINO-R1ED.1.1.18">Sólrún</w>
+            <w lemma="gísladóttir" pos="nven-s" xml:id="MINO-R1ED.1.1.19">Gísladóttir</w>
+            <w lemma="varaformaður" pos="nken" xml:id="MINO-R1ED.1.1.20">varaformaður</w>
+            <pc pos="punctuation" xml:id="MINO-R1ED.1.1.21">.</pc>
+            <w lemma="frestur" pos="nken" xml:id="MINO-R1ED.1.1.22">Frestur</w>
+            <w lemma="til" pos="ae" xml:id="MINO-R1ED.1.1.23">til</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R1ED.1.1.24">að</w>
+            <w lemma="skila" pos="sng" xml:id="MINO-R1ED.1.1.25">skila</w>
+            <w lemma="framboð" pos="nhfþ" xml:id="MINO-R1ED.1.1.26">framboðum</w>
+            <w lemma="til" pos="ae" xml:id="MINO-R1ED.1.1.27">til</w>
+            <w lemma="þessi" pos="fahfe" xml:id="MINO-R1ED.1.1.28">þessara</w>
+            <w lemma="embætti" pos="nhfe" xml:id="MINO-R1ED.1.1.29">embætta</w>
+            <w lemma="renna" pos="sfg3eþ" xml:id="MINO-R1ED.1.1.30">rann</w>
+            <w lemma="út" pos="aa" xml:id="MINO-R1ED.1.1.31">út</w>
+            <w lemma="klukka" pos="nveng" xml:id="MINO-R1ED.1.1.32">klukkan</w>
+            <w lemma="4" pos="ta" xml:id="MINO-R1ED.1.1.33">4</w>
+            <w lemma="í" pos="ao" xml:id="MINO-R1ED.1.1.34">í</w>
+            <w lemma="dagur" pos="nkeo" xml:id="MINO-R1ED.1.1.35">dag</w>
+            <w lemma="og" pos="c" xml:id="MINO-R1ED.1.1.36">og</w>
+            <w lemma="bera" pos="sfm3fþ" xml:id="MINO-R1ED.1.1.37">bárust</w>
+            <w lemma="ekki" pos="aa" xml:id="MINO-R1ED.1.1.38">ekki</w>
+            <w lemma="annar" pos="foven" xml:id="MINO-R1ED.1.1.39">önnur</w>
+            <w lemma="framboð" pos="nhen" xml:id="MINO-R1ED.1.1.40">framboð</w>
+            <pc pos="punctuation" xml:id="MINO-R1ED.1.1.41">.</pc>
+          </s>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

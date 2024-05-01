@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MINO-R3AF" xml:lang="is">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Kárahnjúkavegur</title>
+        <respStmt>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta</resp>
+          <resp xml:lang="en">Collection and processing of text</resp>
+          <name xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</name>
+          <name xml:lang="en">The Arni Magnusson Institute for Icelandic Studies</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</orgName>
+          <orgName xml:lang="en">Árni Magnússon Institute for Icelandic Studies</orgName>
+        </publisher>
+        <availability status="restricted">
+        <licence>https://repository.clarin.is/licenses/userlicense_igc_restricted_download_en.pdf</licence>
+        <p xml:lang="is">Þessi texti er gefinn út með <ref target="https://repository.clarin.is/licenses/userlicense_igc_restricted_download_en.pdf">IGC - restricted licence</ref>.</p>
+        <p xml:lang="en">This work is licensed under the <ref target="https://repository.clarin.is/licenses/userlicense_igc_restricted_download_en.pdf">IGC - restricted licence</ref>.</p>
+      </availability>
+      <date when="2022-07-01">2022-07-01</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <title>Kárahnjúkavegur</title>
+            <author>Þulur</author>
+            <imprint>
+              <publisher>Sjónvarpið</publisher>
+              <date when="2002-08-12">2002-08-12</date>
+              <time from="22:00:00"/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="1"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div1" occurs="1"/>
+          <tagUsage gi="p" occurs="1"/>
+          <tagUsage gi="s" occurs="1"/>
+          <tagUsage gi="w" occurs="48"/>
+          <tagUsage gi="c" occurs="5"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p xml:id="MINO-R3AF.1">
+          <s xml:id="MINO-R3AF.1.1">
+            <w lemma="landsvirkjun" pos="nken-s" xml:id="MINO-R3AF.1.1.1">Landsvirkjun</w>
+            <w lemma="hafa" pos="sfg3en" xml:id="MINO-R3AF.1.1.2">hefur</w>
+            <w lemma="á" pos="ao" xml:id="MINO-R3AF.1.1.3">á</w>
+            <w lemma="morgunn" pos="nkeo" xml:id="MINO-R3AF.1.1.4">morgun</w>
+            <w lemma="viðræða" pos="nvfo" xml:id="MINO-R3AF.1.1.5">viðræður</w>
+            <w lemma="við" pos="ao" xml:id="MINO-R3AF.1.1.6">við</w>
+            <w lemma="íslenskur" pos="lveosf" xml:id="MINO-R3AF.1.1.7">Íslenska</w>
+            <w lemma="aðalverktaki" pos="nkee" xml:id="MINO-R3AF.1.1.8">aðalverktaka</w>
+            <w lemma="um" pos="ao" xml:id="MINO-R3AF.1.1.9">um</w>
+            <w lemma="lagninga" pos="nveo" xml:id="MINO-R3AF.1.1.10">lagningu</w>
+            <w lemma="kárahnjúkavegar" pos="nkee-s" xml:id="MINO-R3AF.1.1.11">Kárahnjúkavegar</w>
+            <w lemma="milli" pos="ae" xml:id="MINO-R3AF.1.1.12">milli</w>
+            <w lemma="laugavallur" pos="nkfe-s" xml:id="MINO-R3AF.1.1.13">Laugavalla</w>
+            <w lemma="og" pos="c" xml:id="MINO-R3AF.1.1.14">og</w>
+            <w lemma="kárahnjúkur" pos="nkfe-s" xml:id="MINO-R3AF.1.1.15">Kárahnjúka</w>
+            <pc pos="punctuation" xml:id="MINO-R3AF.1.1.16">.</pc>
+            <w lemma="verk" pos="nheng" xml:id="MINO-R3AF.1.1.17">Verkið</w>
+            <w lemma="vera" pos="sfg3en" xml:id="MINO-R3AF.1.1.18">er</w>
+            <w lemma="hluti" pos="nken" xml:id="MINO-R3AF.1.1.19">hluti</w>
+            <w lemma="af" pos="aþ" xml:id="MINO-R3AF.1.1.20">af</w>
+            <w lemma="undirbúningur" pos="nkeþ" xml:id="MINO-R3AF.1.1.21">undirbúningi</w>
+            <w lemma="landsvirkun" pos="nvee-s" xml:id="MINO-R3AF.1.1.22">Landsvirkunar</w>
+            <w lemma="vegna" pos="ae" xml:id="MINO-R3AF.1.1.23">vegna</w>
+            <w lemma="bygging" pos="nveþ" xml:id="MINO-R3AF.1.1.24">byggingu</w>
+            <w lemma="kárahnjúkavirkjun" pos="nvee-s" xml:id="MINO-R3AF.1.1.25">Kárahnjúkavirkjunar</w>
+            <pc pos="punctuation" xml:id="MINO-R3AF.1.1.26">.</pc>
+            <w lemma="sveitarstjórn" pos="nven" xml:id="MINO-R3AF.1.1.27">Sveitarstjórn</w>
+            <w lemma="norður-hérað" pos="nhee-s" xml:id="MINO-R3AF.1.1.28">Norður-Héraðs</w>
+            <pc pos="punctuation" xml:id="MINO-R3AF.1.1.29">,</pc>
+            <w lemma="sem" pos="ct" xml:id="MINO-R3AF.1.1.30">sem</w>
+            <w lemma="eiga" pos="sfg3en" xml:id="MINO-R3AF.1.1.31">á</w>
+            <w lemma="eftir" pos="aa" xml:id="MINO-R3AF.1.1.32">eftir</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R3AF.1.1.33">að</w>
+            <w lemma="veita" pos="sng" xml:id="MINO-R3AF.1.1.34">veita</w>
+            <w lemma="leyfi" pos="nheo" xml:id="MINO-R3AF.1.1.35">leyfi</w>
+            <w lemma="fyrir" pos="aþ" xml:id="MINO-R3AF.1.1.36">fyrir</w>
+            <w lemma="þessi" pos="favfþ" xml:id="MINO-R3AF.1.1.37">þessum</w>
+            <w lemma="framkvæmd" pos="nvfþ" xml:id="MINO-R3AF.1.1.38">framkvæmdum</w>
+            <pc pos="punctuation" xml:id="MINO-R3AF.1.1.39">,</pc>
+            <w lemma="hafa" pos="sfg3en" xml:id="MINO-R3AF.1.1.40">hefur</w>
+            <w lemma="opinberlega" pos="aa" xml:id="MINO-R3AF.1.1.41">opinberlega</w>
+            <w lemma="hvetja" pos="ssg" xml:id="MINO-R3AF.1.1.42">hvatt</w>
+            <w lemma="landsvirkjun" pos="nveo" xml:id="MINO-R3AF.1.1.43">Landsvirkjun</w>
+            <w lemma="til" pos="ae" xml:id="MINO-R3AF.1.1.44">til</w>
+            <w lemma="að" pos="cn" xml:id="MINO-R3AF.1.1.45">að</w>
+            <w lemma="semja" pos="sng" xml:id="MINO-R3AF.1.1.46">semja</w>
+            <w lemma="við" pos="ao" xml:id="MINO-R3AF.1.1.47">við</w>
+            <w lemma="verktakafyrirtæki" pos="nheo" xml:id="MINO-R3AF.1.1.48">verktakafyrirtæki</w>
+            <w lemma="á" pos="aþ" xml:id="MINO-R3AF.1.1.49">á</w>
+            <w lemma="egilsstaðir" pos="nkfþ-s" xml:id="MINO-R3AF.1.1.50">Egilsstöðum</w>
+            <w lemma="um" pos="ao" xml:id="MINO-R3AF.1.1.51">um</w>
+            <w lemma="verk" pos="nheog" xml:id="MINO-R3AF.1.1.52">verkið</w>
+            <pc pos="punctuation" xml:id="MINO-R3AF.1.1.53">.</pc>
+          </s>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,2209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="is" xml:id="MIMO-Laws2_150_499">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Málheild íslensks námsorðaforða (MÍNO) - Greinargerð og/eða athugasemdir úr frumvarpi með málanr. 386, lagt fyrir á 150. löggjafarþingi</title>
+        <respStmt>
+          <persName>Starkaður Barkarson</persName>
+          <resp xml:lang="is">Söfnun og úrvinnsla texta. TEI-kóðun.</resp>
+          <resp xml:lang="en">Collection and processing of texts. TEI encoding.</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Starkaður Barkarson</persName>
+          <resp xml:lang="is">Málfræðimörkun</resp>
+          <resp xml:lang="en">Linguistic annotation</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="is">Stofnun Árna Magnússonar í íslenskum fræðum</orgName>
+          <orgName xml:lang="en"> Árni Magnússon Institute for Icelandic Studies.</orgName>
+          <ref target="https://www.arnastofnun.is/">www.arnastofnun.is</ref>
+        </publisher>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="is">Þessi texti er gefinn út með <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-07-01">2022-07-01</date>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title type="main">Leiga skráningarskyldra ökutækja</title>
+            <title type="sub">Greinargerð/athugasemdir úr lagafrumvarpi, mál nr. 386</title>
+            <idno type="URI">http://althingi.is/altext/150/s/0499.html</idno>
+            <author>Þórdís Kolbrún R. Gylfadóttir</author>
+            <date when="2019-11-18">2019-11-18</date>
+          </analytic>
+          <monogr>
+            <title>Frumvörp lögð fram á Alþingi Íslendinga (greinargerðir og athugasemdir)</title>
+            <idno type="URI">www.athingi.is</idno>
+            <imprint>
+              <publisher>Alþingi</publisher>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage occurs="1" gi="text"/>
+          <tagUsage occurs="1" gi="body"/>
+          <tagUsage occurs="1" gi="div"/>
+          <tagUsage occurs="1" gi="head"/>
+          <tagUsage occurs="35" gi="p"/>
+          <tagUsage occurs="95" gi="s"/>
+          <tagUsage occurs="1724" gi="w"/>
+          <tagUsage occurs="153" gi="pc"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Greinargerð.</head>
+        <p xml:id="MINO-Laws2_150_499.1">
+          <s xml:id="MINO-Laws2_150_499.1.1">
+            <w lemma="1" xml:id="MINO-Laws2_150_499.1.1.1" pos="ta">1</w>
+            <pc xml:id="MINO-Laws2_150_499.1.1.2" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.1.2">
+            <w lemma="inngangur" xml:id="MINO-Laws2_150_499.1.2.1" pos="nken">Inngangur</w>
+            <pc xml:id="MINO-Laws2_150_499.1.2.2" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.2">
+          <s xml:id="MINO-Laws2_150_499.2.1">
+            <w lemma="frumvarp" xml:id="MINO-Laws2_150_499.2.1.1" pos="nheng">Frumvarpið</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.2.1.2" pos="sfg3en">er</w>
+            <w lemma="semja" xml:id="MINO-Laws2_150_499.2.1.3" pos="sþghen">samið</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.2.1.4" pos="af">í</w>
+            <w lemma="atvinnuvega" xml:id="MINO-Laws2_150_499.2.1.5" pos="kt">atvinnuvega</w>
+            <pc xml:id="MINO-Laws2_150_499.2.1.6" pos="pa">-</pc>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.2.1.7" pos="c">og</w>
+            <w lemma="nýsköpunarráðuneyti" xml:id="MINO-Laws2_150_499.2.1.8" pos="nheþg">nýsköpunarráðuneytinu</w>
+            <pc xml:id="MINO-Laws2_150_499.2.1.9" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.2.2">
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.2.2.1" pos="nhfn">Lög</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.2.2.2" pos="af">um</w>
+            <w lemma="leiga" xml:id="MINO-Laws2_150_499.2.2.3" pos="nveo">leigu</w>
+            <w lemma="skráningarskyldur" xml:id="MINO-Laws2_150_499.2.2.4" pos="lhfesf">skráningarskyldra</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.2.2.5" pos="nhfe">ökutækja</w>
+            <pc xml:id="MINO-Laws2_150_499.2.2.6" pos="pk">,</pc>
+            <w lemma="nr." xml:id="MINO-Laws2_150_499.2.2.7" pos="ks">nr.</w>
+            <w lemma="65" xml:id="MINO-Laws2_150_499.2.2.8" pos="ta">65</w>
+            <pc xml:id="MINO-Laws2_150_499.2.2.9" pos="pa">/</pc>
+            <w lemma="2015" xml:id="MINO-Laws2_150_499.2.2.10" pos="ta">2015</w>
+            <pc xml:id="MINO-Laws2_150_499.2.2.11" pos="pk">,</pc>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.2.2.12" pos="sfg3fþ">voru</w>
+            <w lemma="samþykkja" xml:id="MINO-Laws2_150_499.2.2.13" pos="sþghfn">samþykkt</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.2.2.14" pos="af">á</w>
+            <w lemma="144." xml:id="MINO-Laws2_150_499.2.2.15" pos="ta">144.</w>
+            <w lemma="löggjafarþing" xml:id="MINO-Laws2_150_499.2.2.16" pos="nheþ">löggjafarþingi</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.2.2.17" pos="c">og</w>
+            <w lemma="taka" xml:id="MINO-Laws2_150_499.2.2.18" pos="sfg3fþ">tóku</w>
+            <w lemma="gildi" xml:id="MINO-Laws2_150_499.2.2.19" pos="nheo">gildi</w>
+            <w lemma="9." xml:id="MINO-Laws2_150_499.2.2.20" pos="ta">9.</w>
+            <w lemma="júlí" xml:id="MINO-Laws2_150_499.2.2.21" pos="nkeo">júlí</w>
+            <w lemma="2015" xml:id="MINO-Laws2_150_499.2.2.22" pos="ta">2015</w>
+            <pc xml:id="MINO-Laws2_150_499.2.2.23" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.2.3">
+            <w lemma="tildrög" xml:id="MINO-Laws2_150_499.2.3.1" pos="nhfo">Tildrög</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.2.3.2" pos="nhfeg">laganna</w>
+            <w lemma="mega" xml:id="MINO-Laws2_150_499.2.3.3" pos="sfg3eþ">mátti</w>
+            <w lemma="rekja" xml:id="MINO-Laws2_150_499.2.3.4" pos="sng">rekja</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.2.3.5" pos="af">til</w>
+            <w lemma="fjölgun" xml:id="MINO-Laws2_150_499.2.3.6" pos="nvee">fjölgunar</w>
+            <w lemma="erlendur" xml:id="MINO-Laws2_150_499.2.3.7" pos="lkfesf">erlendra</w>
+            <w lemma="ferðamaður" xml:id="MINO-Laws2_150_499.2.3.8" pos="nkfe">ferðamanna</w>
+            <w lemma="en" xml:id="MINO-Laws2_150_499.2.3.9" pos="c">en</w>
+            <w lemma="frá" xml:id="MINO-Laws2_150_499.2.3.10" pos="af">frá</w>
+            <w lemma="ár" xml:id="MINO-Laws2_150_499.2.3.11" pos="nheþg">árinu</w>
+            <w lemma="2010" xml:id="MINO-Laws2_150_499.2.3.12" pos="ta">2010</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.2.3.13" pos="c">og</w>
+            <w lemma="þar" xml:id="MINO-Laws2_150_499.2.3.14" pos="aa">þar</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.2.3.15" pos="aa">til</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.2.3.16" pos="nhfng">lögin</w>
+            <w lemma="taka" xml:id="MINO-Laws2_150_499.2.3.17" pos="sfg3fþ">tóku</w>
+            <w lemma="gildi" xml:id="MINO-Laws2_150_499.2.3.18" pos="nheo">gildi</w>
+            <w lemma="fjölga" xml:id="MINO-Laws2_150_499.2.3.19" pos="sfg3eþ">fjölgaði</w>
+            <w lemma="ferðamaður" xml:id="MINO-Laws2_150_499.2.3.20" pos="nkfþ">ferðamönnum</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.2.3.21" pos="af">um</w>
+            <w lemma="tæpur" xml:id="MINO-Laws2_150_499.2.3.22" pos="lhfosf">tæp</w>
+            <w lemma="20%" xml:id="MINO-Laws2_150_499.2.3.23" pos="tp">20%</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.2.3.24" pos="af">á</w>
+            <w lemma="ár" xml:id="MINO-Laws2_150_499.2.3.25" pos="nheþ">ári</w>
+            <pc xml:id="MINO-Laws2_150_499.2.3.26" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.2.4">
+            <w lemma="samhliða" xml:id="MINO-Laws2_150_499.2.4.1" pos="af">Samhliða</w>
+            <w lemma="fjölgun" xml:id="MINO-Laws2_150_499.2.4.2" pos="nveþg">fjölguninni</w>
+            <w lemma="auka" xml:id="MINO-Laws2_150_499.2.4.3" pos="sfm3eþ">jókst</w>
+            <w lemma="eftirspurn" xml:id="MINO-Laws2_150_499.2.4.4" pos="nven">eftirspurn</w>
+            <w lemma="eftir" xml:id="MINO-Laws2_150_499.2.4.5" pos="af">eftir</w>
+            <w lemma="bílaleigubíll" xml:id="MINO-Laws2_150_499.2.4.6" pos="nkfþ">bílaleigubílum</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.2.4.7" pos="c">og</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.2.4.8" pos="af">í</w>
+            <w lemma="kjölfar" xml:id="MINO-Laws2_150_499.2.4.9" pos="nheog">kjölfarið</w>
+            <w lemma="fjölga" xml:id="MINO-Laws2_150_499.2.4.10" pos="sfg3eþ">fjölgaði</w>
+            <w lemma="aðili" xml:id="MINO-Laws2_150_499.2.4.11" pos="nkfþ">aðilum</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.2.4.12" pos="ct">sem</w>
+            <w lemma="bjóða" xml:id="MINO-Laws2_150_499.2.4.13" pos="sfg3fþ">buðu</w>
+            <w lemma="skráningarskyldur" xml:id="MINO-Laws2_150_499.2.4.14" pos="lhfosf">skráningarskyld</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.2.4.15" pos="nhfo">ökutæki</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.2.4.16" pos="af">til</w>
+            <w lemma="leiga" xml:id="MINO-Laws2_150_499.2.4.17" pos="nvee">leigu</w>
+            <pc xml:id="MINO-Laws2_150_499.2.4.18" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.2.5">
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.2.5.1" pos="nhfng">Lögin</w>
+            <w lemma="taka" xml:id="MINO-Laws2_150_499.2.5.2" pos="sfg3fþ">tóku</w>
+            <w lemma="mið" xml:id="MINO-Laws2_150_499.2.5.3" pos="nheo">mið</w>
+            <w lemma="af" xml:id="MINO-Laws2_150_499.2.5.4" pos="af">af</w>
+            <w lemma="breyttur" xml:id="MINO-Laws2_150_499.2.5.5" pos="lheþsf">breyttu</w>
+            <w lemma="rekstrarumhverfi" xml:id="MINO-Laws2_150_499.2.5.6" pos="nheþ">rekstrarumhverfi</w>
+            <pc xml:id="MINO-Laws2_150_499.2.5.7" pos="pk">,</pc>
+            <w lemma="styrkja" xml:id="MINO-Laws2_150_499.2.5.8" pos="sfg3fþ">styrktu</w>
+            <w lemma="lagarammi" xml:id="MINO-Laws2_150_499.2.5.9" pos="nkeo">lagaramma</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.2.5.10" pos="af">um</w>
+            <w lemma="starfsemi" xml:id="MINO-Laws2_150_499.2.5.11" pos="nveo">starfsemi</w>
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.2.5.12" pos="nvfe">ökutækjaleiga</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.2.5.13" pos="c">og</w>
+            <w lemma="koma" xml:id="MINO-Laws2_150_499.2.5.14" pos="sfg3fþ">komu</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.2.5.15" pos="af">til</w>
+            <w lemma="mót" xml:id="MINO-Laws2_150_499.2.5.16" pos="nhee">móts</w>
+            <w lemma="við" xml:id="MINO-Laws2_150_499.2.5.17" pos="af">við</w>
+            <w lemma="þróun" xml:id="MINO-Laws2_150_499.2.5.18" pos="nveo">þróun</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.2.5.19" pos="af">í</w>
+            <w lemma="grein" xml:id="MINO-Laws2_150_499.2.5.20" pos="nveþg">greininni</w>
+            <pc xml:id="MINO-Laws2_150_499.2.5.21" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.2.6">
+            <w lemma="auk" xml:id="MINO-Laws2_150_499.2.6.1" pos="af">Auk</w>
+            <w lemma="það" xml:id="MINO-Laws2_150_499.2.6.2" pos="fphee">þess</w>
+            <w lemma="skerpa" xml:id="MINO-Laws2_150_499.2.6.3" pos="sfg3fþ">skerptu</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.2.6.4" pos="nhfng">lögin</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.2.6.5" pos="af">á</w>
+            <w lemma="réttindi" xml:id="MINO-Laws2_150_499.2.6.6" pos="nhfþ">réttindum</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.2.6.7" pos="c">og</w>
+            <w lemma="skylda" xml:id="MINO-Laws2_150_499.2.6.8" pos="nvfþ">skyldum</w>
+            <w lemma="leigusali" xml:id="MINO-Laws2_150_499.2.6.9" pos="nkee">leigusala</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.2.6.10" pos="c">og</w>
+            <w lemma="leigutaki" xml:id="MINO-Laws2_150_499.2.6.11" pos="nkfe">leigutaka</w>
+            <pc xml:id="MINO-Laws2_150_499.2.6.12" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.3">
+          <s xml:id="MINO-Laws2_150_499.3.1">
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.3.1.1" pos="nhfng">Lögin</w>
+            <w lemma="gilda" xml:id="MINO-Laws2_150_499.3.1.2" pos="sfg3fn">gilda</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.3.1.3" pos="af">um</w>
+            <w lemma="leiga" xml:id="MINO-Laws2_150_499.3.1.4" pos="nveo">leigu</w>
+            <w lemma="skráningarskyldur" xml:id="MINO-Laws2_150_499.3.1.5" pos="lhfesf">skráningarskyldra</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.3.1.6" pos="nhfe">ökutækja</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.3.1.7" pos="af">í</w>
+            <w lemma="atvinnuskyn" xml:id="MINO-Laws2_150_499.3.1.8" pos="nheþ">atvinnuskyni</w>
+            <w lemma="án" xml:id="MINO-Laws2_150_499.3.1.9" pos="af">án</w>
+            <w lemma="ökumaður" xml:id="MINO-Laws2_150_499.3.1.10" pos="nkee">ökumanns</w>
+            <pc xml:id="MINO-Laws2_150_499.3.1.11" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.3.2">
+            <w lemma="í" xml:id="MINO-Laws2_150_499.3.2.1" pos="af">Í</w>
+            <w lemma="það" xml:id="MINO-Laws2_150_499.3.2.2" pos="fphfþ">þeim</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.3.2.3" pos="sfg3en">er</w>
+            <w lemma="kveða" xml:id="MINO-Laws2_150_499.3.2.4" pos="sþghen">kveðið</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.3.2.5" pos="aa">á</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.3.2.6" pos="af">um</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.3.2.7" pos="x">að</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.3.2.8" pos="c">að</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.3.2.9" pos="nven-s">Samgöngustofa</w>
+            <w lemma="skulu" xml:id="MINO-Laws2_150_499.3.2.10" pos="svg3en">skuli</w>
+            <w lemma="hafa" xml:id="MINO-Laws2_150_499.3.2.11" pos="sng">hafa</w>
+            <w lemma="eftirlit" xml:id="MINO-Laws2_150_499.3.2.12" pos="nheo">eftirlit</w>
+            <w lemma="með" xml:id="MINO-Laws2_150_499.3.2.13" pos="af">með</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.3.2.14" pos="c">að</w>
+            <w lemma="ákvæði" xml:id="MINO-Laws2_150_499.3.2.15" pos="nhfþ">ákvæðum</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.3.2.16" pos="nhfeg">laganna</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.3.2.17" pos="svg3en">sé</w>
+            <w lemma="fylgja" xml:id="MINO-Laws2_150_499.3.2.18" pos="sþghen">fylgt</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.3.2.19" pos="c">og</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.3.2.20" pos="af">um</w>
+            <w lemma="úrræði" xml:id="MINO-Laws2_150_499.3.2.21" pos="nhfo">úrræði</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.3.2.22" pos="ct">sem</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.3.2.23" pos="nveþ-s">Samgöngustofu</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.3.2.24" pos="sfg3en">er</w>
+            <w lemma="heimill" xml:id="MINO-Laws2_150_499.3.2.25" pos="lhensf">heimilt</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.3.2.26" pos="cn">að</w>
+            <w lemma="grípa" xml:id="MINO-Laws2_150_499.3.2.27" pos="sng">grípa</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.3.2.28" pos="aa">til</w>
+            <w lemma="vegna" xml:id="MINO-Laws2_150_499.3.2.29" pos="af">vegna</w>
+            <w lemma="brot" xml:id="MINO-Laws2_150_499.3.2.30" pos="nhfe">brota</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.3.2.31" pos="af">á</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.3.2.32" pos="nhfþg">lögunum</w>
+            <pc xml:id="MINO-Laws2_150_499.3.2.33" pos="pk">,</pc>
+            <w lemma="misnotkun" xml:id="MINO-Laws2_150_499.3.2.34" pos="nvee">misnotkunar</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.3.2.35" pos="af">á</w>
+            <w lemma="starfsleyfi" xml:id="MINO-Laws2_150_499.3.2.36" pos="nheþ">starfsleyfi</w>
+            <w lemma="eða" xml:id="MINO-Laws2_150_499.3.2.37" pos="c">eða</w>
+            <w lemma="ef" xml:id="MINO-Laws2_150_499.3.2.38" pos="c">ef</w>
+            <w lemma="enginn" xml:id="MINO-Laws2_150_499.3.2.39" pos="foven">engin</w>
+            <w lemma="starfsemi" xml:id="MINO-Laws2_150_499.3.2.40" pos="nven">starfsemi</w>
+            <w lemma="hafa" xml:id="MINO-Laws2_150_499.3.2.41" pos="sfg3en">hefur</w>
+            <w lemma="fara" xml:id="MINO-Laws2_150_499.3.2.42" pos="sþghen">farið</w>
+            <w lemma="fram" xml:id="MINO-Laws2_150_499.3.2.43" pos="aa">fram</w>
+            <w lemma="af" xml:id="MINO-Laws2_150_499.3.2.44" pos="af">af</w>
+            <w lemma="hálfa" xml:id="MINO-Laws2_150_499.3.2.45" pos="nveþ">hálfu</w>
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.3.2.46" pos="nvee">ökutækjaleigu</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.3.2.47" pos="af">í</w>
+            <w lemma="samfellt" xml:id="MINO-Laws2_150_499.3.2.48" pos="aa">samfellt</w>
+            <w lemma="þrír" xml:id="MINO-Laws2_150_499.3.2.49" pos="tfhfo">þrjú</w>
+            <w lemma="ár" xml:id="MINO-Laws2_150_499.3.2.50" pos="nhfo">ár</w>
+            <pc xml:id="MINO-Laws2_150_499.3.2.51" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.4">
+          <s xml:id="MINO-Laws2_150_499.4.1">
+            <w lemma="leggja" xml:id="MINO-Laws2_150_499.4.1.1" pos="sþgven">Lögð</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.4.1.2" pos="sfg3en">er</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.4.1.3" pos="aa">til</w>
+            <w lemma="sá" xml:id="MINO-Laws2_150_499.4.1.4" pos="faven">sú</w>
+            <w lemma="breyting" xml:id="MINO-Laws2_150_499.4.1.5" pos="nven">breyting</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.4.1.6" pos="c">að</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.4.1.7" pos="nveþ-s">Samgöngustofu</w>
+            <w lemma="verða" xml:id="MINO-Laws2_150_499.4.1.8" pos="svg3en">verði</w>
+            <w lemma="heimill" xml:id="MINO-Laws2_150_499.4.1.9" pos="lhensf">heimilt</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.4.1.10" pos="cn">að</w>
+            <w lemma="leggja" xml:id="MINO-Laws2_150_499.4.1.11" pos="sng">leggja</w>
+            <w lemma="stjórnvaldssekt" xml:id="MINO-Laws2_150_499.4.1.12" pos="nvfo">stjórnvaldssektir</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.4.1.13" pos="af">á</w>
+            <w lemma="leyfishafi" xml:id="MINO-Laws2_150_499.4.1.14" pos="nkeo">leyfishafa</w>
+            <pc xml:id="MINO-Laws2_150_499.4.1.15" pos="pa">(</pc>
+            <w lemma="einstaklingur" xml:id="MINO-Laws2_150_499.4.1.16" pos="nkeo">einstakling</w>
+            <w lemma="eða" xml:id="MINO-Laws2_150_499.4.1.17" pos="c">eða</w>
+            <w lemma="lögaðili" xml:id="MINO-Laws2_150_499.4.1.18" pos="nkeo">lögaðila</w>
+            <pc xml:id="MINO-Laws2_150_499.4.1.19" pos="pa">)</pc>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.4.1.20" pos="ct">sem</w>
+            <w lemma="hafa" xml:id="MINO-Laws2_150_499.4.1.21" pos="sfg3en">hefur</w>
+            <w lemma="verða" xml:id="MINO-Laws2_150_499.4.1.22" pos="sþghen">orðið</w>
+            <w lemma="uppvís" xml:id="MINO-Laws2_150_499.4.1.23" pos="lkensf">uppvís</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.4.1.24" pos="af">að</w>
+            <w lemma="það" xml:id="MINO-Laws2_150_499.4.1.25" pos="fpheþ">því</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.4.1.26" pos="cn">að</w>
+            <w lemma="breyta" xml:id="MINO-Laws2_150_499.4.1.27" pos="sng">breyta</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.4.1.28" pos="nveþ">kílómetrastöðu</w>
+            <w lemma="skráningarskyldur" xml:id="MINO-Laws2_150_499.4.1.29" pos="lheesf">skráningarskylds</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.4.1.30" pos="nhee">ökutækis</w>
+            <pc xml:id="MINO-Laws2_150_499.4.1.31" pos="pk">,</pc>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.4.1.32" pos="ct">sem</w>
+            <w lemma="skrá" xml:id="MINO-Laws2_150_499.4.1.33" pos="sþghen">skráð</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.4.1.34" pos="sfg3en">er</w>
+            <w lemma="hjá" xml:id="MINO-Laws2_150_499.4.1.35" pos="af">hjá</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.4.1.36" pos="nveþ-s">Samgöngustofu</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.4.1.37" pos="af">í</w>
+            <w lemma="notkunarflokkur" xml:id="MINO-Laws2_150_499.4.1.38" pos="nkeþ">notkunarflokki</w>
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.4.1.39" pos="nvee">ökutækjaleigu</w>
+            <pc xml:id="MINO-Laws2_150_499.4.1.40" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.4.2">
+            <w lemma="samkvæmt" xml:id="MINO-Laws2_150_499.4.2.1" pos="af">Samkvæmt</w>
+            <w lemma="gildandi" xml:id="MINO-Laws2_150_499.4.2.2" pos="lhfþof">gildandi</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.4.2.3" pos="nhfþ">lögum</w>
+            <w lemma="falla" xml:id="MINO-Laws2_150_499.4.2.4" pos="sfg3en">fellur</w>
+            <w lemma="háttsemi" xml:id="MINO-Laws2_150_499.4.2.5" pos="nveng">háttsemin</w>
+            <w lemma="undir" xml:id="MINO-Laws2_150_499.4.2.6" pos="af">undir</w>
+            <w lemma="brot" xml:id="MINO-Laws2_150_499.4.2.7" pos="nheo">brot</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.4.2.8" pos="af">á</w>
+            <w lemma="góður" xml:id="MINO-Laws2_150_499.4.2.9" pos="lveþsf">góðri</w>
+            <w lemma="viðskiptavenja" xml:id="MINO-Laws2_150_499.4.2.10" pos="nveþ">viðskiptavenju</w>
+            <pc xml:id="MINO-Laws2_150_499.4.2.11" pos="pk">,</pc>
+            <w lemma="án" xml:id="MINO-Laws2_150_499.4.2.12" pos="af">án</w>
+            <w lemma="viðlagður" xml:id="MINO-Laws2_150_499.4.2.13" pos="lvfesf">viðlagðra</w>
+            <w lemma="stjórnvaldssekt" xml:id="MINO-Laws2_150_499.4.2.14" pos="nvfe">stjórnvaldssekta</w>
+            <pc xml:id="MINO-Laws2_150_499.4.2.15" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.5">
+          <s xml:id="MINO-Laws2_150_499.5.1">
+            <w lemma="2" xml:id="MINO-Laws2_150_499.5.1.1" pos="ta">2</w>
+            <pc xml:id="MINO-Laws2_150_499.5.1.2" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.5.2">
+            <w lemma="tilefni" xml:id="MINO-Laws2_150_499.5.2.1" pos="nhen">Tilefni</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.5.2.2" pos="c">og</w>
+            <w lemma="nauðsyn" xml:id="MINO-Laws2_150_499.5.2.3" pos="nven">nauðsyn</w>
+            <w lemma="lagasetning" xml:id="MINO-Laws2_150_499.5.2.4" pos="nvee">lagasetningar</w>
+            <pc xml:id="MINO-Laws2_150_499.5.2.5" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.6">
+          <s xml:id="MINO-Laws2_150_499.6.1">
+            <w lemma="frá" xml:id="MINO-Laws2_150_499.6.1.1" pos="af">Frá</w>
+            <w lemma="gildistaka" xml:id="MINO-Laws2_150_499.6.1.2" pos="nveþ">gildistöku</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.6.1.3" pos="nhfe">laga</w>
+            <w lemma="nr." xml:id="MINO-Laws2_150_499.6.1.4" pos="ks">nr.</w>
+            <w lemma="65" xml:id="MINO-Laws2_150_499.6.1.5" pos="ta">65</w>
+            <pc xml:id="MINO-Laws2_150_499.6.1.6" pos="pa">/</pc>
+            <w lemma="2015" xml:id="MINO-Laws2_150_499.6.1.7" pos="ta">2015</w>
+            <w lemma="halda" xml:id="MINO-Laws2_150_499.6.1.8" pos="sfg3eþ">hélt</w>
+            <w lemma="erlendur" xml:id="MINO-Laws2_150_499.6.1.9" pos="lkfþsf">erlendum</w>
+            <w lemma="ferðamaður" xml:id="MINO-Laws2_150_499.6.1.10" pos="nkfþ">ferðamönnum</w>
+            <w lemma="áfram" xml:id="MINO-Laws2_150_499.6.1.11" pos="aa">áfram</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.6.1.12" pos="cn">að</w>
+            <w lemma="fjölga" xml:id="MINO-Laws2_150_499.6.1.13" pos="sng">fjölga</w>
+            <pc xml:id="MINO-Laws2_150_499.6.1.14" pos="pk">,</pc>
+            <w lemma="eða" xml:id="MINO-Laws2_150_499.6.1.15" pos="c">eða</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.6.1.16" pos="af">um</w>
+            <w lemma="39%" xml:id="MINO-Laws2_150_499.6.1.17" pos="tp">39%</w>
+            <w lemma="milli" xml:id="MINO-Laws2_150_499.6.1.18" pos="af">milli</w>
+            <w lemma="ár" xml:id="MINO-Laws2_150_499.6.1.19" pos="nhfeg">áranna</w>
+            <w lemma="2015" xml:id="MINO-Laws2_150_499.6.1.20" pos="ta">2015</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.6.1.21" pos="c">og</w>
+            <w lemma="2016" xml:id="MINO-Laws2_150_499.6.1.22" pos="ta">2016</w>
+            <pc xml:id="MINO-Laws2_150_499.6.1.23" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.6.2">
+            <w lemma="brottför" xml:id="MINO-Laws2_150_499.6.2.1" pos="nvfn">Brottfarir</w>
+            <w lemma="ferðamaður" xml:id="MINO-Laws2_150_499.6.2.2" pos="nkfe">ferðamanna</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.6.2.3" pos="af">um</w>
+            <w lemma="Keflavíkurflugvöllur" xml:id="MINO-Laws2_150_499.6.2.4" pos="nkeo-s">Keflavíkurflugvöll</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.6.2.5" pos="sfg3fþ">voru</w>
+            <w lemma="2,3" xml:id="MINO-Laws2_150_499.6.2.6" pos="ta">2,3</w>
+            <w lemma="milljón" xml:id="MINO-Laws2_150_499.6.2.7" pos="nvfn">milljónir</w>
+            <w lemma="ár" xml:id="MINO-Laws2_150_499.6.2.8" pos="nheog">árið</w>
+            <w lemma="2018" xml:id="MINO-Laws2_150_499.6.2.9" pos="ta">2018</w>
+            <pc xml:id="MINO-Laws2_150_499.6.2.10" pos="pk">,</pc>
+            <w lemma="eða" xml:id="MINO-Laws2_150_499.6.2.11" pos="c">eða</w>
+            <w lemma="120.600" xml:id="MINO-Laws2_150_499.6.2.12" pos="ta">120.600</w>
+            <w lemma="margur" xml:id="MINO-Laws2_150_499.6.2.13" pos="lvfnvm">fleiri</w>
+            <w lemma="en" xml:id="MINO-Laws2_150_499.6.2.14" pos="c">en</w>
+            <w lemma="ár" xml:id="MINO-Laws2_150_499.6.2.15" pos="nheog">árið</w>
+            <w lemma="2017" xml:id="MINO-Laws2_150_499.6.2.16" pos="ta">2017</w>
+            <pc xml:id="MINO-Laws2_150_499.6.2.17" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.6.3">
+            <w lemma="fjölgun" xml:id="MINO-Laws2_150_499.6.3.1" pos="nveng">Fjölgunin</w>
+            <w lemma="leiða" xml:id="MINO-Laws2_150_499.6.3.2" pos="sfg3eþ">leiddi</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.6.3.3" pos="af">til</w>
+            <w lemma="enn" xml:id="MINO-Laws2_150_499.6.3.4" pos="aa">enn</w>
+            <w lemma="aukinn" xml:id="MINO-Laws2_150_499.6.3.5" pos="lveesf">aukinnar</w>
+            <w lemma="eftirspurn" xml:id="MINO-Laws2_150_499.6.3.6" pos="nvee">eftirspurnar</w>
+            <w lemma="eftir" xml:id="MINO-Laws2_150_499.6.3.7" pos="af">eftir</w>
+            <w lemma="bílaleigubíll" xml:id="MINO-Laws2_150_499.6.3.8" pos="nkfþ">bílaleigubílum</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.6.3.9" pos="ct">sem</w>
+            <w lemma="leiða" xml:id="MINO-Laws2_150_499.6.3.10" pos="sfg3eþ">leiddi</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.6.3.11" pos="af">til</w>
+            <w lemma="áframhaldandi" xml:id="MINO-Laws2_150_499.6.3.12" pos="lkeeof">áframhaldandi</w>
+            <w lemma="vöxtur" xml:id="MINO-Laws2_150_499.6.3.13" pos="nkee">vaxtar</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.6.3.14" pos="af">í</w>
+            <w lemma="starfsemi" xml:id="MINO-Laws2_150_499.6.3.15" pos="nveþ">starfsemi</w>
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.6.3.16" pos="nvfe">ökutækjaleiga</w>
+            <pc xml:id="MINO-Laws2_150_499.6.3.17" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.6.4">
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.6.4.1" pos="nvfn">Ökutækjaleigur</w>
+            <w lemma="hafa" xml:id="MINO-Laws2_150_499.6.4.2" pos="sfg3fn">hafa</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.6.4.3" pos="sþghen">verið</w>
+            <w lemma="skrá" xml:id="MINO-Laws2_150_499.6.4.4" pos="sþgvfn">skráðar</w>
+            <w lemma="fyrir" xml:id="MINO-Laws2_150_499.6.4.5" pos="af">fyrir</w>
+            <w lemma="tæplega" xml:id="MINO-Laws2_150_499.6.4.6" pos="aa">tæplega</w>
+            <w lemma="40%" xml:id="MINO-Laws2_150_499.6.4.7" pos="tp">40%</w>
+            <w lemma="af" xml:id="MINO-Laws2_150_499.6.4.8" pos="af">af</w>
+            <w lemma="nýskráður" xml:id="MINO-Laws2_150_499.6.4.9" pos="lvfþsf">nýskráðum</w>
+            <w lemma="bifreið" xml:id="MINO-Laws2_150_499.6.4.10" pos="nvfþ">bifreiðum</w>
+            <w lemma="undanfarinn" xml:id="MINO-Laws2_150_499.6.4.11" pos="lhfosf">undanfarin</w>
+            <w lemma="fjórir" xml:id="MINO-Laws2_150_499.6.4.12" pos="tfhfo">fjögur</w>
+            <w lemma="ár" xml:id="MINO-Laws2_150_499.6.4.13" pos="nhfo">ár</w>
+            <w lemma="en" xml:id="MINO-Laws2_150_499.6.4.14" pos="c">en</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.6.4.15" pos="af">í</w>
+            <w lemma="ágúst" xml:id="MINO-Laws2_150_499.6.4.16" pos="nkeþ">ágúst</w>
+            <w lemma="2019" xml:id="MINO-Laws2_150_499.6.4.17" pos="ta">2019</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.6.4.18" pos="sfg3fþ">voru</w>
+            <w lemma="skrá" xml:id="MINO-Laws2_150_499.6.4.19" pos="sþgkfn">skráðir</w>
+            <w lemma="bílaleigubíll" xml:id="MINO-Laws2_150_499.6.4.20" pos="nkfn">bílaleigubílar</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.6.4.21" pos="af">í</w>
+            <w lemma="land" xml:id="MINO-Laws2_150_499.6.4.22" pos="nheþg">landinu</w>
+            <w lemma="24.938" xml:id="MINO-Laws2_150_499.6.4.23" pos="ta">24.938</w>
+            <pc xml:id="MINO-Laws2_150_499.6.4.24" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.6.5">
+            <w lemma="þessi" xml:id="MINO-Laws2_150_499.6.5.1" pos="faven">Þessi</w>
+            <w lemma="aukinn" xml:id="MINO-Laws2_150_499.6.5.2" pos="lvenvf">aukna</w>
+            <w lemma="eftirspurn" xml:id="MINO-Laws2_150_499.6.5.3" pos="nven">eftirspurn</w>
+            <w lemma="hafa" xml:id="MINO-Laws2_150_499.6.5.4" pos="sfg3en">hefur</w>
+            <w lemma="m.a." xml:id="MINO-Laws2_150_499.6.5.5" pos="ks">m.a.</w>
+            <w lemma="leiða" xml:id="MINO-Laws2_150_499.6.5.6" pos="sþghen">leitt</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.6.5.7" pos="af">til</w>
+            <w lemma="það" xml:id="MINO-Laws2_150_499.6.5.8" pos="fphee">þess</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.6.5.9" pos="c">að</w>
+            <w lemma="tekja" xml:id="MINO-Laws2_150_499.6.5.10" pos="nvfn">tekjur</w>
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.6.5.11" pos="nvfe">ökutækjaleiga</w>
+            <w lemma="hafa" xml:id="MINO-Laws2_150_499.6.5.12" pos="sfg3fn">hafa</w>
+            <w lemma="auka" xml:id="MINO-Laws2_150_499.6.5.13" pos="sþmhen">aukist</w>
+            <w lemma="hratt" xml:id="MINO-Laws2_150_499.6.5.14" pos="aa">hratt</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.6.5.15" pos="c">og</w>
+            <w lemma="starfsemi" xml:id="MINO-Laws2_150_499.6.5.16" pos="nven">starfsemi</w>
+            <w lemma="hún" xml:id="MINO-Laws2_150_499.6.5.17" pos="fpvfe">þeirra</w>
+            <w lemma="verða" xml:id="MINO-Laws2_150_499.6.5.18" pos="sþghen">orðið</w>
+            <w lemma="fjölbreyttur" xml:id="MINO-Laws2_150_499.6.5.19" pos="lvenvm">fjölbreyttari</w>
+            <pc xml:id="MINO-Laws2_150_499.6.5.20" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.6.6">
+            <w lemma="birta" xml:id="MINO-Laws2_150_499.6.6.1" pos="sfm3eþ">Birtist</w>
+            <w lemma="það" xml:id="MINO-Laws2_150_499.6.6.2" pos="fphen">það</w>
+            <w lemma="m.a." xml:id="MINO-Laws2_150_499.6.6.3" pos="ks">m.a.</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.6.6.4" pos="af">í</w>
+            <w lemma="aukinn" xml:id="MINO-Laws2_150_499.6.6.5" pos="lheþsf">auknu</w>
+            <w lemma="framboð" xml:id="MINO-Laws2_150_499.6.6.6" pos="nheþ">framboði</w>
+            <w lemma="bílaleigubíll" xml:id="MINO-Laws2_150_499.6.6.7" pos="nkfe">bílaleigubíla</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.6.6.8" pos="af">í</w>
+            <w lemma="hár" xml:id="MINO-Laws2_150_499.6.6.9" pos="lkeþve">hæsta</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.6.6.10" pos="c">og</w>
+            <w lemma="lágur" xml:id="MINO-Laws2_150_499.6.6.11" pos="lkeþve">lægsta</w>
+            <w lemma="verðflokkur" xml:id="MINO-Laws2_150_499.6.6.12" pos="nkeþ">verðflokki</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.6.6.13" pos="c">og</w>
+            <w lemma="framboð" xml:id="MINO-Laws2_150_499.6.6.14" pos="nheþ">framboði</w>
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.6.6.15" pos="nvfe">ökutækjaleiga</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.6.6.16" pos="af">á</w>
+            <w lemma="annar" xml:id="MINO-Laws2_150_499.6.6.17" pos="fohfþ">öðrum</w>
+            <w lemma="skráningarskyldur" xml:id="MINO-Laws2_150_499.6.6.18" pos="lhfþsf">skráningarskyldum</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.6.6.19" pos="nhfþ">ökutækjum</w>
+            <w lemma="svo" xml:id="MINO-Laws2_150_499.6.6.20" pos="aa">svo</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.6.6.21" pos="c">sem</w>
+            <w lemma="fjórhjól" xml:id="MINO-Laws2_150_499.6.6.22" pos="nhfþ">fjórhjólum</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.6.6.23" pos="c">og</w>
+            <w lemma="vélsleði" xml:id="MINO-Laws2_150_499.6.6.24" pos="nkfþ">vélsleðum</w>
+            <pc xml:id="MINO-Laws2_150_499.6.6.25" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.7">
+          <s xml:id="MINO-Laws2_150_499.7.1">
+            <w lemma="frá" xml:id="MINO-Laws2_150_499.7.1.1" pos="af">Frá</w>
+            <w lemma="gildistaka" xml:id="MINO-Laws2_150_499.7.1.2" pos="nveþ">gildistöku</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.7.1.3" pos="nhfeg">laganna</w>
+            <w lemma="hafa" xml:id="MINO-Laws2_150_499.7.1.4" pos="sfg3en">hefur</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.7.1.5" pos="nven-s">Samgöngustofa</w>
+            <w lemma="aldrei" xml:id="MINO-Laws2_150_499.7.1.6" pos="aa">aldrei</w>
+            <w lemma="þurfa" xml:id="MINO-Laws2_150_499.7.1.7" pos="sþghen">þurft</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.7.1.8" pos="cn">að</w>
+            <w lemma="fella" xml:id="MINO-Laws2_150_499.7.1.9" pos="sng">fella</w>
+            <w lemma="niður" xml:id="MINO-Laws2_150_499.7.1.10" pos="aa">niður</w>
+            <w lemma="leyfi" xml:id="MINO-Laws2_150_499.7.1.11" pos="nheo">leyfi</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.7.1.12" pos="af">til</w>
+            <w lemma="rekstur" xml:id="MINO-Laws2_150_499.7.1.13" pos="nkee">reksturs</w>
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.7.1.14" pos="nvee">ökutækjaleigu</w>
+            <pc xml:id="MINO-Laws2_150_499.7.1.15" pos="pk">,</pc>
+            <w lemma="sbr." xml:id="MINO-Laws2_150_499.7.1.16" pos="ks">sbr.</w>
+            <w lemma="11." xml:id="MINO-Laws2_150_499.7.1.17" pos="ta">11.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.7.1.18" pos="ks">gr.</w>
+            <pc xml:id="MINO-Laws2_150_499.7.1.19" pos="pk">,</pc>
+            <w lemma="beita" xml:id="MINO-Laws2_150_499.7.1.20" pos="sng">beita</w>
+            <w lemma="dagsekt" xml:id="MINO-Laws2_150_499.7.1.21" pos="nvfþ">dagsektum</w>
+            <pc xml:id="MINO-Laws2_150_499.7.1.22" pos="pk">,</pc>
+            <w lemma="sbr." xml:id="MINO-Laws2_150_499.7.1.23" pos="ks">sbr.</w>
+            <w lemma="12." xml:id="MINO-Laws2_150_499.7.1.24" pos="ta">12.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.7.1.25" pos="ks">gr.</w>
+            <pc xml:id="MINO-Laws2_150_499.7.1.26" pos="pk">,</pc>
+            <w lemma="né" xml:id="MINO-Laws2_150_499.7.1.27" pos="c">né</w>
+            <w lemma="stjórnvaldssekt" xml:id="MINO-Laws2_150_499.7.1.28" pos="nvfþ">stjórnvaldssektum</w>
+            <pc xml:id="MINO-Laws2_150_499.7.1.29" pos="pk">,</pc>
+            <w lemma="sbr." xml:id="MINO-Laws2_150_499.7.1.30" pos="ks">sbr.</w>
+            <w lemma="13." xml:id="MINO-Laws2_150_499.7.1.31" pos="ta">13.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.7.1.32" pos="ks">gr.</w>
+            <pc xml:id="MINO-Laws2_150_499.7.1.33" pos="pk">,</pc>
+            <w lemma="vegna" xml:id="MINO-Laws2_150_499.7.1.34" pos="af">vegna</w>
+            <w lemma="brot" xml:id="MINO-Laws2_150_499.7.1.35" pos="nhfe">brota</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.7.1.36" pos="af">á</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.7.1.37" pos="nhfþg">lögunum</w>
+            <w lemma="eða" xml:id="MINO-Laws2_150_499.7.1.38" pos="c">eða</w>
+            <w lemma="misnotkun" xml:id="MINO-Laws2_150_499.7.1.39" pos="nvee">misnotkunar</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.7.1.40" pos="af">á</w>
+            <w lemma="leyfi" xml:id="MINO-Laws2_150_499.7.1.41" pos="nheþ">leyfi</w>
+            <pc xml:id="MINO-Laws2_150_499.7.1.42" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.8">
+          <s xml:id="MINO-Laws2_150_499.8.1">
+            <w lemma="hinn" xml:id="MINO-Laws2_150_499.8.1.1" pos="gkeo">Hinn</w>
+            <w lemma="15." xml:id="MINO-Laws2_150_499.8.1.2" pos="ta">15.</w>
+            <w lemma="mars" xml:id="MINO-Laws2_150_499.8.1.3" pos="nkeo">mars</w>
+            <w lemma="2019" xml:id="MINO-Laws2_150_499.8.1.4" pos="ta">2019</w>
+            <w lemma="senda" xml:id="MINO-Laws2_150_499.8.1.5" pos="sfg3eþ">sendi</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.8.1.6" pos="nven-s">Samgöngustofa</w>
+            <w lemma="tiltekinn" xml:id="MINO-Laws2_150_499.8.1.7" pos="lveþsf">tiltekinni</w>
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.8.1.8" pos="nveþ">ökutækjaleigu</w>
+            <w lemma="viðvörun" xml:id="MINO-Laws2_150_499.8.1.9" pos="nveo">viðvörun</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.8.1.10" pos="af">um</w>
+            <w lemma="fyrirhugaður" xml:id="MINO-Laws2_150_499.8.1.11" pos="lveosf">fyrirhugaða</w>
+            <w lemma="niðurfelling" xml:id="MINO-Laws2_150_499.8.1.12" pos="nveo">niðurfellingu</w>
+            <w lemma="leyfi" xml:id="MINO-Laws2_150_499.8.1.13" pos="nhee">leyfis</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.8.1.14" pos="af">til</w>
+            <w lemma="rekstur" xml:id="MINO-Laws2_150_499.8.1.15" pos="nkee">reksturs</w>
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.8.1.16" pos="nvee">ökutækjaleigu</w>
+            <w lemma="með" xml:id="MINO-Laws2_150_499.8.1.17" pos="af">með</w>
+            <w lemma="vísan" xml:id="MINO-Laws2_150_499.8.1.18" pos="nveþ">vísan</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.8.1.19" pos="af">til</w>
+            <w lemma="1." xml:id="MINO-Laws2_150_499.8.1.20" pos="ta">1.</w>
+            <w lemma="mgr." xml:id="MINO-Laws2_150_499.8.1.21" pos="ks">mgr.</w>
+            <w lemma="11." xml:id="MINO-Laws2_150_499.8.1.22" pos="ta">11.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.8.1.23" pos="ks">gr.</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.8.1.24" pos="nhfeg">laganna</w>
+            <pc xml:id="MINO-Laws2_150_499.8.1.25" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.8.2">
+            <w lemma="ástæða" xml:id="MINO-Laws2_150_499.8.2.1" pos="nveo">Ástæða</w>
+            <w lemma="viðvörun" xml:id="MINO-Laws2_150_499.8.2.2" pos="nveeg">viðvörunarinnar</w>
+            <w lemma="mega" xml:id="MINO-Laws2_150_499.8.2.3" pos="sfg3eþ">mátti</w>
+            <w lemma="rekja" xml:id="MINO-Laws2_150_499.8.2.4" pos="sng">rekja</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.8.2.5" pos="af">til</w>
+            <w lemma="háttsemi" xml:id="MINO-Laws2_150_499.8.2.6" pos="nvee">háttsemi</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.8.2.7" pos="ct">sem</w>
+            <w lemma="fela" xml:id="MINO-Laws2_150_499.8.2.8" pos="sfm3eþ">fólst</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.8.2.9" pos="af">í</w>
+            <w lemma="það" xml:id="MINO-Laws2_150_499.8.2.10" pos="fpheþ">því</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.8.2.11" pos="cn">að</w>
+            <w lemma="færa" xml:id="MINO-Laws2_150_499.8.2.12" pos="sng">færa</w>
+            <w lemma="niður" xml:id="MINO-Laws2_150_499.8.2.13" pos="aa">niður</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.8.2.14" pos="nveo">kílómetrastöðu</w>
+            <w lemma="skráningarskyldur" xml:id="MINO-Laws2_150_499.8.2.15" pos="lhfesf">skráningarskyldra</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.8.2.16" pos="nhfe">ökutækja</w>
+            <w lemma="meðan" xml:id="MINO-Laws2_150_499.8.2.17" pos="c">meðan</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.8.2.18" pos="nhfng">ökutækin</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.8.2.19" pos="sfg3fþ">voru</w>
+            <w lemma="bjóða" xml:id="MINO-Laws2_150_499.8.2.20" pos="sþghfn">boðin</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.8.2.21" pos="af">til</w>
+            <w lemma="leiga" xml:id="MINO-Laws2_150_499.8.2.22" pos="nvee">leigu</w>
+            <pc xml:id="MINO-Laws2_150_499.8.2.23" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.8.3">
+            <w lemma="viðvörun" xml:id="MINO-Laws2_150_499.8.3.1" pos="nven">Viðvörun</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.8.3.2" pos="nvee-s">Samgöngustofu</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.8.3.3" pos="sfg3eþ">var</w>
+            <w lemma="senda" xml:id="MINO-Laws2_150_499.8.3.4" pos="sþgven">send</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.8.3.5" pos="af">í</w>
+            <w lemma="samræmi" xml:id="MINO-Laws2_150_499.8.3.6" pos="nheþ">samræmi</w>
+            <w lemma="við" xml:id="MINO-Laws2_150_499.8.3.7" pos="af">við</w>
+            <w lemma="3." xml:id="MINO-Laws2_150_499.8.3.8" pos="ta">3.</w>
+            <w lemma="mgr." xml:id="MINO-Laws2_150_499.8.3.9" pos="ks">mgr.</w>
+            <w lemma="11." xml:id="MINO-Laws2_150_499.8.3.10" pos="ta">11.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.8.3.11" pos="ks">gr.</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.8.3.12" pos="ct">sem</w>
+            <w lemma="kveða" xml:id="MINO-Laws2_150_499.8.3.13" pos="sfg3en">kveður</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.8.3.14" pos="aa">á</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.8.3.15" pos="af">um</w>
+            <w lemma="skylda" xml:id="MINO-Laws2_150_499.8.3.16" pos="nveo">skyldu</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.8.3.17" pos="nvee-s">Samgöngustofu</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.8.3.18" pos="cn">að</w>
+            <w lemma="senda" xml:id="MINO-Laws2_150_499.8.3.19" pos="sng">senda</w>
+            <w lemma="leyfishafi" xml:id="MINO-Laws2_150_499.8.3.20" pos="nkeþ">leyfishafa</w>
+            <w lemma="skriflegur" xml:id="MINO-Laws2_150_499.8.3.21" pos="lveosf">skriflega</w>
+            <w lemma="viðvörun" xml:id="MINO-Laws2_150_499.8.3.22" pos="nveo">viðvörun</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.8.3.23" pos="c">og</w>
+            <w lemma="veita" xml:id="MINO-Laws2_150_499.8.3.24" pos="sng">veita</w>
+            <w lemma="hæfilegur" xml:id="MINO-Laws2_150_499.8.3.25" pos="lkeosf">hæfilegan</w>
+            <w lemma="frestur" xml:id="MINO-Laws2_150_499.8.3.26" pos="nkeo">frest</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.8.3.27" pos="af">til</w>
+            <w lemma="úrbót" xml:id="MINO-Laws2_150_499.8.3.28" pos="nvfe">úrbóta</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.8.3.29" pos="af">á</w>
+            <w lemma="annmark" xml:id="MINO-Laws2_150_499.8.3.30" pos="nhfþ">annmörkum</w>
+            <w lemma="áður" xml:id="MINO-Laws2_150_499.8.3.31" pos="aa">áður</w>
+            <w lemma="en" xml:id="MINO-Laws2_150_499.8.3.32" pos="c">en</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.8.3.33" pos="af">til</w>
+            <w lemma="niðurfelling" xml:id="MINO-Laws2_150_499.8.3.34" pos="nvee">niðurfellingar</w>
+            <w lemma="starfsleyfi" xml:id="MINO-Laws2_150_499.8.3.35" pos="nhee">starfsleyfis</w>
+            <w lemma="koma" xml:id="MINO-Laws2_150_499.8.3.36" pos="sfg3en">kemur</w>
+            <pc xml:id="MINO-Laws2_150_499.8.3.37" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.8.4">
+            <w lemma="samgöngustofa" xml:id="MINO-Laws2_150_499.8.4.1" pos="nven">Samgöngustofa</w>
+            <w lemma="meta" xml:id="MINO-Laws2_150_499.8.4.2" pos="sfg3eþ">mat</w>
+            <w lemma="ráðstöfun" xml:id="MINO-Laws2_150_499.8.4.3" pos="nvfo">ráðstafanir</w>
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.8.4.4" pos="nveeg">ökutækjaleigunnar</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.8.4.5" pos="af">í</w>
+            <w lemma="kjölfar" xml:id="MINO-Laws2_150_499.8.4.6" pos="nheo">kjölfar</w>
+            <w lemma="viðvörun" xml:id="MINO-Laws2_150_499.8.4.7" pos="nveeg">viðvörunarinnar</w>
+            <w lemma="fullnægjandi" xml:id="MINO-Laws2_150_499.8.4.8" pos="lveoof">fullnægjandi</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.8.4.9" pos="c">og</w>
+            <w lemma="ekki" xml:id="MINO-Laws2_150_499.8.4.10" pos="aa">ekki</w>
+            <w lemma="koma" xml:id="MINO-Laws2_150_499.8.4.11" pos="sfg3eþ">kom</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.8.4.12" pos="af">til</w>
+            <w lemma="niðurfelling" xml:id="MINO-Laws2_150_499.8.4.13" pos="nvee">niðurfellingar</w>
+            <w lemma="leyfi" xml:id="MINO-Laws2_150_499.8.4.14" pos="nhee">leyfis</w>
+            <pc xml:id="MINO-Laws2_150_499.8.4.15" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.9">
+          <s xml:id="MINO-Laws2_150_499.9.1">
+            <w lemma="stjórnvaldsákvörðun" xml:id="MINO-Laws2_150_499.9.1.1" pos="nven">Stjórnvaldsákvörðun</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.9.1.2" pos="af">um</w>
+            <w lemma="niðurfelling" xml:id="MINO-Laws2_150_499.9.1.3" pos="nveo">niðurfellingu</w>
+            <w lemma="leyfi" xml:id="MINO-Laws2_150_499.9.1.4" pos="nhee">leyfis</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.9.1.5" pos="sfg3en">er</w>
+            <w lemma="afar" xml:id="MINO-Laws2_150_499.9.1.6" pos="aa">afar</w>
+            <w lemma="íþyngjandi" xml:id="MINO-Laws2_150_499.9.1.7" pos="lvenof">íþyngjandi</w>
+            <pc xml:id="MINO-Laws2_150_499.9.1.8" pos="pk">,</pc>
+            <w lemma="varða" xml:id="MINO-Laws2_150_499.9.1.9" pos="sfg3en">varðar</w>
+            <w lemma="atvinnurekstur" xml:id="MINO-Laws2_150_499.9.1.10" pos="nkeo">atvinnurekstur</w>
+            <w lemma="fólk" xml:id="MINO-Laws2_150_499.9.1.11" pos="nhee">fólks</w>
+            <pc xml:id="MINO-Laws2_150_499.9.1.12" pos="pk">,</pc>
+            <w lemma="atvinnufrelsi" xml:id="MINO-Laws2_150_499.9.1.13" pos="nheo">atvinnufrelsi</w>
+            <w lemma="það" xml:id="MINO-Laws2_150_499.9.1.14" pos="fphee">þess</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.9.1.15" pos="c">og</w>
+            <w lemma="eignarréttur" xml:id="MINO-Laws2_150_499.9.1.16" pos="nkeo">eignarrétt</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.9.1.17" pos="ct">sem</w>
+            <w lemma="njóta" xml:id="MINO-Laws2_150_499.9.1.18" pos="sfg3en">nýtur</w>
+            <w lemma="vernd" xml:id="MINO-Laws2_150_499.9.1.19" pos="nvee">verndar</w>
+            <w lemma="ákvæði" xml:id="MINO-Laws2_150_499.9.1.20" pos="nhfe">ákvæða</w>
+            <w lemma="72." xml:id="MINO-Laws2_150_499.9.1.21" pos="ta">72.</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.9.1.22" pos="c">og</w>
+            <w lemma="75." xml:id="MINO-Laws2_150_499.9.1.23" pos="ta">75.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.9.1.24" pos="ks">gr.</w>
+            <w lemma="stjórnarskrá" xml:id="MINO-Laws2_150_499.9.1.25" pos="nvee">stjórnarskrár</w>
+            <w lemma="lýðveldi" xml:id="MINO-Laws2_150_499.9.1.26" pos="nheeg">lýðveldisins</w>
+            <w lemma="Ísland" xml:id="MINO-Laws2_150_499.9.1.27" pos="nhee-s">Íslands</w>
+            <pc xml:id="MINO-Laws2_150_499.9.1.28" pos="pk">,</pc>
+            <w lemma="nr." xml:id="MINO-Laws2_150_499.9.1.29" pos="ks">nr.</w>
+            <w lemma="33" xml:id="MINO-Laws2_150_499.9.1.30" pos="ta">33</w>
+            <pc xml:id="MINO-Laws2_150_499.9.1.31" pos="pa">/</pc>
+            <w lemma="1944" xml:id="MINO-Laws2_150_499.9.1.32" pos="ta">1944</w>
+            <pc xml:id="MINO-Laws2_150_499.9.1.33" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.9.2">
+            <w lemma="þessi" xml:id="MINO-Laws2_150_499.9.2.1" pos="fahfn">Þessi</w>
+            <w lemma="sjónarmið" xml:id="MINO-Laws2_150_499.9.2.2" pos="nhfn">sjónarmið</w>
+            <w lemma="endurspegla" xml:id="MINO-Laws2_150_499.9.2.3" pos="sfm3fn">endurspeglast</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.9.2.4" pos="af">í</w>
+            <w lemma="ákvæði" xml:id="MINO-Laws2_150_499.9.2.5" pos="nheþ">ákvæði</w>
+            <w lemma="3." xml:id="MINO-Laws2_150_499.9.2.6" pos="ta">3.</w>
+            <w lemma="mgr." xml:id="MINO-Laws2_150_499.9.2.7" pos="ks">mgr.</w>
+            <w lemma="11." xml:id="MINO-Laws2_150_499.9.2.8" pos="ta">11.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.9.2.9" pos="ks">gr.</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.9.2.10" pos="nhfeg">laganna</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.9.2.11" pos="ct">sem</w>
+            <pc xml:id="MINO-Laws2_150_499.9.2.12" pos="pk">,</pc>
+            <w lemma="líkt" xml:id="MINO-Laws2_150_499.9.2.13" pos="aa">líkt</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.9.2.14" pos="c">og</w>
+            <w lemma="snemma" xml:id="MINO-Laws2_150_499.9.2.15" pos="aam">fyrr</w>
+            <w lemma="segja" xml:id="MINO-Laws2_150_499.9.2.16" pos="sfg3en">segir</w>
+            <pc xml:id="MINO-Laws2_150_499.9.2.17" pos="pk">,</pc>
+            <w lemma="skylda" xml:id="MINO-Laws2_150_499.9.2.18" pos="sfg3en">skyldar</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.9.2.19" pos="nveþ-s">Samgöngustofu</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.9.2.20" pos="cn">að</w>
+            <w lemma="veita" xml:id="MINO-Laws2_150_499.9.2.21" pos="sng">veita</w>
+            <w lemma="leyfishafi" xml:id="MINO-Laws2_150_499.9.2.22" pos="nkeþ">leyfishafa</w>
+            <w lemma="frestur" xml:id="MINO-Laws2_150_499.9.2.23" pos="nkeo">frest</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.9.2.24" pos="af">til</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.9.2.25" pos="cn">að</w>
+            <w lemma="bæta" xml:id="MINO-Laws2_150_499.9.2.26" pos="sng">bæta</w>
+            <w lemma="úr" xml:id="MINO-Laws2_150_499.9.2.27" pos="af">úr</w>
+            <w lemma="annmark" xml:id="MINO-Laws2_150_499.9.2.28" pos="nhfþ">annmörkum</w>
+            <w lemma="áður" xml:id="MINO-Laws2_150_499.9.2.29" pos="aa">áður</w>
+            <w lemma="en" xml:id="MINO-Laws2_150_499.9.2.30" pos="c">en</w>
+            <w lemma="koma" xml:id="MINO-Laws2_150_499.9.2.31" pos="sfg3en">kemur</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.9.2.32" pos="af">til</w>
+            <w lemma="niðurfelling" xml:id="MINO-Laws2_150_499.9.2.33" pos="nvee">niðurfellingar</w>
+            <w lemma="leyfi" xml:id="MINO-Laws2_150_499.9.2.34" pos="nhee">leyfis</w>
+            <pc xml:id="MINO-Laws2_150_499.9.2.35" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.10">
+          <s xml:id="MINO-Laws2_150_499.10.1">
+            <w lemma="með" xml:id="MINO-Laws2_150_499.10.1.1" pos="af">Með</w>
+            <w lemma="frumvarp" xml:id="MINO-Laws2_150_499.10.1.2" pos="nheþg">frumvarpinu</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.10.1.3" pos="sfg3en">er</w>
+            <w lemma="leggja" xml:id="MINO-Laws2_150_499.10.1.4" pos="sþghen">lagt</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.10.1.5" pos="af">til</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.10.1.6" pos="c">að</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.10.1.7" pos="nveþ-s">Samgöngustofu</w>
+            <w lemma="verða" xml:id="MINO-Laws2_150_499.10.1.8" pos="svg3en">verði</w>
+            <w lemma="veita" xml:id="MINO-Laws2_150_499.10.1.9" pos="sþgven">veitt</w>
+            <w lemma="heimild" xml:id="MINO-Laws2_150_499.10.1.10" pos="nven">heimild</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.10.1.11" pos="af">til</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.10.1.12" pos="cn">að</w>
+            <w lemma="leggja" xml:id="MINO-Laws2_150_499.10.1.13" pos="sng">leggja</w>
+            <w lemma="stjórnvaldssekt" xml:id="MINO-Laws2_150_499.10.1.14" pos="nvfo">stjórnvaldssektir</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.10.1.15" pos="af">á</w>
+            <w lemma="leyfishafi" xml:id="MINO-Laws2_150_499.10.1.16" pos="nkeo">leyfishafa</w>
+            <pc xml:id="MINO-Laws2_150_499.10.1.17" pos="pk">,</pc>
+            <w lemma="einstaklingur" xml:id="MINO-Laws2_150_499.10.1.18" pos="nkeo">einstakling</w>
+            <w lemma="eða" xml:id="MINO-Laws2_150_499.10.1.19" pos="c">eða</w>
+            <w lemma="lögaðili" xml:id="MINO-Laws2_150_499.10.1.20" pos="nkeo">lögaðila</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.10.1.21" pos="ct">sem</w>
+            <w lemma="breyta" xml:id="MINO-Laws2_150_499.10.1.22" pos="sfg3en">breytir</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.10.1.23" pos="nveþ">kílómetrastöðu</w>
+            <w lemma="skráningarskyldur" xml:id="MINO-Laws2_150_499.10.1.24" pos="lheesf">skráningarskylds</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.10.1.25" pos="nhee">ökutækis</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.10.1.26" pos="ct">sem</w>
+            <w lemma="skrá" xml:id="MINO-Laws2_150_499.10.1.27" pos="sþghen">skráð</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.10.1.28" pos="sfg3en">er</w>
+            <w lemma="hjá" xml:id="MINO-Laws2_150_499.10.1.29" pos="af">hjá</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.10.1.30" pos="nveþ-s">Samgöngustofu</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.10.1.31" pos="c">sem</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.10.1.32" pos="nhen">ökutæki</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.10.1.33" pos="af">í</w>
+            <w lemma="notkunarflokkur" xml:id="MINO-Laws2_150_499.10.1.34" pos="nkeþ">notkunarflokki</w>
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.10.1.35" pos="nvee">ökutækjaleigu</w>
+            <pc xml:id="MINO-Laws2_150_499.10.1.36" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.10.2">
+            <w lemma="niðurfærsla" xml:id="MINO-Laws2_150_499.10.2.1" pos="nven">Niðurfærsla</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.10.2.2" pos="nvee">kílómetrastöðu</w>
+            <w lemma="fela" xml:id="MINO-Laws2_150_499.10.2.3" pos="sfg3en">felur</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.10.2.4" pos="af">í</w>
+            <w lemma="sig" xml:id="MINO-Laws2_150_499.10.2.5" pos="fpveþ">sér</w>
+            <w lemma="villandi" xml:id="MINO-Laws2_150_499.10.2.6" pos="lkfoof">villandi</w>
+            <w lemma="viðskiptaháttur" xml:id="MINO-Laws2_150_499.10.2.7" pos="nkfo">viðskiptahætti</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.10.2.8" pos="c">og</w>
+            <w lemma="gefa" xml:id="MINO-Laws2_150_499.10.2.9" pos="sfg3en">gefur</w>
+            <w lemma="rangur" xml:id="MINO-Laws2_150_499.10.2.10" pos="lveosf">ranga</w>
+            <w lemma="ásýnd" xml:id="MINO-Laws2_150_499.10.2.11" pos="nveo">ásýnd</w>
+            <w lemma="af" xml:id="MINO-Laws2_150_499.10.2.12" pos="af">af</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.10.2.13" pos="nheþ">ökutæki</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.10.2.14" pos="c">og</w>
+            <w lemma="rekstur" xml:id="MINO-Laws2_150_499.10.2.15" pos="nkeþ">rekstri</w>
+            <w lemma="leyfishafi" xml:id="MINO-Laws2_150_499.10.2.16" pos="nkfe">leyfishafa</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.10.2.17" pos="af">til</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.10.2.18" pos="cn">að</w>
+            <w lemma="hagna" xml:id="MINO-Laws2_150_499.10.2.19" pos="snm">hagnast</w>
+            <w lemma="fjárhagslega" xml:id="MINO-Laws2_150_499.10.2.20" pos="aa">fjárhagslega</w>
+            <pc xml:id="MINO-Laws2_150_499.10.2.21" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.10.3">
+            <w lemma="þá" xml:id="MINO-Laws2_150_499.10.3.1" pos="aa">Þá</w>
+            <w lemma="geta" xml:id="MINO-Laws2_150_499.10.3.2" pos="sfg3en">getur</w>
+            <w lemma="háttsemi" xml:id="MINO-Laws2_150_499.10.3.3" pos="nveng">háttsemin</w>
+            <w lemma="koma" xml:id="MINO-Laws2_150_499.10.3.4" pos="sþghen">komið</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.10.3.5" pos="af">í</w>
+            <w lemma="vegur" xml:id="MINO-Laws2_150_499.10.3.6" pos="nkeo">veg</w>
+            <w lemma="fyrir" xml:id="MINO-Laws2_150_499.10.3.7" pos="af">fyrir</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.10.3.8" pos="c">að</w>
+            <w lemma="eigandi" xml:id="MINO-Laws2_150_499.10.3.9" pos="nken">eigandi</w>
+            <w lemma="eða" xml:id="MINO-Laws2_150_499.10.3.10" pos="c">eða</w>
+            <w lemma="umráðamaður" xml:id="MINO-Laws2_150_499.10.3.11" pos="nken">umráðamaður</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.10.3.12" pos="nhee">ökutækis</w>
+            <w lemma="geta" xml:id="MINO-Laws2_150_499.10.3.13" pos="svg3en">geti</w>
+            <w lemma="framfylgja" xml:id="MINO-Laws2_150_499.10.3.14" pos="sþghen">framfylgt</w>
+            <w lemma="reglubundinn" xml:id="MINO-Laws2_150_499.10.3.15" pos="lheþsf">reglubundnu</w>
+            <w lemma="viðhald" xml:id="MINO-Laws2_150_499.10.3.16" pos="nheþ">viðhaldi</w>
+            <w lemma="öryggisbúnaður" xml:id="MINO-Laws2_150_499.10.3.17" pos="nkee">öryggisbúnaðar</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.10.3.18" pos="c">og</w>
+            <w lemma="nauðsynlegur" xml:id="MINO-Laws2_150_499.10.3.19" pos="lvfþsf">nauðsynlegum</w>
+            <w lemma="viðgerð" xml:id="MINO-Laws2_150_499.10.3.20" pos="nvfþ">viðgerðum</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.10.3.21" pos="af">í</w>
+            <w lemma="tækur" xml:id="MINO-Laws2_150_499.10.3.22" pos="lveosf">tæka</w>
+            <w lemma="tíð" xml:id="MINO-Laws2_150_499.10.3.23" pos="nveo">tíð</w>
+            <pc xml:id="MINO-Laws2_150_499.10.3.24" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.10.4">
+            <w lemma="háttsemi" xml:id="MINO-Laws2_150_499.10.4.1" pos="nveng">Háttsemin</w>
+            <w lemma="geta" xml:id="MINO-Laws2_150_499.10.4.2" pos="sfg3en">getur</w>
+            <w lemma="þannig" xml:id="MINO-Laws2_150_499.10.4.3" pos="aa">þannig</w>
+            <w lemma="hafa" xml:id="MINO-Laws2_150_499.10.4.4" pos="sþghen">haft</w>
+            <w lemma="áhrif" xml:id="MINO-Laws2_150_499.10.4.5" pos="nhfo">áhrif</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.10.4.6" pos="af">á</w>
+            <w lemma="öryggi" xml:id="MINO-Laws2_150_499.10.4.7" pos="nheo">öryggi</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.10.4.8" pos="af">í</w>
+            <w lemma="akstur" xml:id="MINO-Laws2_150_499.10.4.9" pos="nkeþ">akstri</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.10.4.10" pos="ct">sem</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.10.4.11" pos="sfg3en">er</w>
+            <w lemma="sig" xml:id="MINO-Laws2_150_499.10.4.12" pos="fpkeþ">sér</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.10.4.13" pos="af">í</w>
+            <w lemma="lag" xml:id="MINO-Laws2_150_499.10.4.14" pos="nheþ">lagi</w>
+            <w lemma="alvarlegur" xml:id="MINO-Laws2_150_499.10.4.15" pos="lhensf">alvarlegt</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.10.4.16" pos="af">í</w>
+            <w lemma="ljós" xml:id="MINO-Laws2_150_499.10.4.17" pos="nheþ">ljósi</w>
+            <w lemma="það" xml:id="MINO-Laws2_150_499.10.4.18" pos="fphee">þess</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.10.4.19" pos="c">að</w>
+            <w lemma="leigutaki" xml:id="MINO-Laws2_150_499.10.4.20" pos="nkfn">leigutakar</w>
+            <w lemma="aka" xml:id="MINO-Laws2_150_499.10.4.21" pos="sfg3fn">aka</w>
+            <w lemma="oft" xml:id="MINO-Laws2_150_499.10.4.22" pos="aa">oft</w>
+            <w lemma="hundruð" xml:id="MINO-Laws2_150_499.10.4.23" pos="tfkfo">hundruð</w>
+            <w lemma="kílómetri" xml:id="MINO-Laws2_150_499.10.4.24" pos="nkfo">kílómetra</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.10.4.25" pos="af">á</w>
+            <w lemma="dagur" xml:id="MINO-Laws2_150_499.10.4.26" pos="nkeo">dag</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.10.4.27" pos="af">í</w>
+            <w lemma="aðstæður" xml:id="MINO-Laws2_150_499.10.4.28" pos="nvfþ">aðstæðum</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.10.4.29" pos="ct">sem</w>
+            <w lemma="hann" xml:id="MINO-Laws2_150_499.10.4.30" pos="fpkfn">þeir</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.10.4.31" pos="sfg3fn">eru</w>
+            <w lemma="óvanur" xml:id="MINO-Laws2_150_499.10.4.32" pos="lkfnsf">óvanir</w>
+            <pc xml:id="MINO-Laws2_150_499.10.4.33" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.10.5">
+            <w lemma="í" xml:id="MINO-Laws2_150_499.10.5.1" pos="af">Í</w>
+            <w lemma="þessi" xml:id="MINO-Laws2_150_499.10.5.2" pos="faheþ">þessu</w>
+            <w lemma="samhengi" xml:id="MINO-Laws2_150_499.10.5.3" pos="nheþ">samhengi</w>
+            <w lemma="mega" xml:id="MINO-Laws2_150_499.10.5.4" pos="sfg3en">má</w>
+            <w lemma="benda" xml:id="MINO-Laws2_150_499.10.5.5" pos="sng">benda</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.10.5.6" pos="af">á</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.10.5.7" pos="c">að</w>
+            <w lemma="samkvæmt" xml:id="MINO-Laws2_150_499.10.5.8" pos="af">samkvæmt</w>
+            <w lemma="a-liður" xml:id="MINO-Laws2_150_499.10.5.9" pos="nkeþ">a-lið</w>
+            <w lemma="1." xml:id="MINO-Laws2_150_499.10.5.10" pos="ta">1.</w>
+            <w lemma="mgr." xml:id="MINO-Laws2_150_499.10.5.11" pos="ks">mgr.</w>
+            <w lemma="4." xml:id="MINO-Laws2_150_499.10.5.12" pos="ta">4.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.10.5.13" pos="ks">gr.</w>
+            <w lemma="reglugerð" xml:id="MINO-Laws2_150_499.10.5.14" pos="nvee">reglugerðar</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.10.5.15" pos="af">um</w>
+            <w lemma="skoðun" xml:id="MINO-Laws2_150_499.10.5.16" pos="nveo">skoðun</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.10.5.17" pos="nhfe">ökutækja</w>
+            <w lemma="nr." xml:id="MINO-Laws2_150_499.10.5.18" pos="ks">nr.</w>
+            <w lemma="8" xml:id="MINO-Laws2_150_499.10.5.19" pos="ta">8</w>
+            <pc xml:id="MINO-Laws2_150_499.10.5.20" pos="pa">/</pc>
+            <w lemma="2009" xml:id="MINO-Laws2_150_499.10.5.21" pos="ta">2009</w>
+            <w lemma="fara" xml:id="MINO-Laws2_150_499.10.5.22" pos="sfg3en">fer</w>
+            <w lemma="fyrstur" xml:id="MINO-Laws2_150_499.10.5.23" pos="lvenve">fyrsta</w>
+            <w lemma="lögbundinn" xml:id="MINO-Laws2_150_499.10.5.24" pos="lvenvf">lögbundna</w>
+            <w lemma="aðalskoðun" xml:id="MINO-Laws2_150_499.10.5.25" pos="nven">aðalskoðun</w>
+            <w lemma="nýskráð" xml:id="MINO-Laws2_150_499.10.5.26" pos="nhee">nýskráðs</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.10.5.27" pos="nhee">ökutækis</w>
+            <w lemma="fram" xml:id="MINO-Laws2_150_499.10.5.28" pos="aa">fram</w>
+            <w lemma="fjórir" xml:id="MINO-Laws2_150_499.10.5.29" pos="tfhfþ">fjórum</w>
+            <w lemma="ár" xml:id="MINO-Laws2_150_499.10.5.30" pos="nhfþ">árum</w>
+            <w lemma="eftir" xml:id="MINO-Laws2_150_499.10.5.31" pos="af">eftir</w>
+            <w lemma="nýskráning" xml:id="MINO-Laws2_150_499.10.5.32" pos="nveo">nýskráningu</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.10.5.33" pos="c">og</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.10.5.34" pos="af">á</w>
+            <w lemma="tveir" xml:id="MINO-Laws2_150_499.10.5.35" pos="tfhfe">tveggja</w>
+            <w lemma="ár" xml:id="MINO-Laws2_150_499.10.5.36" pos="nhfe">ára</w>
+            <w lemma="frestur" xml:id="MINO-Laws2_150_499.10.5.37" pos="nkeþ">fresti</w>
+            <w lemma="eftir" xml:id="MINO-Laws2_150_499.10.5.38" pos="af">eftir</w>
+            <w lemma="það" xml:id="MINO-Laws2_150_499.10.5.39" pos="fpheo">það</w>
+            <pc xml:id="MINO-Laws2_150_499.10.5.40" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.10.6">
+            <w lemma="því" xml:id="MINO-Laws2_150_499.10.6.1" pos="aa">Því</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.10.6.2" pos="sfg3en">er</w>
+            <w lemma="ekki" xml:id="MINO-Laws2_150_499.10.6.3" pos="aa">ekki</w>
+            <w lemma="óalgengur" xml:id="MINO-Laws2_150_499.10.6.4" pos="lhensf">óalgengt</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.10.6.5" pos="c">að</w>
+            <w lemma="bílaleigubíll" xml:id="MINO-Laws2_150_499.10.6.6" pos="nkfn">bílaleigubílar</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.10.6.7" pos="svg3fn">séu</w>
+            <w lemma="aka" xml:id="MINO-Laws2_150_499.10.6.8" pos="sþgkfn">eknir</w>
+            <w lemma="yfir" xml:id="MINO-Laws2_150_499.10.6.9" pos="af">yfir</w>
+            <w lemma="hundrað" xml:id="MINO-Laws2_150_499.10.6.10" pos="to">hundrað</w>
+            <w lemma="þúsund" xml:id="MINO-Laws2_150_499.10.6.11" pos="tfkfo">þúsund</w>
+            <w lemma="kílómetri" xml:id="MINO-Laws2_150_499.10.6.12" pos="nkfo">kílómetra</w>
+            <w lemma="án" xml:id="MINO-Laws2_150_499.10.6.13" pos="af">án</w>
+            <w lemma="skoðun" xml:id="MINO-Laws2_150_499.10.6.14" pos="nvee">skoðunar</w>
+            <pc xml:id="MINO-Laws2_150_499.10.6.15" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.11">
+          <s xml:id="MINO-Laws2_150_499.11.1">
+            <w lemma="niðurfærsla" xml:id="MINO-Laws2_150_499.11.1.1" pos="nven">Niðurfærsla</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.11.1.2" pos="nvee">kílómetrastöðu</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.11.1.3" pos="nhee">ökutækis</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.11.1.4" pos="sfg3en">er</w>
+            <w lemma="þekktur" xml:id="MINO-Laws2_150_499.11.1.5" pos="lvensf">þekkt</w>
+            <w lemma="háttsemi" xml:id="MINO-Laws2_150_499.11.1.6" pos="nven">háttsemi</w>
+            <pc xml:id="MINO-Laws2_150_499.11.1.7" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.11.2">
+            <w lemma="í" xml:id="MINO-Laws2_150_499.11.2.1" pos="af">Í</w>
+            <w lemma="skýrsla" xml:id="MINO-Laws2_150_499.11.2.2" pos="nveþ">skýrslu</w>
+            <w lemma="Evrópusamband" xml:id="MINO-Laws2_150_499.11.2.3" pos="nheegs">Evrópusambandsins</w>
+            <pc xml:id="MINO-Laws2_150_499.11.2.4" pos="pa">(</pc>
+            <w lemma="Research" xml:id="MINO-Laws2_150_499.11.2.5" pos="n----s">Research</w>
+            <w lemma="for" xml:id="MINO-Laws2_150_499.11.2.6" pos="e">for</w>
+            <w lemma="TRAN" xml:id="MINO-Laws2_150_499.11.2.7" pos="e">TRAN</w>
+            <w lemma="Committee" xml:id="MINO-Laws2_150_499.11.2.8" pos="e">Committee</w>
+            <pc xml:id="MINO-Laws2_150_499.11.2.9" pos="pa">–</pc>
+            <w lemma="Odometer" xml:id="MINO-Laws2_150_499.11.2.10" pos="n----s">Odometer</w>
+            <w lemma="tampering" xml:id="MINO-Laws2_150_499.11.2.11" pos="e">tampering</w>
+            <pc xml:id="MINO-Laws2_150_499.11.2.12" pos="pa">:</pc>
+            <w lemma="measures" xml:id="MINO-Laws2_150_499.11.2.13" pos="e">measures</w>
+            <w lemma="to" xml:id="MINO-Laws2_150_499.11.2.14" pos="e">to</w>
+            <w lemma="prevent" xml:id="MINO-Laws2_150_499.11.2.15" pos="e">prevent</w>
+            <w lemma="it" xml:id="MINO-Laws2_150_499.11.2.16" pos="e">it</w>
+            <pc xml:id="MINO-Laws2_150_499.11.2.17" pos="pa">)</pc>
+            <w lemma="frá" xml:id="MINO-Laws2_150_499.11.2.18" pos="af">frá</w>
+            <w lemma="nóvember" xml:id="MINO-Laws2_150_499.11.2.19" pos="nkeþ">nóvember</w>
+            <w lemma="2017" xml:id="MINO-Laws2_150_499.11.2.20" pos="ta">2017</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.11.2.21" pos="sfg3en">er</w>
+            <w lemma="m.a." xml:id="MINO-Laws2_150_499.11.2.22" pos="ks">m.a.</w>
+            <w lemma="greina" xml:id="MINO-Laws2_150_499.11.2.23" pos="sþghen">greint</w>
+            <w lemma="frá" xml:id="MINO-Laws2_150_499.11.2.24" pos="af">frá</w>
+            <w lemma="tölfræðilegur" xml:id="MINO-Laws2_150_499.11.2.25" pos="lvfþsf">tölfræðilegum</w>
+            <w lemma="upplýsing" xml:id="MINO-Laws2_150_499.11.2.26" pos="nvfþ">upplýsingum</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.11.2.27" pos="ct">sem</w>
+            <w lemma="varpa" xml:id="MINO-Laws2_150_499.11.2.28" pos="sfg3fn">varpa</w>
+            <w lemma="ljós" xml:id="MINO-Laws2_150_499.11.2.29" pos="nheþ">ljósi</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.11.2.30" pos="af">á</w>
+            <w lemma="umfang" xml:id="MINO-Laws2_150_499.11.2.31" pos="nheo">umfang</w>
+            <w lemma="háttsemi" xml:id="MINO-Laws2_150_499.11.2.32" pos="nveeg">háttseminnar</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.11.2.33" pos="af">í</w>
+            <w lemma="aðildarríki" xml:id="MINO-Laws2_150_499.11.2.34" pos="nhfþ">aðildarríkjum</w>
+            <w lemma="samband" xml:id="MINO-Laws2_150_499.11.2.35" pos="nheeg">sambandsins</w>
+            <w lemma="frá" xml:id="MINO-Laws2_150_499.11.2.36" pos="af">frá</w>
+            <w lemma="það" xml:id="MINO-Laws2_150_499.11.2.37" pos="fpheþ">því</w>
+            <w lemma="fyrir" xml:id="MINO-Laws2_150_499.11.2.38" pos="af">fyrir</w>
+            <w lemma="aldamót" xml:id="MINO-Laws2_150_499.11.2.39" pos="nhfo">aldamót</w>
+            <pc xml:id="MINO-Laws2_150_499.11.2.40" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.11.3">
+            <w lemma="þá" xml:id="MINO-Laws2_150_499.11.3.1" pos="aa">Þá</w>
+            <w lemma="segja" xml:id="MINO-Laws2_150_499.11.3.2" pos="sfg3en">segir</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.11.3.3" pos="af">í</w>
+            <w lemma="skýrsla" xml:id="MINO-Laws2_150_499.11.3.4" pos="nveþg">skýrslunni</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.11.3.5" pos="c">að</w>
+            <w lemma="áætla" xml:id="MINO-Laws2_150_499.11.3.6" pos="sþghen">áætlað</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.11.3.7" pos="svg3en">sé</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.11.3.8" pos="c">að</w>
+            <w lemma="5" xml:id="MINO-Laws2_150_499.11.3.9" pos="tp">5</w>
+            <w lemma="–" xml:id="MINO-Laws2_150_499.11.3.10" pos="m">–</w>
+            <w lemma="12%" xml:id="MINO-Laws2_150_499.11.3.11" pos="tp">12%</w>
+            <w lemma="notaður" xml:id="MINO-Laws2_150_499.11.3.12" pos="lhfesf">notaðra</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.11.3.13" pos="nhfe">ökutækja</w>
+            <w lemma="innan" xml:id="MINO-Laws2_150_499.11.3.14" pos="af">innan</w>
+            <w lemma="aðildarríki" xml:id="MINO-Laws2_150_499.11.3.15" pos="nhfe">aðildarríkja</w>
+            <w lemma="samband" xml:id="MINO-Laws2_150_499.11.3.16" pos="nheeg">sambandsins</w>
+            <w lemma="sýna" xml:id="MINO-Laws2_150_499.11.3.17" pos="svg3fn">sýni</w>
+            <w lemma="rangur" xml:id="MINO-Laws2_150_499.11.3.18" pos="lveosf">ranga</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.11.3.19" pos="nveo">kílómetrastöðu</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.11.3.20" pos="af">á</w>
+            <w lemma="akstursmæli" xml:id="MINO-Laws2_150_499.11.3.21" pos="nheþ">akstursmæli</w>
+            <pc xml:id="MINO-Laws2_150_499.11.3.22" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.11.4">
+            <w lemma="enn" xml:id="MINO-Laws2_150_499.11.4.1" pos="aa">Enn</w>
+            <w lemma="harla" xml:id="MINO-Laws2_150_499.11.4.2" pos="aam">fremur</w>
+            <w lemma="segja" xml:id="MINO-Laws2_150_499.11.4.3" pos="sfg3en">segir</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.11.4.4" pos="c">að</w>
+            <w lemma="hægur" xml:id="MINO-Laws2_150_499.11.4.5" pos="lhensf">hægt</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.11.4.6" pos="svg3en">sé</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.11.4.7" pos="cn">að</w>
+            <w lemma="kaupa" xml:id="MINO-Laws2_150_499.11.4.8" pos="sng">kaupa</w>
+            <w lemma="ódýr" xml:id="MINO-Laws2_150_499.11.4.9" pos="lhfosf">ódýr</w>
+            <w lemma="tæki" xml:id="MINO-Laws2_150_499.11.4.10" pos="nhfo">tæki</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.11.4.11" pos="af">til</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.11.4.12" pos="cn">að</w>
+            <w lemma="breyta" xml:id="MINO-Laws2_150_499.11.4.13" pos="sng">breyta</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.11.4.14" pos="nveþ">kílómetrastöðu</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.11.4.15" pos="nhee">ökutækis</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.11.4.16" pos="af">í</w>
+            <w lemma="verslun" xml:id="MINO-Laws2_150_499.11.4.17" pos="nvfþ">verslunum</w>
+            <pc xml:id="MINO-Laws2_150_499.11.4.18" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.11.5">
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.11.5.1" pos="sfg3en">Er</w>
+            <w lemma="því" xml:id="MINO-Laws2_150_499.11.5.2" pos="aa">því</w>
+            <w lemma="ljós" xml:id="MINO-Laws2_150_499.11.5.3" pos="lhensf">ljóst</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.11.5.4" pos="c">að</w>
+            <w lemma="með" xml:id="MINO-Laws2_150_499.11.5.5" pos="af">með</w>
+            <w lemma="tilkoma" xml:id="MINO-Laws2_150_499.11.5.6" pos="nveþ">tilkomu</w>
+            <w lemma="nýlegur" xml:id="MINO-Laws2_150_499.11.5.7" pos="lveesf">nýlegrar</w>
+            <w lemma="tækni" xml:id="MINO-Laws2_150_499.11.5.8" pos="nvee">tækni</w>
+            <w lemma="geta" xml:id="MINO-Laws2_150_499.11.5.9" pos="sfg3fn">geta</w>
+            <w lemma="einstaklingur" xml:id="MINO-Laws2_150_499.11.5.10" pos="nkfn">einstaklingar</w>
+            <w lemma="breyta" xml:id="MINO-Laws2_150_499.11.5.11" pos="sþghen">breytt</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.11.5.12" pos="nveþ">kílómetrastöðu</w>
+            <w lemma="fjöldi" xml:id="MINO-Laws2_150_499.11.5.13" pos="nkee">fjölda</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.11.5.14" pos="nhfe">ökutækja</w>
+            <w lemma="án" xml:id="MINO-Laws2_150_499.11.5.15" pos="af">án</w>
+            <w lemma="mikill" xml:id="MINO-Laws2_150_499.11.5.16" pos="lveesf">mikillar</w>
+            <w lemma="fyrirhöfn" xml:id="MINO-Laws2_150_499.11.5.17" pos="nvee">fyrirhafnar</w>
+            <pc xml:id="MINO-Laws2_150_499.11.5.18" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.12">
+          <s xml:id="MINO-Laws2_150_499.12.1">
+            <w lemma="til" xml:id="MINO-Laws2_150_499.12.1.1" pos="af">Til</w>
+            <w lemma="viðbót" xml:id="MINO-Laws2_150_499.12.1.2" pos="nvee">viðbótar</w>
+            <w lemma="fyrrnefndur" xml:id="MINO-Laws2_150_499.12.1.3" pos="lveþsf">fyrrnefndri</w>
+            <w lemma="viðvörun" xml:id="MINO-Laws2_150_499.12.1.4" pos="nveþ">viðvörun</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.12.1.5" pos="c">og</w>
+            <w lemma="síðar" xml:id="MINO-Laws2_150_499.12.1.6" pos="aam">síðar</w>
+            <w lemma="ákvörðun" xml:id="MINO-Laws2_150_499.12.1.7" pos="nveþ">ákvörðun</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.12.1.8" pos="nvee-s">Samgöngustofu</w>
+            <w lemma="ráða" xml:id="MINO-Laws2_150_499.12.1.9" pos="sfm3eþ">réðst</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.12.1.10" pos="nven-s">Samgöngustofa</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.12.1.11" pos="af">í</w>
+            <w lemma="almennur" xml:id="MINO-Laws2_150_499.12.1.12" pos="lheosf">almennt</w>
+            <w lemma="eftirlit" xml:id="MINO-Laws2_150_499.12.1.13" pos="nheo">eftirlit</w>
+            <w lemma="með" xml:id="MINO-Laws2_150_499.12.1.14" pos="af">með</w>
+            <w lemma="sá" xml:id="MINO-Laws2_150_499.12.1.15" pos="favfþ">þeim</w>
+            <w lemma="113" xml:id="MINO-Laws2_150_499.12.1.16" pos="ta">113</w>
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.12.1.17" pos="nvfþ">ökutækjaleigum</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.12.1.18" pos="ct">sem</w>
+            <w lemma="skrá" xml:id="MINO-Laws2_150_499.12.1.19" pos="sþgvfn">skráðar</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.12.1.20" pos="sfg3fn">eru</w>
+            <w lemma="hér" xml:id="MINO-Laws2_150_499.12.1.21" pos="aa">hér</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.12.1.22" pos="af">á</w>
+            <w lemma="land" xml:id="MINO-Laws2_150_499.12.1.23" pos="nheþ">landi</w>
+            <pc xml:id="MINO-Laws2_150_499.12.1.24" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.12.2">
+            <w lemma="enn" xml:id="MINO-Laws2_150_499.12.2.1" pos="aa">Enn</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.12.2.2" pos="sfg3en">er</w>
+            <w lemma="vinna" xml:id="MINO-Laws2_150_499.12.2.3" pos="sþghen">unnið</w>
+            <w lemma="úr" xml:id="MINO-Laws2_150_499.12.2.4" pos="af">úr</w>
+            <w lemma="innsendur" xml:id="MINO-Laws2_150_499.12.2.5" pos="lvfþsf">innsendum</w>
+            <w lemma="upplýsing" xml:id="MINO-Laws2_150_499.12.2.6" pos="nvfþ">upplýsingum</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.12.2.7" pos="c">og</w>
+            <w lemma="kortleggja" xml:id="MINO-Laws2_150_499.12.2.8" pos="sng">kortleggja</w>
+            <w lemma="þurfa" xml:id="MINO-Laws2_150_499.12.2.9" pos="sfg3en">þarf</w>
+            <w lemma="framtíðareftirlit" xml:id="MINO-Laws2_150_499.12.2.10" pos="nheo">framtíðareftirlit</w>
+            <w lemma="stofnun" xml:id="MINO-Laws2_150_499.12.2.11" pos="nveeg">stofnunarinnar</w>
+            <pc xml:id="MINO-Laws2_150_499.12.2.12" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.12.3">
+            <w lemma="með" xml:id="MINO-Laws2_150_499.12.3.1" pos="af">Með</w>
+            <w lemma="vísan" xml:id="MINO-Laws2_150_499.12.3.2" pos="nveþ">vísan</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.12.3.3" pos="af">til</w>
+            <w lemma="framangreindur" xml:id="MINO-Laws2_150_499.12.3.4" pos="lheesf">framangreinds</w>
+            <pc xml:id="MINO-Laws2_150_499.12.3.5" pos="pk">,</pc>
+            <w lemma="fjöldi" xml:id="MINO-Laws2_150_499.12.3.6" pos="nkee">fjölda</w>
+            <w lemma="skráður" xml:id="MINO-Laws2_150_499.12.3.7" pos="lkfesf">skráðra</w>
+            <w lemma="bílaleigubíll" xml:id="MINO-Laws2_150_499.12.3.8" pos="nkfe">bílaleigubíla</w>
+            <w lemma="hérlendis" xml:id="MINO-Laws2_150_499.12.3.9" pos="aa">hérlendis</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.12.3.10" pos="c">og</w>
+            <w lemma="umferðaröryggi" xml:id="MINO-Laws2_150_499.12.3.11" pos="nhee">umferðaröryggis</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.12.3.12" pos="sfg3en">er</w>
+            <w lemma="mikilvægur" xml:id="MINO-Laws2_150_499.12.3.13" pos="lhensf">mikilvægt</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.12.3.14" pos="c">að</w>
+            <w lemma="kveða" xml:id="MINO-Laws2_150_499.12.3.15" pos="sþghen">kveðið</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.12.3.16" pos="svg3en">sé</w>
+            <w lemma="skýrt" xml:id="MINO-Laws2_150_499.12.3.17" pos="aa">skýrt</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.12.3.18" pos="aa">á</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.12.3.19" pos="af">um</w>
+            <w lemma="viðurlag" xml:id="MINO-Laws2_150_499.12.3.20" pos="nhfo">viðurlög</w>
+            <w lemma="við" xml:id="MINO-Laws2_150_499.12.3.21" pos="af">við</w>
+            <w lemma="brot" xml:id="MINO-Laws2_150_499.12.3.22" pos="nhfþ">brotum</w>
+            <w lemma="leyfishafi" xml:id="MINO-Laws2_150_499.12.3.23" pos="nkfe">leyfishafa</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.12.3.24" pos="ct">sem</w>
+            <w lemma="breyta" xml:id="MINO-Laws2_150_499.12.3.25" pos="sfg3fn">breyta</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.12.3.26" pos="nveþ">kílómetrastöðu</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.12.3.27" pos="nhee">ökutækis</w>
+            <pc xml:id="MINO-Laws2_150_499.12.3.28" pos="pk">,</pc>
+            <w lemma="svo" xml:id="MINO-Laws2_150_499.12.3.29" pos="aa">svo</w>
+            <w lemma="fælingarmáttur" xml:id="MINO-Laws2_150_499.12.3.30" pos="nken">fælingarmáttur</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.12.3.31" pos="nhfeg">laganna</w>
+            <w lemma="verða" xml:id="MINO-Laws2_150_499.12.3.32" pos="svg3en">verði</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.12.3.33" pos="aa">sem</w>
+            <w lemma="virkur" xml:id="MINO-Laws2_150_499.12.3.34" pos="lkense">virkastur</w>
+            <w lemma="hver" xml:id="MINO-Laws2_150_499.12.3.35" pos="fshen">hvað</w>
+            <w lemma="þessi" xml:id="MINO-Laws2_150_499.12.3.36" pos="fahfo">þessi</w>
+            <w lemma="brot" xml:id="MINO-Laws2_150_499.12.3.37" pos="nhfo">brot</w>
+            <w lemma="varða" xml:id="MINO-Laws2_150_499.12.3.38" pos="sfg3en">varðar</w>
+            <pc xml:id="MINO-Laws2_150_499.12.3.39" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.13">
+          <s xml:id="MINO-Laws2_150_499.13.1">
+            <w lemma="stjórnvaldssekt" xml:id="MINO-Laws2_150_499.13.1.1" pos="nvfn">Stjórnvaldssektir</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.13.1.2" pos="sfg3fn">eru</w>
+            <w lemma="skilvirkur" xml:id="MINO-Laws2_150_499.13.1.3" pos="lhfnsf">skilvirk</w>
+            <w lemma="viðurlagaúrræði" xml:id="MINO-Laws2_150_499.13.1.4" pos="nhfn">viðurlagaúrræði</w>
+            <pc xml:id="MINO-Laws2_150_499.13.1.5" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.13.2">
+            <w lemma="ólíkur" xml:id="MINO-Laws2_150_499.13.2.1" pos="lhensf">Ólíkt</w>
+            <w lemma="ákvæði" xml:id="MINO-Laws2_150_499.13.2.2" pos="nheþ">ákvæði</w>
+            <w lemma="11." xml:id="MINO-Laws2_150_499.13.2.3" pos="ta">11.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.13.2.4" pos="ks">gr.</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.13.2.5" pos="nhfeg">laganna</w>
+            <pc xml:id="MINO-Laws2_150_499.13.2.6" pos="pa">(</pc>
+            <w lemma="niðurfelling" xml:id="MINO-Laws2_150_499.13.2.7" pos="nven">niðurfelling</w>
+            <w lemma="leyfi" xml:id="MINO-Laws2_150_499.13.2.8" pos="nhee">leyfis</w>
+            <pc xml:id="MINO-Laws2_150_499.13.2.9" pos="pa">)</pc>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.13.2.10" pos="sfg3en">er</w>
+            <w lemma="hægur" xml:id="MINO-Laws2_150_499.13.2.11" pos="lhensf">hægt</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.13.2.12" pos="cn">að</w>
+            <w lemma="beita" xml:id="MINO-Laws2_150_499.13.2.13" pos="sng">beita</w>
+            <w lemma="stjórnvaldssektarákvæði" xml:id="MINO-Laws2_150_499.13.2.14" pos="nheþ">stjórnvaldssektarákvæði</w>
+            <w lemma="13." xml:id="MINO-Laws2_150_499.13.2.15" pos="ta">13.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.13.2.16" pos="ks">gr.</w>
+            <w lemma="án" xml:id="MINO-Laws2_150_499.13.2.17" pos="af">án</w>
+            <w lemma="undanfarinn" xml:id="MINO-Laws2_150_499.13.2.18" pos="lveesf">undanfarinnar</w>
+            <w lemma="skriflegur" xml:id="MINO-Laws2_150_499.13.2.19" pos="lveesf">skriflegrar</w>
+            <w lemma="viðvörun" xml:id="MINO-Laws2_150_499.13.2.20" pos="nvee">viðvörunar</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.13.2.21" pos="af">til</w>
+            <w lemma="leyfishafi" xml:id="MINO-Laws2_150_499.13.2.22" pos="nkfe">leyfishafa</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.13.2.23" pos="af">um</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.13.2.24" pos="cn">að</w>
+            <w lemma="láta" xml:id="MINO-Laws2_150_499.13.2.25" pos="sng">láta</w>
+            <w lemma="af" xml:id="MINO-Laws2_150_499.13.2.26" pos="af">af</w>
+            <w lemma="hinn" xml:id="MINO-Laws2_150_499.13.2.27" pos="gveþ">hinni</w>
+            <w lemma="brotlegur" xml:id="MINO-Laws2_150_499.13.2.28" pos="lveþvf">brotlegu</w>
+            <w lemma="háttsemi" xml:id="MINO-Laws2_150_499.13.2.29" pos="nveþ">háttsemi</w>
+            <pc xml:id="MINO-Laws2_150_499.13.2.30" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.13.3">
+            <w lemma="með" xml:id="MINO-Laws2_150_499.13.3.1" pos="af">Með</w>
+            <w lemma="það" xml:id="MINO-Laws2_150_499.13.3.2" pos="fpheþ">því</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.13.3.3" pos="cn">að</w>
+            <w lemma="færa" xml:id="MINO-Laws2_150_499.13.3.4" pos="sng">færa</w>
+            <w lemma="háttsemi" xml:id="MINO-Laws2_150_499.13.3.5" pos="nveo">háttsemi</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.13.3.6" pos="ct">sem</w>
+            <w lemma="fela" xml:id="MINO-Laws2_150_499.13.3.7" pos="sfm3en">felst</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.13.3.8" pos="af">í</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.13.3.9" pos="cn">að</w>
+            <w lemma="breyta" xml:id="MINO-Laws2_150_499.13.3.10" pos="sng">breyta</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.13.3.11" pos="nveþ">kílómetrastöðu</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.13.3.12" pos="nhee">ökutækis</w>
+            <w lemma="undir" xml:id="MINO-Laws2_150_499.13.3.13" pos="af">undir</w>
+            <w lemma="13." xml:id="MINO-Laws2_150_499.13.3.14" pos="ta">13.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.13.3.15" pos="ks">gr.</w>
+            <w lemma="mega" xml:id="MINO-Laws2_150_499.13.3.16" pos="sfg3en">má</w>
+            <w lemma="vega" xml:id="MINO-Laws2_150_499.13.3.17" pos="sng">vega</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.13.3.18" pos="aa">á</w>
+            <w lemma="móti" xml:id="MINO-Laws2_150_499.13.3.19" pos="af">móti</w>
+            <w lemma="von" xml:id="MINO-Laws2_150_499.13.3.20" pos="nveþ">von</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.13.3.21" pos="af">um</w>
+            <w lemma="ábati" xml:id="MINO-Laws2_150_499.13.3.22" pos="nkeo">ábata</w>
+            <w lemma="af" xml:id="MINO-Laws2_150_499.13.3.23" pos="af">af</w>
+            <w lemma="háttsemi" xml:id="MINO-Laws2_150_499.13.3.24" pos="nveþg">háttseminni</w>
+            <w lemma="auk" xml:id="MINO-Laws2_150_499.13.3.25" pos="af">auk</w>
+            <w lemma="það" xml:id="MINO-Laws2_150_499.13.3.26" pos="fphee">þess</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.13.3.27" pos="c">sem</w>
+            <w lemma="sektarheimild" xml:id="MINO-Laws2_150_499.13.3.28" pos="nveng">sektarheimildin</w>
+            <w lemma="hafa" xml:id="MINO-Laws2_150_499.13.3.29" pos="svg3eþ">hefði</w>
+            <w lemma="almennur" xml:id="MINO-Laws2_150_499.13.3.30" pos="lhfosf">almenn</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.13.3.31" pos="c">og</w>
+            <w lemma="sértækur" xml:id="MINO-Laws2_150_499.13.3.32" pos="lhfosf">sértæk</w>
+            <w lemma="varnaðaráhrif" xml:id="MINO-Laws2_150_499.13.3.33" pos="nhfo">varnaðaráhrif</w>
+            <pc xml:id="MINO-Laws2_150_499.13.3.34" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.13.4">
+            <w lemma="sektarheimild" xml:id="MINO-Laws2_150_499.13.4.1" pos="nveng">Sektarheimildin</w>
+            <w lemma="verða" xml:id="MINO-Laws2_150_499.13.4.2" pos="svg3eþ">yrði</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.13.4.3" pos="af">til</w>
+            <w lemma="það" xml:id="MINO-Laws2_150_499.13.4.4" pos="fphee">þess</w>
+            <w lemma="falla" xml:id="MINO-Laws2_150_499.13.4.5" pos="sþgven">fallin</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.13.4.6" pos="cn">að</w>
+            <w lemma="koma" xml:id="MINO-Laws2_150_499.13.4.7" pos="sng">koma</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.13.4.8" pos="af">í</w>
+            <w lemma="vegur" xml:id="MINO-Laws2_150_499.13.4.9" pos="nkeo">veg</w>
+            <w lemma="fyrir" xml:id="MINO-Laws2_150_499.13.4.10" pos="af">fyrir</w>
+            <w lemma="háttsemi" xml:id="MINO-Laws2_150_499.13.4.11" pos="nveog">háttsemina</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.13.4.12" pos="c">og</w>
+            <w lemma="leiða" xml:id="MINO-Laws2_150_499.13.4.13" pos="sng">leiða</w>
+            <w lemma="þannig" xml:id="MINO-Laws2_150_499.13.4.14" pos="aa">þannig</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.13.4.15" pos="af">til</w>
+            <w lemma="aukinn" xml:id="MINO-Laws2_150_499.13.4.16" pos="lheesf">aukins</w>
+            <w lemma="umferðaröryggi" xml:id="MINO-Laws2_150_499.13.4.17" pos="nhee">umferðaröryggis</w>
+            <w lemma="en" xml:id="MINO-Laws2_150_499.13.4.18" pos="c">en</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.13.4.19" pos="c">sem</w>
+            <w lemma="snemma" xml:id="MINO-Laws2_150_499.13.4.20" pos="aam">fyrr</w>
+            <w lemma="segja" xml:id="MINO-Laws2_150_499.13.4.21" pos="sfg3en">segir</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.13.4.22" pos="sfg3fþ">voru</w>
+            <w lemma="24.938" xml:id="MINO-Laws2_150_499.13.4.23" pos="ta">24.938</w>
+            <w lemma="bílaleigubíll" xml:id="MINO-Laws2_150_499.13.4.24" pos="nkfn">bílaleigubílar</w>
+            <w lemma="skrá" xml:id="MINO-Laws2_150_499.13.4.25" pos="sþgkfn">skráðir</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.13.4.26" pos="af">í</w>
+            <w lemma="notkun" xml:id="MINO-Laws2_150_499.13.4.27" pos="nveo">notkun</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.13.4.28" pos="af">í</w>
+            <w lemma="ágúst" xml:id="MINO-Laws2_150_499.13.4.29" pos="nkeþ">ágúst</w>
+            <w lemma="2019" xml:id="MINO-Laws2_150_499.13.4.30" pos="ta">2019</w>
+            <pc xml:id="MINO-Laws2_150_499.13.4.31" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.14">
+          <s xml:id="MINO-Laws2_150_499.14.1">
+            <w lemma="3" xml:id="MINO-Laws2_150_499.14.1.1" pos="ta">3</w>
+            <pc xml:id="MINO-Laws2_150_499.14.1.2" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.14.2">
+            <w lemma="meginefni" xml:id="MINO-Laws2_150_499.14.2.1" pos="nhen">Meginefni</w>
+            <w lemma="frumvarp" xml:id="MINO-Laws2_150_499.14.2.2" pos="nheeg">frumvarpsins</w>
+            <pc xml:id="MINO-Laws2_150_499.14.2.3" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.15">
+          <s xml:id="MINO-Laws2_150_499.15.1">
+            <w lemma="í" xml:id="MINO-Laws2_150_499.15.1.1" pos="af">Í</w>
+            <w lemma="frumvarp" xml:id="MINO-Laws2_150_499.15.1.2" pos="nheþ">frumvarpi</w>
+            <w lemma="þessi" xml:id="MINO-Laws2_150_499.15.1.3" pos="faheþ">þessu</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.15.1.4" pos="sfg3en">er</w>
+            <w lemma="leggja" xml:id="MINO-Laws2_150_499.15.1.5" pos="sþgven">lögð</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.15.1.6" pos="aa">til</w>
+            <w lemma="sá" xml:id="MINO-Laws2_150_499.15.1.7" pos="faven">sú</w>
+            <w lemma="breyting" xml:id="MINO-Laws2_150_499.15.1.8" pos="nven">breyting</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.15.1.9" pos="c">að</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.15.1.10" pos="nveþ-s">Samgöngustofu</w>
+            <w lemma="verða" xml:id="MINO-Laws2_150_499.15.1.11" pos="svg3en">verði</w>
+            <w lemma="heimill" xml:id="MINO-Laws2_150_499.15.1.12" pos="lhensf">heimilt</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.15.1.13" pos="cn">að</w>
+            <w lemma="leggja" xml:id="MINO-Laws2_150_499.15.1.14" pos="sng">leggja</w>
+            <w lemma="stjórnvaldssekt" xml:id="MINO-Laws2_150_499.15.1.15" pos="nvfo">stjórnvaldssektir</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.15.1.16" pos="af">á</w>
+            <w lemma="leyfishafi" xml:id="MINO-Laws2_150_499.15.1.17" pos="nkfo">leyfishafa</w>
+            <pc xml:id="MINO-Laws2_150_499.15.1.18" pos="pa">(</pc>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.15.1.19" pos="af">á</w>
+            <w lemma="grundvöllur" xml:id="MINO-Laws2_150_499.15.1.20" pos="nkeþ">grundvelli</w>
+            <w lemma="13." xml:id="MINO-Laws2_150_499.15.1.21" pos="ta">13.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.15.1.22" pos="ks">gr.</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.15.1.23" pos="nhfeg">laganna</w>
+            <pc xml:id="MINO-Laws2_150_499.15.1.24" pos="pa">)</pc>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.15.1.25" pos="ct">sem</w>
+            <w lemma="hafa" xml:id="MINO-Laws2_150_499.15.1.26" pos="sfg3en">hefur</w>
+            <w lemma="verða" xml:id="MINO-Laws2_150_499.15.1.27" pos="sþghen">orðið</w>
+            <w lemma="uppvís" xml:id="MINO-Laws2_150_499.15.1.28" pos="lkensf">uppvís</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.15.1.29" pos="af">að</w>
+            <w lemma="það" xml:id="MINO-Laws2_150_499.15.1.30" pos="fpheþ">því</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.15.1.31" pos="cn">að</w>
+            <w lemma="breyta" xml:id="MINO-Laws2_150_499.15.1.32" pos="sng">breyta</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.15.1.33" pos="nveþ">kílómetrastöðu</w>
+            <w lemma="skráningarskyldur" xml:id="MINO-Laws2_150_499.15.1.34" pos="lheesf">skráningarskylds</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.15.1.35" pos="nhee">ökutækis</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.15.1.36" pos="ct">sem</w>
+            <w lemma="skrá" xml:id="MINO-Laws2_150_499.15.1.37" pos="sþghen">skráð</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.15.1.38" pos="sfg3en">er</w>
+            <w lemma="hjá" xml:id="MINO-Laws2_150_499.15.1.39" pos="af">hjá</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.15.1.40" pos="nveþ-s">Samgöngustofu</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.15.1.41" pos="c">sem</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.15.1.42" pos="nhen">ökutæki</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.15.1.43" pos="af">í</w>
+            <w lemma="notkunarflokkur" xml:id="MINO-Laws2_150_499.15.1.44" pos="nkeþ">notkunarflokki</w>
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.15.1.45" pos="nvee">ökutækjaleigu</w>
+            <pc xml:id="MINO-Laws2_150_499.15.1.46" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.15.2">
+            <w lemma="hingað" xml:id="MINO-Laws2_150_499.15.2.1" pos="aa">Hingað</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.15.2.2" pos="aa">til</w>
+            <w lemma="hafa" xml:id="MINO-Laws2_150_499.15.2.3" pos="sfg3en">hefur</w>
+            <w lemma="háttsemi" xml:id="MINO-Laws2_150_499.15.2.4" pos="nveng">háttsemin</w>
+            <w lemma="falla" xml:id="MINO-Laws2_150_499.15.2.5" pos="sþghen">fallið</w>
+            <w lemma="undir" xml:id="MINO-Laws2_150_499.15.2.6" pos="af">undir</w>
+            <w lemma="brot" xml:id="MINO-Laws2_150_499.15.2.7" pos="nheo">brot</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.15.2.8" pos="af">á</w>
+            <w lemma="góður" xml:id="MINO-Laws2_150_499.15.2.9" pos="lveþsf">góðri</w>
+            <w lemma="viðskiptavenja" xml:id="MINO-Laws2_150_499.15.2.10" pos="nveþ">viðskiptavenju</w>
+            <pc xml:id="MINO-Laws2_150_499.15.2.11" pos="pk">,</pc>
+            <w lemma="sbr." xml:id="MINO-Laws2_150_499.15.2.12" pos="ks">sbr.</w>
+            <w lemma="5." xml:id="MINO-Laws2_150_499.15.2.13" pos="ta">5.</w>
+            <w lemma="mgr." xml:id="MINO-Laws2_150_499.15.2.14" pos="ks">mgr.</w>
+            <w lemma="6." xml:id="MINO-Laws2_150_499.15.2.15" pos="ta">6.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.15.2.16" pos="ks">gr.</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.15.2.17" pos="nhfeg">laganna</w>
+            <pc xml:id="MINO-Laws2_150_499.15.2.18" pos="pk">,</pc>
+            <w lemma="án" xml:id="MINO-Laws2_150_499.15.2.19" pos="af">án</w>
+            <w lemma="viðlagður" xml:id="MINO-Laws2_150_499.15.2.20" pos="lvfesf">viðlagðra</w>
+            <w lemma="stjórnvaldssekt" xml:id="MINO-Laws2_150_499.15.2.21" pos="nvfe">stjórnvaldssekta</w>
+            <pc xml:id="MINO-Laws2_150_499.15.2.22" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.15.3">
+            <w lemma="breyting" xml:id="MINO-Laws2_150_499.15.3.1" pos="nveng">Breytingin</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.15.3.2" pos="ct">sem</w>
+            <w lemma="leggja" xml:id="MINO-Laws2_150_499.15.3.3" pos="sþgven">lögð</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.15.3.4" pos="sfg3en">er</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.15.3.5" pos="aa">til</w>
+            <w lemma="munu" xml:id="MINO-Laws2_150_499.15.3.6" pos="sfg3en">mun</w>
+            <w lemma="ekki" xml:id="MINO-Laws2_150_499.15.3.7" pos="aa">ekki</w>
+            <w lemma="hafa" xml:id="MINO-Laws2_150_499.15.3.8" pos="sng">hafa</w>
+            <w lemma="áhrif" xml:id="MINO-Laws2_150_499.15.3.9" pos="nhfo">áhrif</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.15.3.10" pos="af">á</w>
+            <w lemma="annar" xml:id="MINO-Laws2_150_499.15.3.11" pos="fohfo">önnur</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.15.3.12" pos="nhfo">lög</w>
+            <pc xml:id="MINO-Laws2_150_499.15.3.13" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.16">
+          <s xml:id="MINO-Laws2_150_499.16.1">
+            <w lemma="samkvæmt" xml:id="MINO-Laws2_150_499.16.1.1" pos="af">Samkvæmt</w>
+            <w lemma="stjórnvaldssektarákvæði" xml:id="MINO-Laws2_150_499.16.1.2" pos="nheþ">stjórnvaldssektarákvæði</w>
+            <w lemma="13." xml:id="MINO-Laws2_150_499.16.1.3" pos="ta">13.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.16.1.4" pos="ks">gr.</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.16.1.5" pos="nhfeg">laganna</w>
+            <w lemma="hafa" xml:id="MINO-Laws2_150_499.16.1.6" pos="sfg3en">hefur</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.16.1.7" pos="nven-s">Samgöngustofa</w>
+            <w lemma="nú" xml:id="MINO-Laws2_150_499.16.1.8" pos="aa">nú</w>
+            <w lemma="einungis" xml:id="MINO-Laws2_150_499.16.1.9" pos="aa">einungis</w>
+            <w lemma="heimild" xml:id="MINO-Laws2_150_499.16.1.10" pos="nveo">heimild</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.16.1.11" pos="af">til</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.16.1.12" pos="cn">að</w>
+            <w lemma="beita" xml:id="MINO-Laws2_150_499.16.1.13" pos="sng">beita</w>
+            <w lemma="stjórnvaldssekt" xml:id="MINO-Laws2_150_499.16.1.14" pos="nvfþ">stjórnvaldssektum</w>
+            <w lemma="vegna" xml:id="MINO-Laws2_150_499.16.1.15" pos="af">vegna</w>
+            <w lemma="brot" xml:id="MINO-Laws2_150_499.16.1.16" pos="nhfe">brota</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.16.1.17" pos="af">á</w>
+            <w lemma="1." xml:id="MINO-Laws2_150_499.16.1.18" pos="ta">1.</w>
+            <w lemma="mgr." xml:id="MINO-Laws2_150_499.16.1.19" pos="ks">mgr.</w>
+            <w lemma="3." xml:id="MINO-Laws2_150_499.16.1.20" pos="ta">3.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.16.1.21" pos="ks">gr.</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.16.1.22" pos="nhfeg">laganna</w>
+            <pc xml:id="MINO-Laws2_150_499.16.1.23" pos="pk">,</pc>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.16.1.24" pos="ct">sem</w>
+            <w lemma="kveða" xml:id="MINO-Laws2_150_499.16.1.25" pos="sfg3en">kveður</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.16.1.26" pos="aa">á</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.16.1.27" pos="af">um</w>
+            <w lemma="skylda" xml:id="MINO-Laws2_150_499.16.1.28" pos="nveo">skyldu</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.16.1.29" pos="af">um</w>
+            <w lemma="starfsleyfi" xml:id="MINO-Laws2_150_499.16.1.30" pos="nheo">starfsleyfi</w>
+            <w lemma="fyrir" xml:id="MINO-Laws2_150_499.16.1.31" pos="af">fyrir</w>
+            <w lemma="rekstur" xml:id="MINO-Laws2_150_499.16.1.32" pos="nkeo">rekstur</w>
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.16.1.33" pos="nvee">ökutækjaleigu</w>
+            <pc xml:id="MINO-Laws2_150_499.16.1.34" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.16.2">
+            <w lemma="samkvæmt" xml:id="MINO-Laws2_150_499.16.2.1" pos="af">Samkvæmt</w>
+            <w lemma="2." xml:id="MINO-Laws2_150_499.16.2.2" pos="ta">2.</w>
+            <w lemma="mgr." xml:id="MINO-Laws2_150_499.16.2.3" pos="ks">mgr.</w>
+            <w lemma="13." xml:id="MINO-Laws2_150_499.16.2.4" pos="ta">13.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.16.2.5" pos="ks">gr.</w>
+            <w lemma="geta" xml:id="MINO-Laws2_150_499.16.2.6" pos="sfg3fn">geta</w>
+            <w lemma="sekt" xml:id="MINO-Laws2_150_499.16.2.7" pos="nvfn">sektir</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.16.2.8" pos="ct">sem</w>
+            <w lemma="leggja" xml:id="MINO-Laws2_150_499.16.2.9" pos="sþgvfn">lagðar</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.16.2.10" pos="sfg3fn">eru</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.16.2.11" pos="af">á</w>
+            <w lemma="einstaklingur" xml:id="MINO-Laws2_150_499.16.2.12" pos="nkfo">einstaklinga</w>
+            <w lemma="nema" xml:id="MINO-Laws2_150_499.16.2.13" pos="sþghen">numið</w>
+            <w lemma="frá" xml:id="MINO-Laws2_150_499.16.2.14" pos="af">frá</w>
+            <w lemma="100.000" xml:id="MINO-Laws2_150_499.16.2.15" pos="ta">100.000</w>
+            <w lemma="kr." xml:id="MINO-Laws2_150_499.16.2.16" pos="ks">kr.</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.16.2.17" pos="af">til</w>
+            <w lemma="500.000" xml:id="MINO-Laws2_150_499.16.2.18" pos="ta">500.000</w>
+            <w lemma="kr." xml:id="MINO-Laws2_150_499.16.2.19" pos="ks">kr.</w>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.16.3">
+            <w lemma="sekt" xml:id="MINO-Laws2_150_499.16.3.1" pos="nvfn">Sektir</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.16.3.2" pos="ct">sem</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.16.3.3" pos="sfg3fn">eru</w>
+            <w lemma="leggja" xml:id="MINO-Laws2_150_499.16.3.4" pos="sþgvfn">lagðar</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.16.3.5" pos="af">á</w>
+            <w lemma="lögaðili" xml:id="MINO-Laws2_150_499.16.3.6" pos="nkeo">lögaðila</w>
+            <w lemma="geta" xml:id="MINO-Laws2_150_499.16.3.7" pos="sfg3fn">geta</w>
+            <w lemma="nema" xml:id="MINO-Laws2_150_499.16.3.8" pos="sþghen">numið</w>
+            <w lemma="frá" xml:id="MINO-Laws2_150_499.16.3.9" pos="af">frá</w>
+            <w lemma="500.000" xml:id="MINO-Laws2_150_499.16.3.10" pos="ta">500.000</w>
+            <w lemma="kr." xml:id="MINO-Laws2_150_499.16.3.11" pos="ks">kr.</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.16.3.12" pos="aa">til</w>
+            <w lemma="2.000.000" xml:id="MINO-Laws2_150_499.16.3.13" pos="ta">2.000.000</w>
+            <w lemma="kr." xml:id="MINO-Laws2_150_499.16.3.14" pos="ks">kr.</w>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.17">
+          <s xml:id="MINO-Laws2_150_499.17.1">
+            <w lemma="óæskilegur" xml:id="MINO-Laws2_150_499.17.1.1" pos="lhensf">Óæskilegt</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.17.1.2" pos="sfg3en">er</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.17.1.3" pos="c">að</w>
+            <w lemma="allur" xml:id="MINO-Laws2_150_499.17.1.4" pos="fohfn">öll</w>
+            <w lemma="brot" xml:id="MINO-Laws2_150_499.17.1.5" pos="nhfn">brot</w>
+            <pc xml:id="MINO-Laws2_150_499.17.1.6" pos="pk">,</pc>
+            <w lemma="sami" xml:id="MINO-Laws2_150_499.17.1.7" pos="fbhen">sama</w>
+            <w lemma="hversu" xml:id="MINO-Laws2_150_499.17.1.8" pos="aa">hversu</w>
+            <w lemma="smávægilegur" xml:id="MINO-Laws2_150_499.17.1.9" pos="lhfnsf">smávægileg</w>
+            <pc xml:id="MINO-Laws2_150_499.17.1.10" pos="pk">,</pc>
+            <w lemma="geta" xml:id="MINO-Laws2_150_499.17.1.11" pos="svg3fn">geti</w>
+            <w lemma="varða" xml:id="MINO-Laws2_150_499.17.1.12" pos="sþghen">varðað</w>
+            <w lemma="stjórnvaldssekt" xml:id="MINO-Laws2_150_499.17.1.13" pos="nvfþ">stjórnvaldssektum</w>
+            <pc xml:id="MINO-Laws2_150_499.17.1.14" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.17.2">
+            <w lemma="það" xml:id="MINO-Laws2_150_499.17.2.1" pos="fphee">Þess</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.17.2.2" pos="af">í</w>
+            <w lemma="staður" xml:id="MINO-Laws2_150_499.17.2.3" pos="nkeo">stað</w>
+            <w lemma="bera" xml:id="MINO-Laws2_150_499.17.2.4" pos="sfg3en">ber</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.17.2.5" pos="cn">að</w>
+            <w lemma="meta" xml:id="MINO-Laws2_150_499.17.2.6" pos="sng">meta</w>
+            <w lemma="hvaða" xml:id="MINO-Laws2_150_499.17.2.7" pos="fshfn">hvaða</w>
+            <w lemma="brot" xml:id="MINO-Laws2_150_499.17.2.8" pos="nhfn">brot</w>
+            <w lemma="það" xml:id="MINO-Laws2_150_499.17.2.9" pos="fphen">það</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.17.2.10" pos="sfg3fn">eru</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.17.2.11" pos="ct">sem</w>
+            <w lemma="gjarnan" xml:id="MINO-Laws2_150_499.17.2.12" pos="aae">helst</w>
+            <w lemma="koma" xml:id="MINO-Laws2_150_499.17.2.13" pos="sfg3fn">koma</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.17.2.14" pos="af">til</w>
+            <w lemma="álit" xml:id="MINO-Laws2_150_499.17.2.15" pos="nhfe">álita</w>
+            <w lemma="þegar" xml:id="MINO-Laws2_150_499.17.2.16" pos="c">þegar</w>
+            <w lemma="stjórnvaldssekt" xml:id="MINO-Laws2_150_499.17.2.17" pos="nveþ">stjórnvaldssekt</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.17.2.18" pos="sfg3en">er</w>
+            <w lemma="beita" xml:id="MINO-Laws2_150_499.17.2.19" pos="sþghen">beitt</w>
+            <pc xml:id="MINO-Laws2_150_499.17.2.20" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.17.3">
+            <w lemma="eins" xml:id="MINO-Laws2_150_499.17.3.1" pos="aa">Eins</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.17.3.2" pos="c">og</w>
+            <w lemma="fram" xml:id="MINO-Laws2_150_499.17.3.3" pos="aa">fram</w>
+            <w lemma="koma" xml:id="MINO-Laws2_150_499.17.3.4" pos="sfg3en">kemur</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.17.3.5" pos="af">í</w>
+            <w lemma="kafli" xml:id="MINO-Laws2_150_499.17.3.6" pos="nkeþ">kafla</w>
+            <w lemma="2" xml:id="MINO-Laws2_150_499.17.3.7" pos="ta">2</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.17.3.8" pos="sfg3en">er</w>
+            <w lemma="stjórnvaldsákvörðun" xml:id="MINO-Laws2_150_499.17.3.9" pos="nven">stjórnvaldsákvörðun</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.17.3.10" pos="af">um</w>
+            <w lemma="niðurfelling" xml:id="MINO-Laws2_150_499.17.3.11" pos="nveo">niðurfellingu</w>
+            <w lemma="leyfi" xml:id="MINO-Laws2_150_499.17.3.12" pos="nhee">leyfis</w>
+            <w lemma="afar" xml:id="MINO-Laws2_150_499.17.3.13" pos="aa">afar</w>
+            <w lemma="íþyngjandi" xml:id="MINO-Laws2_150_499.17.3.14" pos="lvenof">íþyngjandi</w>
+            <pc xml:id="MINO-Laws2_150_499.17.3.15" pos="pk">,</pc>
+            <w lemma="varða" xml:id="MINO-Laws2_150_499.17.3.16" pos="sfg3en">varðar</w>
+            <w lemma="atvinnurekstur" xml:id="MINO-Laws2_150_499.17.3.17" pos="nkeo">atvinnurekstur</w>
+            <w lemma="fólk" xml:id="MINO-Laws2_150_499.17.3.18" pos="nhee">fólks</w>
+            <pc xml:id="MINO-Laws2_150_499.17.3.19" pos="pk">,</pc>
+            <w lemma="atvinnufrelsi" xml:id="MINO-Laws2_150_499.17.3.20" pos="nheo">atvinnufrelsi</w>
+            <w lemma="það" xml:id="MINO-Laws2_150_499.17.3.21" pos="fphee">þess</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.17.3.22" pos="c">og</w>
+            <w lemma="eignarréttur" xml:id="MINO-Laws2_150_499.17.3.23" pos="nkeo">eignarrétt</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.17.3.24" pos="ct">sem</w>
+            <w lemma="njóta" xml:id="MINO-Laws2_150_499.17.3.25" pos="sfg3en">nýtur</w>
+            <w lemma="vernd" xml:id="MINO-Laws2_150_499.17.3.26" pos="nvee">verndar</w>
+            <w lemma="ákvæði" xml:id="MINO-Laws2_150_499.17.3.27" pos="nhfe">ákvæða</w>
+            <w lemma="72." xml:id="MINO-Laws2_150_499.17.3.28" pos="ta">72.</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.17.3.29" pos="c">og</w>
+            <w lemma="75." xml:id="MINO-Laws2_150_499.17.3.30" pos="ta">75.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.17.3.31" pos="ks">gr.</w>
+            <w lemma="stjórnarskrá" xml:id="MINO-Laws2_150_499.17.3.32" pos="nvee">stjórnarskrár</w>
+            <pc xml:id="MINO-Laws2_150_499.17.3.33" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.17.4">
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.17.4.1" pos="sfg3en">Er</w>
+            <w lemma="því" xml:id="MINO-Laws2_150_499.17.4.2" pos="aa">því</w>
+            <w lemma="leggja" xml:id="MINO-Laws2_150_499.17.4.3" pos="sþghen">lagt</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.17.4.4" pos="af">til</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.17.4.5" pos="c">að</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.17.4.6" pos="nveþ-s">Samgöngustofu</w>
+            <w lemma="verða" xml:id="MINO-Laws2_150_499.17.4.7" pos="svg3en">verði</w>
+            <w lemma="veita" xml:id="MINO-Laws2_150_499.17.4.8" pos="sþgven">veitt</w>
+            <w lemma="heimild" xml:id="MINO-Laws2_150_499.17.4.9" pos="nven">heimild</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.17.4.10" pos="af">til</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.17.4.11" pos="cn">að</w>
+            <w lemma="leggja" xml:id="MINO-Laws2_150_499.17.4.12" pos="sng">leggja</w>
+            <w lemma="stjórnvaldssekt" xml:id="MINO-Laws2_150_499.17.4.13" pos="nvfo">stjórnvaldssektir</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.17.4.14" pos="af">á</w>
+            <w lemma="leyfishafi" xml:id="MINO-Laws2_150_499.17.4.15" pos="nkeo">leyfishafa</w>
+            <pc xml:id="MINO-Laws2_150_499.17.4.16" pos="pk">,</pc>
+            <w lemma="einstaklingur" xml:id="MINO-Laws2_150_499.17.4.17" pos="nkeo">einstakling</w>
+            <w lemma="eða" xml:id="MINO-Laws2_150_499.17.4.18" pos="c">eða</w>
+            <w lemma="lögaðili" xml:id="MINO-Laws2_150_499.17.4.19" pos="nkeo">lögaðila</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.17.4.20" pos="ct">sem</w>
+            <w lemma="breyta" xml:id="MINO-Laws2_150_499.17.4.21" pos="sfg3en">breytir</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.17.4.22" pos="nveþ">kílómetrastöðu</w>
+            <w lemma="skráningarskyldur" xml:id="MINO-Laws2_150_499.17.4.23" pos="lheesf">skráningarskylds</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.17.4.24" pos="nhee">ökutækis</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.17.4.25" pos="ct">sem</w>
+            <w lemma="skrá" xml:id="MINO-Laws2_150_499.17.4.26" pos="sþghen">skráð</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.17.4.27" pos="sfg3en">er</w>
+            <w lemma="hjá" xml:id="MINO-Laws2_150_499.17.4.28" pos="af">hjá</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.17.4.29" pos="nveþ-s">Samgöngustofu</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.17.4.30" pos="c">sem</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.17.4.31" pos="nhen">ökutæki</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.17.4.32" pos="af">í</w>
+            <w lemma="notkunarflokkur" xml:id="MINO-Laws2_150_499.17.4.33" pos="nkeþ">notkunarflokki</w>
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.17.4.34" pos="nvee">ökutækjaleigu</w>
+            <pc xml:id="MINO-Laws2_150_499.17.4.35" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.17.5">
+            <w lemma="leggja" xml:id="MINO-Laws2_150_499.17.5.1" pos="sþghen">Lagt</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.17.5.2" pos="sfg3en">er</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.17.5.3" pos="af">til</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.17.5.4" pos="c">að</w>
+            <w lemma="kveða" xml:id="MINO-Laws2_150_499.17.5.5" pos="sþghen">kveðið</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.17.5.6" pos="svg3en">sé</w>
+            <w lemma="skýra" xml:id="MINO-Laws2_150_499.17.5.7" pos="sþghen">skýrt</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.17.5.8" pos="aa">á</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.17.5.9" pos="af">um</w>
+            <w lemma="bann" xml:id="MINO-Laws2_150_499.17.5.10" pos="nheo">bann</w>
+            <w lemma="við" xml:id="MINO-Laws2_150_499.17.5.11" pos="af">við</w>
+            <w lemma="niðurfærsla" xml:id="MINO-Laws2_150_499.17.5.12" pos="nveþ">niðurfærslu</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.17.5.13" pos="nvee">kílómetrastöðu</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.17.5.14" pos="nhee">ökutækis</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.17.5.15" pos="c">og</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.17.5.16" pos="nveþ-s">Samgöngustofu</w>
+            <w lemma="verða" xml:id="MINO-Laws2_150_499.17.5.17" pos="svg3en">verði</w>
+            <w lemma="veita" xml:id="MINO-Laws2_150_499.17.5.18" pos="sþgven">veitt</w>
+            <w lemma="sektarheimild" xml:id="MINO-Laws2_150_499.17.5.19" pos="nven">sektarheimild</w>
+            <w lemma="innan" xml:id="MINO-Laws2_150_499.17.5.20" pos="af">innan</w>
+            <w lemma="viðmið" xml:id="MINO-Laws2_150_499.17.5.21" pos="nhfe">viðmiða</w>
+            <w lemma="13." xml:id="MINO-Laws2_150_499.17.5.22" pos="ta">13.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.17.5.23" pos="ks">gr.</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.17.5.24" pos="nhfeg">laganna</w>
+            <pc xml:id="MINO-Laws2_150_499.17.5.25" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.17.6">
+            <w lemma="þannig" xml:id="MINO-Laws2_150_499.17.6.1" pos="aa">Þannig</w>
+            <w lemma="verða" xml:id="MINO-Laws2_150_499.17.6.2" pos="sfg3en">verður</w>
+            <w lemma="fælingarmáttur" xml:id="MINO-Laws2_150_499.17.6.3" pos="nken">fælingarmáttur</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.17.6.4" pos="nhfeg">laganna</w>
+            <w lemma="mikill" xml:id="MINO-Laws2_150_499.17.6.5" pos="lkenvm">meiri</w>
+            <w lemma="hver" xml:id="MINO-Laws2_150_499.17.6.6" pos="fshen">hvað</w>
+            <w lemma="þessi" xml:id="MINO-Laws2_150_499.17.6.7" pos="fahfo">þessi</w>
+            <w lemma="brot" xml:id="MINO-Laws2_150_499.17.6.8" pos="nhfo">brot</w>
+            <w lemma="varða" xml:id="MINO-Laws2_150_499.17.6.9" pos="sfg3en">varðar</w>
+            <pc xml:id="MINO-Laws2_150_499.17.6.10" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.18">
+          <s xml:id="MINO-Laws2_150_499.18.1">
+            <w lemma="4" xml:id="MINO-Laws2_150_499.18.1.1" pos="ta">4</w>
+            <pc xml:id="MINO-Laws2_150_499.18.1.2" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.18.2">
+            <w lemma="samræmi" xml:id="MINO-Laws2_150_499.18.2.1" pos="nhen">Samræmi</w>
+            <w lemma="við" xml:id="MINO-Laws2_150_499.18.2.2" pos="af">við</w>
+            <w lemma="stjórnarskrá" xml:id="MINO-Laws2_150_499.18.2.3" pos="nveo">stjórnarskrá</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.18.2.4" pos="c">og</w>
+            <w lemma="alþjóðlegur" xml:id="MINO-Laws2_150_499.18.2.5" pos="lvfosf">alþjóðlegar</w>
+            <w lemma="skuldbinding" xml:id="MINO-Laws2_150_499.18.2.6" pos="nvfo">skuldbindingar</w>
+            <pc xml:id="MINO-Laws2_150_499.18.2.7" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.19">
+          <s xml:id="MINO-Laws2_150_499.19.1">
+            <w lemma="frumvarp" xml:id="MINO-Laws2_150_499.19.1.1" pos="nheng">Frumvarpið</w>
+            <w lemma="gefa" xml:id="MINO-Laws2_150_499.19.1.2" pos="sfg3en">gefur</w>
+            <w lemma="ekki" xml:id="MINO-Laws2_150_499.19.1.3" pos="aa">ekki</w>
+            <w lemma="tilefni" xml:id="MINO-Laws2_150_499.19.1.4" pos="nheo">tilefni</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.19.1.5" pos="af">til</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.19.1.6" pos="cn">að</w>
+            <w lemma="skoða" xml:id="MINO-Laws2_150_499.19.1.7" pos="sng">skoða</w>
+            <w lemma="samræmi" xml:id="MINO-Laws2_150_499.19.1.8" pos="nheo">samræmi</w>
+            <w lemma="við" xml:id="MINO-Laws2_150_499.19.1.9" pos="af">við</w>
+            <w lemma="stjórnarskrá" xml:id="MINO-Laws2_150_499.19.1.10" pos="nveo">stjórnarskrá</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.19.1.11" pos="c">og</w>
+            <w lemma="alþjóðlegur" xml:id="MINO-Laws2_150_499.19.1.12" pos="lvfosf">alþjóðlegar</w>
+            <w lemma="skuldbinding" xml:id="MINO-Laws2_150_499.19.1.13" pos="nvfo">skuldbindingar</w>
+            <pc xml:id="MINO-Laws2_150_499.19.1.14" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.20">
+          <s xml:id="MINO-Laws2_150_499.20.1">
+            <w lemma="5" xml:id="MINO-Laws2_150_499.20.1.1" pos="ta">5</w>
+            <pc xml:id="MINO-Laws2_150_499.20.1.2" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.20.2">
+            <w lemma="samráð" xml:id="MINO-Laws2_150_499.20.2.1" pos="nhen">Samráð</w>
+            <pc xml:id="MINO-Laws2_150_499.20.2.2" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.21">
+          <s xml:id="MINO-Laws2_150_499.21.1">
+            <w lemma="hafa" xml:id="MINO-Laws2_150_499.21.1.1" pos="sþghen">Haft</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.21.1.2" pos="sfg3eþ">var</w>
+            <w lemma="samráð" xml:id="MINO-Laws2_150_499.21.1.3" pos="nhen">samráð</w>
+            <w lemma="við" xml:id="MINO-Laws2_150_499.21.1.4" pos="af">við</w>
+            <w lemma="samgöngu" xml:id="MINO-Laws2_150_499.21.1.5" pos="kt">samgöngu</w>
+            <pc xml:id="MINO-Laws2_150_499.21.1.6" pos="pa">-</pc>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.21.1.7" pos="c">og</w>
+            <w lemma="sveitarstjórnarráðuneyti" xml:id="MINO-Laws2_150_499.21.1.8" pos="nheog">sveitarstjórnarráðuneytið</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.21.1.9" pos="c">og</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.21.1.10" pos="nveo-s">Samgöngustofu</w>
+            <w lemma="við" xml:id="MINO-Laws2_150_499.21.1.11" pos="af">við</w>
+            <w lemma="vinnsla" xml:id="MINO-Laws2_150_499.21.1.12" pos="nveo">vinnslu</w>
+            <w lemma="frumvarp" xml:id="MINO-Laws2_150_499.21.1.13" pos="nheeg">frumvarpsins</w>
+            <pc xml:id="MINO-Laws2_150_499.21.1.14" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.21.2">
+            <w lemma="þá" xml:id="MINO-Laws2_150_499.21.2.1" pos="aa">Þá</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.21.2.2" pos="sfg3fþ">voru</w>
+            <w lemma="áform" xml:id="MINO-Laws2_150_499.21.2.3" pos="nhfn">áform</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.21.2.4" pos="af">um</w>
+            <w lemma="lagasetning" xml:id="MINO-Laws2_150_499.21.2.5" pos="nveog">lagasetninguna</w>
+            <w lemma="kynna" xml:id="MINO-Laws2_150_499.21.2.6" pos="sþghfn">kynnt</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.21.2.7" pos="af">á</w>
+            <w lemma="fundur" xml:id="MINO-Laws2_150_499.21.2.8" pos="nkeþ">fundi</w>
+            <w lemma="ráðuneytisstjóri" xml:id="MINO-Laws2_150_499.21.2.9" pos="nkee">ráðuneytisstjóra</w>
+            <w lemma="allur" xml:id="MINO-Laws2_150_499.21.2.10" pos="fohfe">allra</w>
+            <w lemma="ráðuneyti" xml:id="MINO-Laws2_150_499.21.2.11" pos="nhfe">ráðuneyta</w>
+            <pc xml:id="MINO-Laws2_150_499.21.2.12" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.21.3">
+            <w lemma="frumvarpsdrögin" xml:id="MINO-Laws2_150_499.21.3.1" pos="nhfn">Frumvarpsdrögin</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.21.3.2" pos="sfg3fþ">voru</w>
+            <w lemma="kynna" xml:id="MINO-Laws2_150_499.21.3.3" pos="sþghfn">kynnt</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.21.3.4" pos="af">til</w>
+            <w lemma="umsögn" xml:id="MINO-Laws2_150_499.21.3.5" pos="nvee">umsagnar</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.21.3.6" pos="af">í</w>
+            <w lemma="samráðsgátt" xml:id="MINO-Laws2_150_499.21.3.7" pos="nveþ">samráðsgátt</w>
+            <w lemma="stjórnvöld" xml:id="MINO-Laws2_150_499.21.3.8" pos="nhfe">stjórnvalda</w>
+            <w lemma="frá" xml:id="MINO-Laws2_150_499.21.3.9" pos="af">frá</w>
+            <w lemma="30." xml:id="MINO-Laws2_150_499.21.3.10" pos="ta">30.</w>
+            <w lemma="september" xml:id="MINO-Laws2_150_499.21.3.11" pos="nkeþ">september</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.21.3.12" pos="af">til</w>
+            <w lemma="14." xml:id="MINO-Laws2_150_499.21.3.13" pos="ta">14.</w>
+            <w lemma="október" xml:id="MINO-Laws2_150_499.21.3.14" pos="nkee">október</w>
+            <w lemma="2019" xml:id="MINO-Laws2_150_499.21.3.15" pos="ta">2019</w>
+            <pc xml:id="MINO-Laws2_150_499.21.3.16" pos="pa">(</pc>
+            <w lemma="mál" xml:id="MINO-Laws2_150_499.21.3.17" pos="nhen">mál</w>
+            <w lemma="nr" xml:id="MINO-Laws2_150_499.21.3.18" pos="ks">nr</w>
+            <pc xml:id="MINO-Laws2_150_499.21.3.19" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.21.4">
+            <w lemma="S" xml:id="MINO-Laws2_150_499.21.4.1" pos="x">S</w>
+            <w lemma="-" xml:id="MINO-Laws2_150_499.21.4.2" pos="m">-</w>
+            <w lemma="238" xml:id="MINO-Laws2_150_499.21.4.3" pos="ta">238</w>
+            <pc xml:id="MINO-Laws2_150_499.21.4.4" pos="pa">/</pc>
+            <w lemma="2019" xml:id="MINO-Laws2_150_499.21.4.5" pos="ta">2019</w>
+            <pc xml:id="MINO-Laws2_150_499.21.4.6" pos="pa">)</pc>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.21.4.7" pos="af">í</w>
+            <w lemma="samræmi" xml:id="MINO-Laws2_150_499.21.4.8" pos="nheþ">samræmi</w>
+            <w lemma="við" xml:id="MINO-Laws2_150_499.21.4.9" pos="af">við</w>
+            <w lemma="2." xml:id="MINO-Laws2_150_499.21.4.10" pos="ta">2.</w>
+            <w lemma="mgr." xml:id="MINO-Laws2_150_499.21.4.11" pos="ks">mgr.</w>
+            <w lemma="9." xml:id="MINO-Laws2_150_499.21.4.12" pos="ta">9.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.21.4.13" pos="ks">gr.</w>
+            <w lemma="samþykkt" xml:id="MINO-Laws2_150_499.21.4.14" pos="nvee">samþykktar</w>
+            <w lemma="ríkisstjórn" xml:id="MINO-Laws2_150_499.21.4.15" pos="nveeg">ríkisstjórnarinnar</w>
+            <pc xml:id="MINO-Laws2_150_499.21.4.16" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.21.5">
+            <w lemma="alls" xml:id="MINO-Laws2_150_499.21.5.1" pos="aa">Alls</w>
+            <w lemma="bera" xml:id="MINO-Laws2_150_499.21.5.2" pos="sfm3fþ">bárust</w>
+            <w lemma="þrír" xml:id="MINO-Laws2_150_499.21.5.3" pos="tfvfn">þrjár</w>
+            <w lemma="umsögn" xml:id="MINO-Laws2_150_499.21.5.4" pos="nvfn">umsagnir</w>
+            <pc xml:id="MINO-Laws2_150_499.21.5.5" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.21.6">
+            <w lemma="umsagnaraðili" xml:id="MINO-Laws2_150_499.21.6.1" pos="nkfn">Umsagnaraðilar</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.21.6.2" pos="sfg3fþ">voru</w>
+            <w lemma="Samtök" xml:id="MINO-Laws2_150_499.21.6.3" pos="nhfn-s">Samtök</w>
+            <w lemma="fjármálafyrirtæki" xml:id="MINO-Laws2_150_499.21.6.4" pos="nhfe">fjármálafyrirtækja</w>
+            <pc xml:id="MINO-Laws2_150_499.21.6.5" pos="pk">,</pc>
+            <w lemma="Samtök" xml:id="MINO-Laws2_150_499.21.6.6" pos="nhfn-s">Samtök</w>
+            <w lemma="ferðaþjónusta" xml:id="MINO-Laws2_150_499.21.6.7" pos="nveeg">ferðaþjónustunnar</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.21.6.8" pos="c">og</w>
+            <w lemma="Samtök" xml:id="MINO-Laws2_150_499.21.6.9" pos="nhfn-s">Samtök</w>
+            <w lemma="verslun" xml:id="MINO-Laws2_150_499.21.6.10" pos="nvee">verslunar</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.21.6.11" pos="c">og</w>
+            <w lemma="þjónusta" xml:id="MINO-Laws2_150_499.21.6.12" pos="nvee">þjónustu</w>
+            <pc xml:id="MINO-Laws2_150_499.21.6.13" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.22">
+          <s xml:id="MINO-Laws2_150_499.22.1">
+            <w lemma="í" xml:id="MINO-Laws2_150_499.22.1.1" pos="af">Í</w>
+            <w lemma="allur" xml:id="MINO-Laws2_150_499.22.1.2" pos="fovfþ">öllum</w>
+            <w lemma="umsögn" xml:id="MINO-Laws2_150_499.22.1.3" pos="nvfþ">umsögnum</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.22.1.4" pos="sfg3eþ">var</w>
+            <w lemma="taka" xml:id="MINO-Laws2_150_499.22.1.5" pos="sþghen">tekið</w>
+            <w lemma="undir" xml:id="MINO-Laws2_150_499.22.1.6" pos="af">undir</w>
+            <w lemma="ákvæði" xml:id="MINO-Laws2_150_499.22.1.7" pos="nheo">ákvæði</w>
+            <w lemma="frumvarp" xml:id="MINO-Laws2_150_499.22.1.8" pos="nheeg">frumvarpsins</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.22.1.9" pos="ct">sem</w>
+            <w lemma="leggja" xml:id="MINO-Laws2_150_499.22.1.10" pos="sfg3en">leggur</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.22.1.11" pos="af">til</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.22.1.12" pos="c">að</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.22.1.13" pos="nveþ-s">Samgöngustofu</w>
+            <w lemma="verða" xml:id="MINO-Laws2_150_499.22.1.14" pos="svg3en">verði</w>
+            <w lemma="veita" xml:id="MINO-Laws2_150_499.22.1.15" pos="sþgven">veitt</w>
+            <w lemma="heimild" xml:id="MINO-Laws2_150_499.22.1.16" pos="nven">heimild</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.22.1.17" pos="af">til</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.22.1.18" pos="cn">að</w>
+            <w lemma="beita" xml:id="MINO-Laws2_150_499.22.1.19" pos="sng">beita</w>
+            <w lemma="stjórnvaldssekt" xml:id="MINO-Laws2_150_499.22.1.20" pos="nvfþ">stjórnvaldssektum</w>
+            <w lemma="vegna" xml:id="MINO-Laws2_150_499.22.1.21" pos="af">vegna</w>
+            <w lemma="háttsemi" xml:id="MINO-Laws2_150_499.22.1.22" pos="nvee">háttsemi</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.22.1.23" pos="ct">sem</w>
+            <w lemma="fela" xml:id="MINO-Laws2_150_499.22.1.24" pos="sfm3en">felst</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.22.1.25" pos="af">í</w>
+            <w lemma="niðurfærsla" xml:id="MINO-Laws2_150_499.22.1.26" pos="nveþ">niðurfærslu</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.22.1.27" pos="nvee">kílómetrastöðu</w>
+            <w lemma="skráningarskyldur" xml:id="MINO-Laws2_150_499.22.1.28" pos="lheesf">skráningarskylds</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.22.1.29" pos="nhee">ökutækis</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.22.1.30" pos="ct">sem</w>
+            <w lemma="skrá" xml:id="MINO-Laws2_150_499.22.1.31" pos="sþghen">skráð</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.22.1.32" pos="sfg3en">er</w>
+            <w lemma="hjá" xml:id="MINO-Laws2_150_499.22.1.33" pos="af">hjá</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.22.1.34" pos="nveþ-s">Samgöngustofu</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.22.1.35" pos="af">í</w>
+            <w lemma="notkunarflokkur" xml:id="MINO-Laws2_150_499.22.1.36" pos="nkeþ">notkunarflokki</w>
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.22.1.37" pos="nvee">ökutækjaleigu</w>
+            <pc xml:id="MINO-Laws2_150_499.22.1.38" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.22.2">
+            <w lemma="einnig" xml:id="MINO-Laws2_150_499.22.2.1" pos="aa">Einnig</w>
+            <w lemma="bera" xml:id="MINO-Laws2_150_499.22.2.2" pos="sfm3fþ">bárust</w>
+            <w lemma="athugasemd" xml:id="MINO-Laws2_150_499.22.2.3" pos="nvfn">athugasemdir</w>
+            <w lemma="frá" xml:id="MINO-Laws2_150_499.22.2.4" pos="af">frá</w>
+            <w lemma="umsagnaraðili" xml:id="MINO-Laws2_150_499.22.2.5" pos="nkfþ">umsagnaraðilum</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.22.2.6" pos="ct">sem</w>
+            <w lemma="telja" xml:id="MINO-Laws2_150_499.22.2.7" pos="sfg3fþ">töldu</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.22.2.8" pos="c">að</w>
+            <w lemma="ganga" xml:id="MINO-Laws2_150_499.22.2.9" pos="sng">ganga</w>
+            <w lemma="þurfa" xml:id="MINO-Laws2_150_499.22.2.10" pos="svg3eþ">þyrfti</w>
+            <w lemma="langt" xml:id="MINO-Laws2_150_499.22.2.11" pos="aam">lengra</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.22.2.12" pos="c">og</w>
+            <w lemma="fella" xml:id="MINO-Laws2_150_499.22.2.13" pos="sng">fella</w>
+            <w lemma="niðurfærsla" xml:id="MINO-Laws2_150_499.22.2.14" pos="nveo">niðurfærslu</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.22.2.15" pos="nvee">kílómetrastöðu</w>
+            <w lemma="undir" xml:id="MINO-Laws2_150_499.22.2.16" pos="af">undir</w>
+            <w lemma="11." xml:id="MINO-Laws2_150_499.22.2.17" pos="ta">11.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.22.2.18" pos="ks">gr.</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.22.2.19" pos="nhfeg">laganna</w>
+            <pc xml:id="MINO-Laws2_150_499.22.2.20" pos="pa">(</pc>
+            <w lemma="niðurfelling" xml:id="MINO-Laws2_150_499.22.2.21" pos="nveo">niðurfellingu</w>
+            <w lemma="starfsleyfi" xml:id="MINO-Laws2_150_499.22.2.22" pos="nhee">starfsleyfis</w>
+            <pc xml:id="MINO-Laws2_150_499.22.2.23" pos="pa">)</pc>
+            <pc xml:id="MINO-Laws2_150_499.22.2.24" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.22.3">
+            <w lemma="þá" xml:id="MINO-Laws2_150_499.22.3.1" pos="aa">Þá</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.22.3.2" pos="sfg3eþ">var</w>
+            <w lemma="benda" xml:id="MINO-Laws2_150_499.22.3.3" pos="sþghen">bent</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.22.3.4" pos="af">á</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.22.3.5" pos="cn">að</w>
+            <w lemma="kveða" xml:id="MINO-Laws2_150_499.22.3.6" pos="sng">kveða</w>
+            <w lemma="þurfa" xml:id="MINO-Laws2_150_499.22.3.7" pos="svg3eþ">þyrfti</w>
+            <w lemma="skýrt" xml:id="MINO-Laws2_150_499.22.3.8" pos="aam">skýrar</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.22.3.9" pos="aa">á</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.22.3.10" pos="af">um</w>
+            <w lemma="eftirlitshlutverk" xml:id="MINO-Laws2_150_499.22.3.11" pos="nheo">eftirlitshlutverk</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.22.3.12" pos="nvee-s">Samgöngustofu</w>
+            <w lemma="eða" xml:id="MINO-Laws2_150_499.22.3.13" pos="c">eða</w>
+            <w lemma="fela" xml:id="MINO-Laws2_150_499.22.3.14" pos="sng">fela</w>
+            <w lemma="utanaðkomandi" xml:id="MINO-Laws2_150_499.22.3.15" pos="lveþof">utanaðkomandi</w>
+            <w lemma="skoðunarstofa" xml:id="MINO-Laws2_150_499.22.3.16" pos="nveþ">skoðunarstofu</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.22.3.17" pos="cn">að</w>
+            <w lemma="safna" xml:id="MINO-Laws2_150_499.22.3.18" pos="sng">safna</w>
+            <w lemma="upplýsing" xml:id="MINO-Laws2_150_499.22.3.19" pos="nvfþ">upplýsingum</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.22.3.20" pos="af">um</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.22.3.21" pos="nveo">kílómetrastöðu</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.22.3.22" pos="ct">sem</w>
+            <w lemma="munu" xml:id="MINO-Laws2_150_499.22.3.23" pos="svg3eþ">myndi</w>
+            <w lemma="síðan" xml:id="MINO-Laws2_150_499.22.3.24" pos="aa">síðan</w>
+            <w lemma="upplýsa" xml:id="MINO-Laws2_150_499.22.3.25" pos="sng">upplýsa</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.22.3.26" pos="nveo-s">Samgöngustofu</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.22.3.27" pos="af">um</w>
+            <w lemma="vísbending" xml:id="MINO-Laws2_150_499.22.3.28" pos="nvfo">vísbendingar</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.22.3.29" pos="af">um</w>
+            <w lemma="slíkur" xml:id="MINO-Laws2_150_499.22.3.30" pos="fbheo">slíkt</w>
+            <pc xml:id="MINO-Laws2_150_499.22.3.31" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.22.4">
+            <w lemma="loks" xml:id="MINO-Laws2_150_499.22.4.1" pos="aa">Loks</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.22.4.2" pos="sfg3eþ">var</w>
+            <w lemma="benda" xml:id="MINO-Laws2_150_499.22.4.3" pos="sþghen">bent</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.22.4.4" pos="af">á</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.22.4.5" pos="c">að</w>
+            <w lemma="skylda" xml:id="MINO-Laws2_150_499.22.4.6" pos="sng">skylda</w>
+            <w lemma="eiga" xml:id="MINO-Laws2_150_499.22.4.7" pos="svg3eþ">ætti</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.22.4.8" pos="nveþ-s">Samgöngustofu</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.22.4.9" pos="af">til</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.22.4.10" pos="cn">að</w>
+            <w lemma="birta" xml:id="MINO-Laws2_150_499.22.4.11" pos="sng">birta</w>
+            <w lemma="álagður" xml:id="MINO-Laws2_150_499.22.4.12" pos="lvfosf">álagðar</w>
+            <w lemma="stjórnvaldssekt" xml:id="MINO-Laws2_150_499.22.4.13" pos="nvfo">stjórnvaldssektir</w>
+            <pc xml:id="MINO-Laws2_150_499.22.4.14" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.22.5">
+            <w lemma="ekki" xml:id="MINO-Laws2_150_499.22.5.1" pos="aa">Ekki</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.22.5.2" pos="sfg3eþ">var</w>
+            <w lemma="telja" xml:id="MINO-Laws2_150_499.22.5.3" pos="sþgven">talin</w>
+            <w lemma="ástæða" xml:id="MINO-Laws2_150_499.22.5.4" pos="nven">ástæða</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.22.5.5" pos="af">til</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.22.5.6" pos="cn">að</w>
+            <w lemma="bregða" xml:id="MINO-Laws2_150_499.22.5.7" pos="snm">bregðast</w>
+            <w lemma="við" xml:id="MINO-Laws2_150_499.22.5.8" pos="af">við</w>
+            <w lemma="athugasemd" xml:id="MINO-Laws2_150_499.22.5.9" pos="nvfþ">athugasemdum</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.22.5.10" pos="af">að</w>
+            <w lemma="svo" xml:id="MINO-Laws2_150_499.22.5.11" pos="aa">svo</w>
+            <w lemma="staddur" xml:id="MINO-Laws2_150_499.22.5.12" pos="lheþsf">stöddu</w>
+            <pc xml:id="MINO-Laws2_150_499.22.5.13" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.22.6">
+            <w lemma="ljós" xml:id="MINO-Laws2_150_499.22.6.1" pos="lhensf">Ljóst</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.22.6.2" pos="sfg3en">er</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.22.6.3" pos="c">að</w>
+            <w lemma="niðurfærsla" xml:id="MINO-Laws2_150_499.22.6.4" pos="nven">niðurfærsla</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.22.6.5" pos="nvee">kílómetrastöðu</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.22.6.6" pos="sfg3en">er</w>
+            <w lemma="ekki" xml:id="MINO-Laws2_150_499.22.6.7" pos="aa">ekki</w>
+            <w lemma="binda" xml:id="MINO-Laws2_150_499.22.6.8" pos="sþgven">bundin</w>
+            <w lemma="við" xml:id="MINO-Laws2_150_499.22.6.9" pos="af">við</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.22.6.10" pos="nhfo">ökutæki</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.22.6.11" pos="ct">sem</w>
+            <w lemma="skrá" xml:id="MINO-Laws2_150_499.22.6.12" pos="sþghfn">skráð</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.22.6.13" pos="sfg3fn">eru</w>
+            <w lemma="hjá" xml:id="MINO-Laws2_150_499.22.6.14" pos="af">hjá</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.22.6.15" pos="nveþ-s">Samgöngustofu</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.22.6.16" pos="af">í</w>
+            <w lemma="notkunarflokkur" xml:id="MINO-Laws2_150_499.22.6.17" pos="nkeþ">notkunarflokki</w>
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.22.6.18" pos="nvee">ökutækjaleigu</w>
+            <pc xml:id="MINO-Laws2_150_499.22.6.19" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.22.7">
+            <w lemma="eins" xml:id="MINO-Laws2_150_499.22.7.1" pos="aa">Eins</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.22.7.2" pos="c">og</w>
+            <w lemma="fram" xml:id="MINO-Laws2_150_499.22.7.3" pos="aa">fram</w>
+            <w lemma="koma" xml:id="MINO-Laws2_150_499.22.7.4" pos="sfg3en">kemur</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.22.7.5" pos="af">í</w>
+            <w lemma="niðurstöðuskjal" xml:id="MINO-Laws2_150_499.22.7.6" pos="nheþ">niðurstöðuskjali</w>
+            <w lemma="ráðuneyti" xml:id="MINO-Laws2_150_499.22.7.7" pos="nheeg">ráðuneytisins</w>
+            <w lemma="við" xml:id="MINO-Laws2_150_499.22.7.8" pos="af">við</w>
+            <w lemma="ábending" xml:id="MINO-Laws2_150_499.22.7.9" pos="nvfþ">ábendingum</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.22.7.10" pos="c">og</w>
+            <w lemma="athugasemd" xml:id="MINO-Laws2_150_499.22.7.11" pos="nvfþ">athugasemdum</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.22.7.12" pos="ct">sem</w>
+            <w lemma="birta" xml:id="MINO-Laws2_150_499.22.7.13" pos="sfm3en">birtist</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.22.7.14" pos="af">í</w>
+            <w lemma="samráðsgátt" xml:id="MINO-Laws2_150_499.22.7.15" pos="nveþ">samráðsgátt</w>
+            <w lemma="stjórnvöld" xml:id="MINO-Laws2_150_499.22.7.16" pos="nhfe">stjórnvalda</w>
+            <pc xml:id="MINO-Laws2_150_499.22.7.17" pos="pk">,</pc>
+            <w lemma="hafa" xml:id="MINO-Laws2_150_499.22.7.18" pos="sfg3eþ">hafði</w>
+            <w lemma="ráðuneyti" xml:id="MINO-Laws2_150_499.22.7.19" pos="nheng">ráðuneytið</w>
+            <w lemma="samráð" xml:id="MINO-Laws2_150_499.22.7.20" pos="nheo">samráð</w>
+            <w lemma="við" xml:id="MINO-Laws2_150_499.22.7.21" pos="af">við</w>
+            <w lemma="samgöngu" xml:id="MINO-Laws2_150_499.22.7.22" pos="kt">samgöngu</w>
+            <pc xml:id="MINO-Laws2_150_499.22.7.23" pos="pa">-</pc>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.22.7.24" pos="c">og</w>
+            <w lemma="sveitarstjórnarráðuneyti" xml:id="MINO-Laws2_150_499.22.7.25" pos="nheog">sveitarstjórnarráðuneytið</w>
+            <w lemma="við" xml:id="MINO-Laws2_150_499.22.7.26" pos="af">við</w>
+            <w lemma="vinnsla" xml:id="MINO-Laws2_150_499.22.7.27" pos="nveo">vinnslu</w>
+            <w lemma="frumvarp" xml:id="MINO-Laws2_150_499.22.7.28" pos="nheeg">frumvarpsins</w>
+            <pc xml:id="MINO-Laws2_150_499.22.7.29" pos="pk">,</pc>
+            <w lemma="en" xml:id="MINO-Laws2_150_499.22.7.30" pos="c">en</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.22.7.31" pos="c">sem</w>
+            <w lemma="snemma" xml:id="MINO-Laws2_150_499.22.7.32" pos="aam">fyrr</w>
+            <w lemma="segja" xml:id="MINO-Laws2_150_499.22.7.33" pos="sfg3en">segir</w>
+            <w lemma="gilda" xml:id="MINO-Laws2_150_499.22.7.34" pos="sfg3fn">gilda</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.22.7.35" pos="nhfn">lög</w>
+            <w lemma="nr." xml:id="MINO-Laws2_150_499.22.7.36" pos="ks">nr.</w>
+            <w lemma="65" xml:id="MINO-Laws2_150_499.22.7.37" pos="ta">65</w>
+            <pc xml:id="MINO-Laws2_150_499.22.7.38" pos="pa">/</pc>
+            <w lemma="2015" xml:id="MINO-Laws2_150_499.22.7.39" pos="ta">2015</w>
+            <w lemma="einungis" xml:id="MINO-Laws2_150_499.22.7.40" pos="aa">einungis</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.22.7.41" pos="af">um</w>
+            <w lemma="leiga" xml:id="MINO-Laws2_150_499.22.7.42" pos="nveo">leigu</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.22.7.43" pos="af">á</w>
+            <w lemma="skráningarskyldur" xml:id="MINO-Laws2_150_499.22.7.44" pos="lhfþsf">skráningarskyldum</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.22.7.45" pos="nhfþ">ökutækjum</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.22.7.46" pos="af">í</w>
+            <w lemma="atvinnuskyn" xml:id="MINO-Laws2_150_499.22.7.47" pos="nheþ">atvinnuskyni</w>
+            <pc xml:id="MINO-Laws2_150_499.22.7.48" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.23">
+          <s xml:id="MINO-Laws2_150_499.23.1">
+            <w lemma="6" xml:id="MINO-Laws2_150_499.23.1.1" pos="ta">6</w>
+            <pc xml:id="MINO-Laws2_150_499.23.1.2" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.23.2">
+            <w lemma="mat" xml:id="MINO-Laws2_150_499.23.2.1" pos="nhen">Mat</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.23.2.2" pos="af">á</w>
+            <w lemma="áhrif" xml:id="MINO-Laws2_150_499.23.2.3" pos="nhfþ">áhrifum</w>
+            <pc xml:id="MINO-Laws2_150_499.23.2.4" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.24">
+          <s xml:id="MINO-Laws2_150_499.24.1">
+            <w lemma="verða" xml:id="MINO-Laws2_150_499.24.1.1" pos="svg3en">Verði</w>
+            <w lemma="frumvarp" xml:id="MINO-Laws2_150_499.24.1.2" pos="nheng">frumvarpið</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.24.1.3" pos="af">að</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.24.1.4" pos="nhfþ">lögum</w>
+            <w lemma="munu" xml:id="MINO-Laws2_150_499.24.1.5" pos="sfg3en">mun</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.24.1.6" pos="nven-s">Samgöngustofa</w>
+            <w lemma="fá" xml:id="MINO-Laws2_150_499.24.1.7" pos="sng">fá</w>
+            <w lemma="heimild" xml:id="MINO-Laws2_150_499.24.1.8" pos="nveo">heimild</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.24.1.9" pos="af">til</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.24.1.10" pos="cn">að</w>
+            <w lemma="leggja" xml:id="MINO-Laws2_150_499.24.1.11" pos="sng">leggja</w>
+            <w lemma="stjórnvaldssekt" xml:id="MINO-Laws2_150_499.24.1.12" pos="nvfo">stjórnvaldssektir</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.24.1.13" pos="af">á</w>
+            <w lemma="leyfishafi" xml:id="MINO-Laws2_150_499.24.1.14" pos="nkeo">leyfishafa</w>
+            <pc xml:id="MINO-Laws2_150_499.24.1.15" pos="pa">(</pc>
+            <w lemma="einstaklingur" xml:id="MINO-Laws2_150_499.24.1.16" pos="nkeo">einstakling</w>
+            <w lemma="eða" xml:id="MINO-Laws2_150_499.24.1.17" pos="c">eða</w>
+            <w lemma="lögaðili" xml:id="MINO-Laws2_150_499.24.1.18" pos="nkeo">lögaðila</w>
+            <pc xml:id="MINO-Laws2_150_499.24.1.19" pos="pa">)</pc>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.24.1.20" pos="ct">sem</w>
+            <w lemma="verða" xml:id="MINO-Laws2_150_499.24.1.21" pos="sfg3en">verður</w>
+            <w lemma="uppvís" xml:id="MINO-Laws2_150_499.24.1.22" pos="lkensf">uppvís</w>
+            <w lemma="af" xml:id="MINO-Laws2_150_499.24.1.23" pos="af">af</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.24.1.24" pos="cn">að</w>
+            <w lemma="hafa" xml:id="MINO-Laws2_150_499.24.1.25" pos="sng">hafa</w>
+            <w lemma="breyta" xml:id="MINO-Laws2_150_499.24.1.26" pos="sþgheo">breytt</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.24.1.27" pos="nveþ">kílómetrastöðu</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.24.1.28" pos="nhee">ökutækis</w>
+            <pc xml:id="MINO-Laws2_150_499.24.1.29" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.24.2">
+            <w lemma="nauðsynlegur" xml:id="MINO-Laws2_150_499.24.2.1" pos="lhensf">Nauðsynlegt</w>
+            <w lemma="verða" xml:id="MINO-Laws2_150_499.24.2.2" pos="sfg3en">verður</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.24.2.3" pos="cn">að</w>
+            <w lemma="uppfæra" xml:id="MINO-Laws2_150_499.24.2.4" pos="sng">uppfæra</w>
+            <w lemma="reglugerð" xml:id="MINO-Laws2_150_499.24.2.5" pos="nveo">reglugerð</w>
+            <w lemma="nr." xml:id="MINO-Laws2_150_499.24.2.6" pos="ks">nr.</w>
+            <w lemma="840" xml:id="MINO-Laws2_150_499.24.2.7" pos="ta">840</w>
+            <pc xml:id="MINO-Laws2_150_499.24.2.8" pos="pa">/</pc>
+            <w lemma="2015" xml:id="MINO-Laws2_150_499.24.2.9" pos="ta">2015</w>
+            <pc xml:id="MINO-Laws2_150_499.24.2.10" pos="pk">,</pc>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.24.2.11" pos="af">um</w>
+            <w lemma="leiga" xml:id="MINO-Laws2_150_499.24.2.12" pos="nveo">leigu</w>
+            <w lemma="skráningarskyldur" xml:id="MINO-Laws2_150_499.24.2.13" pos="lhfesf">skráningarskyldra</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.24.2.14" pos="nhfe">ökutækja</w>
+            <pc xml:id="MINO-Laws2_150_499.24.2.15" pos="pk">,</pc>
+            <w lemma="með" xml:id="MINO-Laws2_150_499.24.2.16" pos="af">með</w>
+            <w lemma="tillit" xml:id="MINO-Laws2_150_499.24.2.17" pos="nheþ">tilliti</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.24.2.18" pos="af">til</w>
+            <w lemma="umræddur" xml:id="MINO-Laws2_150_499.24.2.19" pos="lvfesf">umræddra</w>
+            <w lemma="breyting" xml:id="MINO-Laws2_150_499.24.2.20" pos="nvfe">breytinga</w>
+            <pc xml:id="MINO-Laws2_150_499.24.2.21" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.25">
+          <s xml:id="MINO-Laws2_150_499.25.1">
+            <w lemma="gera" xml:id="MINO-Laws2_150_499.25.1.1" pos="sþghen">Gert</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.25.1.2" pos="sfg3en">er</w>
+            <w lemma="ráð" xml:id="MINO-Laws2_150_499.25.1.3" pos="nhen">ráð</w>
+            <w lemma="fyrir" xml:id="MINO-Laws2_150_499.25.1.4" pos="af">fyrir</w>
+            <w lemma="ríkur" xml:id="MINO-Laws2_150_499.25.1.5" pos="lveþvm">ríkari</w>
+            <w lemma="heimild" xml:id="MINO-Laws2_150_499.25.1.6" pos="nveþ">heimild</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.25.1.7" pos="af">til</w>
+            <w lemma="innheimta" xml:id="MINO-Laws2_150_499.25.1.8" pos="nvee">innheimtu</w>
+            <w lemma="stjórnvaldssekt" xml:id="MINO-Laws2_150_499.25.1.9" pos="nvfe">stjórnvaldssekta</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.25.1.10" pos="af">á</w>
+            <w lemma="grundvöllur" xml:id="MINO-Laws2_150_499.25.1.11" pos="nkeþ">grundvelli</w>
+            <w lemma="13." xml:id="MINO-Laws2_150_499.25.1.12" pos="ta">13.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.25.1.13" pos="ks">gr.</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.25.1.14" pos="nhfeg">laganna</w>
+            <pc xml:id="MINO-Laws2_150_499.25.1.15" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.25.2">
+            <w lemma="sekt" xml:id="MINO-Laws2_150_499.25.2.1" pos="nvfn">Sektir</w>
+            <w lemma="geta" xml:id="MINO-Laws2_150_499.25.2.2" pos="sfg3fn">geta</w>
+            <w lemma="nema" xml:id="MINO-Laws2_150_499.25.2.3" pos="sþghen">numið</w>
+            <w lemma="allur" xml:id="MINO-Laws2_150_499.25.2.4" pos="fohen">allt</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.25.2.5" pos="aa">að</w>
+            <w lemma="500.000" xml:id="MINO-Laws2_150_499.25.2.6" pos="ta">500.000</w>
+            <w lemma="kr." xml:id="MINO-Laws2_150_499.25.2.7" pos="ks">kr.</w>
+            <w lemma="vegna" xml:id="MINO-Laws2_150_499.25.2.8" pos="af">vegna</w>
+            <w lemma="brot" xml:id="MINO-Laws2_150_499.25.2.9" pos="nhfe">brota</w>
+            <w lemma="einstaklingur" xml:id="MINO-Laws2_150_499.25.2.10" pos="nkfe">einstaklinga</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.25.2.11" pos="c">og</w>
+            <w lemma="2.000.000" xml:id="MINO-Laws2_150_499.25.2.12" pos="ta">2.000.000</w>
+            <w lemma="kr." xml:id="MINO-Laws2_150_499.25.2.13" pos="ks">kr.</w>
+            <w lemma="vegna" xml:id="MINO-Laws2_150_499.25.2.14" pos="af">vegna</w>
+            <w lemma="brot" xml:id="MINO-Laws2_150_499.25.2.15" pos="nhfe">brota</w>
+            <w lemma="lögaðili" xml:id="MINO-Laws2_150_499.25.2.16" pos="nkfe">lögaðila</w>
+            <w lemma="með" xml:id="MINO-Laws2_150_499.25.2.17" pos="af">með</w>
+            <w lemma="hver" xml:id="MINO-Laws2_150_499.25.2.18" pos="foveþ">hverri</w>
+            <w lemma="ákvörðun" xml:id="MINO-Laws2_150_499.25.2.19" pos="nveþ">ákvörðun</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.25.2.20" pos="nvee-s">Samgöngustofu</w>
+            <pc xml:id="MINO-Laws2_150_499.25.2.21" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.25.3">
+            <w lemma="erfiður" xml:id="MINO-Laws2_150_499.25.3.1" pos="lhensf">Erfitt</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.25.3.2" pos="sfg3en">er</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.25.3.3" pos="cn">að</w>
+            <w lemma="áætla" xml:id="MINO-Laws2_150_499.25.3.4" pos="sng">áætla</w>
+            <w lemma="hvaða" xml:id="MINO-Laws2_150_499.25.3.5" pos="fsvfo">hvaða</w>
+            <w lemma="fjárhæð" xml:id="MINO-Laws2_150_499.25.3.6" pos="nvfo">fjárhæðir</w>
+            <w lemma="geta" xml:id="MINO-Laws2_150_499.25.3.7" pos="svg3en">geti</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.25.3.8" pos="sþghen">verið</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.25.3.9" pos="af">um</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.25.3.10" pos="cn">að</w>
+            <w lemma="ræða" xml:id="MINO-Laws2_150_499.25.3.11" pos="sng">ræða</w>
+            <w lemma="en" xml:id="MINO-Laws2_150_499.25.3.12" pos="c">en</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.25.3.13" pos="af">í</w>
+            <w lemma="eðli" xml:id="MINO-Laws2_150_499.25.3.14" pos="nheþ">eðli</w>
+            <w lemma="sinn" xml:id="MINO-Laws2_150_499.25.3.15" pos="feheþ">sínu</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.25.3.16" pos="sfg3fn">eru</w>
+            <w lemma="stjórnvaldssekt" xml:id="MINO-Laws2_150_499.25.3.17" pos="nvfn">stjórnvaldssektir</w>
+            <w lemma="viðurlag" xml:id="MINO-Laws2_150_499.25.3.18" pos="nhfn">viðurlög</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.25.3.19" pos="ct">sem</w>
+            <w lemma="eiga" xml:id="MINO-Laws2_150_499.25.3.20" pos="sfg3fn">eiga</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.25.3.21" pos="cn">að</w>
+            <w lemma="hafa" xml:id="MINO-Laws2_150_499.25.3.22" pos="sng">hafa</w>
+            <w lemma="fælingarmáttur" xml:id="MINO-Laws2_150_499.25.3.23" pos="nkeo">fælingarmátt</w>
+            <w lemma="og" xml:id="MINO-Laws2_150_499.25.3.24" pos="c">og</w>
+            <w lemma="því" xml:id="MINO-Laws2_150_499.25.3.25" pos="aa">því</w>
+            <w lemma="ekki" xml:id="MINO-Laws2_150_499.25.3.26" pos="aa">ekki</w>
+            <w lemma="gera" xml:id="MINO-Laws2_150_499.25.3.27" pos="sþghen">gert</w>
+            <w lemma="ráð" xml:id="MINO-Laws2_150_499.25.3.28" pos="nhen">ráð</w>
+            <w lemma="fyrir" xml:id="MINO-Laws2_150_499.25.3.29" pos="af">fyrir</w>
+            <w lemma="verulegur" xml:id="MINO-Laws2_150_499.25.3.30" pos="lvfþsf">verulegum</w>
+            <w lemma="tekja" xml:id="MINO-Laws2_150_499.25.3.31" pos="nvfþ">tekjum</w>
+            <w lemma="af" xml:id="MINO-Laws2_150_499.25.3.32" pos="af">af</w>
+            <w lemma="þessi" xml:id="MINO-Laws2_150_499.25.3.33" pos="faveþ">þessari</w>
+            <w lemma="aðgerð" xml:id="MINO-Laws2_150_499.25.3.34" pos="nveþ">aðgerð</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.25.3.35" pos="af">til</w>
+            <w lemma="frambúð" xml:id="MINO-Laws2_150_499.25.3.36" pos="nvee">frambúðar</w>
+            <pc xml:id="MINO-Laws2_150_499.25.3.37" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.26">
+          <s xml:id="MINO-Laws2_150_499.26.1">
+            <w lemma="verða" xml:id="MINO-Laws2_150_499.26.1.1" pos="svg3en">Verði</w>
+            <w lemma="frumvarp" xml:id="MINO-Laws2_150_499.26.1.2" pos="nheng">frumvarpið</w>
+            <w lemma="óbreyttur" xml:id="MINO-Laws2_150_499.26.1.3" pos="lhensf">óbreytt</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.26.1.4" pos="af">að</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.26.1.5" pos="nhfþ">lögum</w>
+            <w lemma="verða" xml:id="MINO-Laws2_150_499.26.1.6" pos="sfg3fn">verða</w>
+            <w lemma="fjárhagsáhrif" xml:id="MINO-Laws2_150_499.26.1.7" pos="nhfn">fjárhagsáhrif</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.26.1.8" pos="af">á</w>
+            <w lemma="ríkissjóður" xml:id="MINO-Laws2_150_499.26.1.9" pos="nkeo">ríkissjóð</w>
+            <w lemma="jákvæður" xml:id="MINO-Laws2_150_499.26.1.10" pos="lhfnsf">jákvæð</w>
+            <w lemma="en" xml:id="MINO-Laws2_150_499.26.1.11" pos="c">en</w>
+            <w lemma="óverulegur" xml:id="MINO-Laws2_150_499.26.1.12" pos="lhfnsf">óveruleg</w>
+            <w lemma="þar" xml:id="MINO-Laws2_150_499.26.1.13" pos="aa">þar</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.26.1.14" pos="c">sem</w>
+            <w lemma="ekki" xml:id="MINO-Laws2_150_499.26.1.15" pos="aa">ekki</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.26.1.16" pos="sfg3en">er</w>
+            <w lemma="gera" xml:id="MINO-Laws2_150_499.26.1.17" pos="sþghen">gert</w>
+            <w lemma="ráð" xml:id="MINO-Laws2_150_499.26.1.18" pos="nhen">ráð</w>
+            <w lemma="fyrir" xml:id="MINO-Laws2_150_499.26.1.19" pos="af">fyrir</w>
+            <w lemma="verulegur" xml:id="MINO-Laws2_150_499.26.1.20" pos="lvfþsf">verulegum</w>
+            <w lemma="tekja" xml:id="MINO-Laws2_150_499.26.1.21" pos="nvfþ">tekjum</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.26.1.22" pos="af">í</w>
+            <w lemma="kjölfar" xml:id="MINO-Laws2_150_499.26.1.23" pos="nheo">kjölfar</w>
+            <w lemma="samþykkt" xml:id="MINO-Laws2_150_499.26.1.24" pos="nvee">samþykktar</w>
+            <w lemma="það" xml:id="MINO-Laws2_150_499.26.1.25" pos="fphee">þess</w>
+            <pc xml:id="MINO-Laws2_150_499.26.1.26" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.27">
+          <s xml:id="MINO-Laws2_150_499.27.1">
+            <w lemma="um" xml:id="MINO-Laws2_150_499.27.1.1" pos="af">Um</w>
+            <w lemma="einstakur" xml:id="MINO-Laws2_150_499.27.1.2" pos="lvfosf">einstakar</w>
+            <w lemma="grein" xml:id="MINO-Laws2_150_499.27.1.3" pos="nvfo">greinar</w>
+            <w lemma="frumvarp" xml:id="MINO-Laws2_150_499.27.1.4" pos="nheeg">frumvarpsins</w>
+            <pc xml:id="MINO-Laws2_150_499.27.1.5" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.28">
+          <s xml:id="MINO-Laws2_150_499.28.1">
+            <w lemma="um" xml:id="MINO-Laws2_150_499.28.1.1" pos="af">Um</w>
+            <w lemma="1." xml:id="MINO-Laws2_150_499.28.1.2" pos="ta">1.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.28.1.3" pos="ks">gr.</w>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.29">
+          <s xml:id="MINO-Laws2_150_499.29.1">
+            <w lemma="með" xml:id="MINO-Laws2_150_499.29.1.1" pos="af">Með</w>
+            <w lemma="ákvæði" xml:id="MINO-Laws2_150_499.29.1.2" pos="nheþg">ákvæðinu</w>
+            <w lemma="bæta" xml:id="MINO-Laws2_150_499.29.1.3" pos="sfm3en">bætist</w>
+            <w lemma="nýr" xml:id="MINO-Laws2_150_499.29.1.4" pos="lvensf">ný</w>
+            <w lemma="málsgrein" xml:id="MINO-Laws2_150_499.29.1.5" pos="nven">málsgrein</w>
+            <w lemma="við" xml:id="MINO-Laws2_150_499.29.1.6" pos="af">við</w>
+            <w lemma="6." xml:id="MINO-Laws2_150_499.29.1.7" pos="ta">6.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.29.1.8" pos="ks">gr.</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.29.1.9" pos="nhfe">laga</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.29.1.10" pos="af">um</w>
+            <w lemma="leiga" xml:id="MINO-Laws2_150_499.29.1.11" pos="nveo">leigu</w>
+            <w lemma="skráningarskyldur" xml:id="MINO-Laws2_150_499.29.1.12" pos="lhfesf">skráningarskyldra</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.29.1.13" pos="nhfe">ökutækja</w>
+            <pc xml:id="MINO-Laws2_150_499.29.1.14" pos="pk">,</pc>
+            <w lemma="nr." xml:id="MINO-Laws2_150_499.29.1.15" pos="ks">nr.</w>
+            <w lemma="65" xml:id="MINO-Laws2_150_499.29.1.16" pos="ta">65</w>
+            <pc xml:id="MINO-Laws2_150_499.29.1.17" pos="pa">/</pc>
+            <w lemma="2015" xml:id="MINO-Laws2_150_499.29.1.18" pos="ta">2015</w>
+            <pc xml:id="MINO-Laws2_150_499.29.1.19" pos="pl">.</pc>
+          </s>
+          <s xml:id="MINO-Laws2_150_499.29.2">
+            <w lemma="þar" xml:id="MINO-Laws2_150_499.29.2.1" pos="aa">Þar</w>
+            <w lemma="með" xml:id="MINO-Laws2_150_499.29.2.2" pos="aa">með</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.29.2.3" pos="sfg3en">er</w>
+            <w lemma="kveða" xml:id="MINO-Laws2_150_499.29.2.4" pos="sþghen">kveðið</w>
+            <w lemma="skýrt" xml:id="MINO-Laws2_150_499.29.2.5" pos="aa">skýrt</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.29.2.6" pos="aa">á</w>
+            <w lemma="um" xml:id="MINO-Laws2_150_499.29.2.7" pos="af">um</w>
+            <w lemma="bann" xml:id="MINO-Laws2_150_499.29.2.8" pos="nheo">bann</w>
+            <w lemma="leyfishafi" xml:id="MINO-Laws2_150_499.29.2.9" pos="nkfe">leyfishafa</w>
+            <w lemma="við" xml:id="MINO-Laws2_150_499.29.2.10" pos="af">við</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.29.2.11" pos="cn">að</w>
+            <w lemma="breyta" xml:id="MINO-Laws2_150_499.29.2.12" pos="sng">breyta</w>
+            <w lemma="kílómetrastaða" xml:id="MINO-Laws2_150_499.29.2.13" pos="nveþ">kílómetrastöðu</w>
+            <w lemma="skráningarskyldur" xml:id="MINO-Laws2_150_499.29.2.14" pos="lheesf">skráningarskylds</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.29.2.15" pos="nhee">ökutækis</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.29.2.16" pos="ct">sem</w>
+            <w lemma="skrá" xml:id="MINO-Laws2_150_499.29.2.17" pos="sþghen">skráð</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.29.2.18" pos="sfg3en">er</w>
+            <w lemma="hjá" xml:id="MINO-Laws2_150_499.29.2.19" pos="af">hjá</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.29.2.20" pos="nveþ-s">Samgöngustofu</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.29.2.21" pos="c">sem</w>
+            <w lemma="ökutæki" xml:id="MINO-Laws2_150_499.29.2.22" pos="nhen">ökutæki</w>
+            <w lemma="í" xml:id="MINO-Laws2_150_499.29.2.23" pos="af">í</w>
+            <w lemma="notkunarflokkur" xml:id="MINO-Laws2_150_499.29.2.24" pos="nkeþ">notkunarflokki</w>
+            <w lemma="ökutækjaleiga" xml:id="MINO-Laws2_150_499.29.2.25" pos="nvee">ökutækjaleigu</w>
+            <pc xml:id="MINO-Laws2_150_499.29.2.26" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.30">
+          <s xml:id="MINO-Laws2_150_499.30.1">
+            <w lemma="um" xml:id="MINO-Laws2_150_499.30.1.1" pos="af">Um</w>
+            <w lemma="2." xml:id="MINO-Laws2_150_499.30.1.2" pos="ta">2.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.30.1.3" pos="ks">gr.</w>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.31">
+          <s xml:id="MINO-Laws2_150_499.31.1">
+            <w lemma="grein" xml:id="MINO-Laws2_150_499.31.1.1" pos="nveng">Greinin</w>
+            <w lemma="þarfnast" xml:id="MINO-Laws2_150_499.31.1.2" pos="sfm3en">þarfnast</w>
+            <w lemma="ekki" xml:id="MINO-Laws2_150_499.31.1.3" pos="aa">ekki</w>
+            <w lemma="skýring" xml:id="MINO-Laws2_150_499.31.1.4" pos="nvfe">skýringa</w>
+            <pc xml:id="MINO-Laws2_150_499.31.1.5" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.32">
+          <s xml:id="MINO-Laws2_150_499.32.1">
+            <w lemma="um" xml:id="MINO-Laws2_150_499.32.1.1" pos="af">Um</w>
+            <w lemma="3." xml:id="MINO-Laws2_150_499.32.1.2" pos="ta">3.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.32.1.3" pos="ks">gr.</w>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.33">
+          <s xml:id="MINO-Laws2_150_499.33.1">
+            <w lemma="leggja" xml:id="MINO-Laws2_150_499.33.1.1" pos="sþgven">Lögð</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.33.1.2" pos="sfg3en">er</w>
+            <w lemma="til" xml:id="MINO-Laws2_150_499.33.1.3" pos="aa">til</w>
+            <w lemma="viðbót" xml:id="MINO-Laws2_150_499.33.1.4" pos="nven">viðbót</w>
+            <w lemma="við" xml:id="MINO-Laws2_150_499.33.1.5" pos="af">við</w>
+            <w lemma="1." xml:id="MINO-Laws2_150_499.33.1.6" pos="ta">1.</w>
+            <w lemma="mgr." xml:id="MINO-Laws2_150_499.33.1.7" pos="ks">mgr.</w>
+            <w lemma="13." xml:id="MINO-Laws2_150_499.33.1.8" pos="ta">13.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.33.1.9" pos="ks">gr.</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.33.1.10" pos="nhfeg">laganna</w>
+            <w lemma="þar" xml:id="MINO-Laws2_150_499.33.1.11" pos="aa">þar</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.33.1.12" pos="c">sem</w>
+            <w lemma="Samgöngustofa" xml:id="MINO-Laws2_150_499.33.1.13" pos="nveþ-s">Samgöngustofu</w>
+            <w lemma="verða" xml:id="MINO-Laws2_150_499.33.1.14" pos="svg3en">verði</w>
+            <w lemma="heimila" xml:id="MINO-Laws2_150_499.33.1.15" pos="sþghen">heimilað</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.33.1.16" pos="cn">að</w>
+            <w lemma="leggja" xml:id="MINO-Laws2_150_499.33.1.17" pos="sng">leggja</w>
+            <w lemma="stjórnvaldssekt" xml:id="MINO-Laws2_150_499.33.1.18" pos="nvfo">stjórnvaldssektir</w>
+            <w lemma="á" xml:id="MINO-Laws2_150_499.33.1.19" pos="af">á</w>
+            <w lemma="einstaklingur" xml:id="MINO-Laws2_150_499.33.1.20" pos="nkeo">einstakling</w>
+            <w lemma="eða" xml:id="MINO-Laws2_150_499.33.1.21" pos="c">eða</w>
+            <w lemma="lögaðili" xml:id="MINO-Laws2_150_499.33.1.22" pos="nkeo">lögaðila</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.33.1.23" pos="ct">sem</w>
+            <w lemma="brjóta" xml:id="MINO-Laws2_150_499.33.1.24" pos="sfg3en">brýtur</w>
+            <w lemma="gegn" xml:id="MINO-Laws2_150_499.33.1.25" pos="af">gegn</w>
+            <w lemma="5." xml:id="MINO-Laws2_150_499.33.1.26" pos="ta">5.</w>
+            <w lemma="mgr." xml:id="MINO-Laws2_150_499.33.1.27" pos="ks">mgr.</w>
+            <w lemma="6." xml:id="MINO-Laws2_150_499.33.1.28" pos="ta">6.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.33.1.29" pos="ks">gr.</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.33.1.30" pos="nhfeg">laganna</w>
+            <pc xml:id="MINO-Laws2_150_499.33.1.31" pos="pk">,</pc>
+            <w lemma="innan" xml:id="MINO-Laws2_150_499.33.1.32" pos="af">innan</w>
+            <w lemma="sektarrammi" xml:id="MINO-Laws2_150_499.33.1.33" pos="nkee">sektarramma</w>
+            <w lemma="2." xml:id="MINO-Laws2_150_499.33.1.34" pos="ta">2.</w>
+            <w lemma="mgr." xml:id="MINO-Laws2_150_499.33.1.35" pos="ks">mgr.</w>
+            <w lemma="13." xml:id="MINO-Laws2_150_499.33.1.36" pos="ta">13.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.33.1.37" pos="ks">gr.</w>
+            <w lemma="lög" xml:id="MINO-Laws2_150_499.33.1.38" pos="nhfeg">laganna</w>
+            <pc xml:id="MINO-Laws2_150_499.33.1.39" pos="pl">.</pc>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.34">
+          <s xml:id="MINO-Laws2_150_499.34.1">
+            <w lemma="um" xml:id="MINO-Laws2_150_499.34.1.1" pos="af">Um</w>
+            <w lemma="4." xml:id="MINO-Laws2_150_499.34.1.2" pos="ta">4.</w>
+            <w lemma="gr." xml:id="MINO-Laws2_150_499.34.1.3" pos="ks">gr.</w>
+          </s>
+        </p>
+        <p xml:id="MINO-Laws2_150_499.35">
+          <s xml:id="MINO-Laws2_150_499.35.1">
+            <w lemma="um" xml:id="MINO-Laws2_150_499.35.1.1" pos="af">Um</w>
+            <w lemma="vera" xml:id="MINO-Laws2_150_499.35.1.2" pos="sfg3en">er</w>
+            <w lemma="að" xml:id="MINO-Laws2_150_499.35.1.3" pos="cn">að</w>
+            <w lemma="ræða" xml:id="MINO-Laws2_150_499.35.1.4" pos="sng">ræða</w>
+            <w lemma="gildistökuákvæði" xml:id="MINO-Laws2_150_499.35.1.5" pos="nheo">gildistökuákvæði</w>
+            <w lemma="sem" xml:id="MINO-Laws2_150_499.35.1.6" pos="ct">sem</w>
+            <w lemma="þarfnast" xml:id="MINO-Laws2_150_499.35.1.7" pos="sfm3fn">þarfnast</w>
+            <w lemma="ekki" xml:id="MINO-Laws2_150_499.35.1.8" pos="aa">ekki</w>
+            <w lemma="frekur" xml:id="MINO-Laws2_150_499.35.1.9" pos="lvfevm">frekari</w>
+            <w lemma="skýring" xml:id="MINO-Laws2_150_499.35.1.10" pos="nvfe">skýringa</w>
+            <pc xml:id="MINO-Laws2_150_499.35.1.11" pos="pl">.</pc>
+          </s>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
