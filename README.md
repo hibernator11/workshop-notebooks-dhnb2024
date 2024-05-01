@@ -28,6 +28,11 @@ This project contains the following Jupyter Notebooks:
 
 - [yolo-example-cli.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-dhnb2024/blob/main/notebooks/yolo-example-cli.ipynb)
 
+## Steps
+- !pip install opencv-python
+- !pip install opencv-python-headless
+- !pip install ultralytis==8.0.196
+
 ## References
 
 - [Timarit.is](https://timarit.is/)
