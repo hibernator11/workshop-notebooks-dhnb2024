@@ -27,3 +27,10 @@ The access is open to everyone and the material is made available by using the l
 This project contains the following Jupyter Notebooks:
 
 - [yolo-example-cli.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-dhnb2024/blob/main/notebooks/yolo-example-cli.ipynb)
+
+## References
+
+- [Timarit.is](https://timarit.is/)
+- [GLAM Workbench](https://glam-workbench.net/)
+- [International GLAM Labs Community](https://glamlabs.io/)
+- Candela, G., Chambers, S., & Sherratt, T. (2023). An approach to assess the quality of Jupyter projects published by GLAM institutions. Journal of the Association for Information Science and Technology, 74(13), 1550–1564. https://doi.org/10.1002/asi.24835
