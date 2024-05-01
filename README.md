@@ -6,6 +6,13 @@
 
 This project has been developed as part of the workshop "Reusing digital collections from GLAM Labs: a Jupyter Notebook approach" for the [DHNB 2024 conference](https://www.conftool.org/dhnb2024/sessions.php).
 
+The coordinators of the workshop are:
+
+- Gustavo Candela, University of Alicante, Spain
+- Mirjam Cuper, National Library of the Netherlands
+- Olga Holownia, International Internet Preservation Consortium
+- Max Pedersen, Royal Danish Library, Denmark
+
 ## Digital collections
 [Timarit.is](https://timarit.is/) is a collaborative project between the:
 
