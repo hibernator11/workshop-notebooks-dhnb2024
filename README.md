@@ -14,4 +14,4 @@ The access is open to everyone and the material is made available by using the l
 
 This project contains the following Jupyter Notebooks:
 
-- [yolo-example-cli.ipynb](notebooks/yolo-example-cli.ipynb)
+- [notebooks/yolo-example-cli.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-dhnb2024/blob/main/notebooks/yolo-example-cli.ipynb)
