@@ -4,7 +4,7 @@
 
 <img src="images/dhnb.png" width="70%">
 
-
+This project has been developed as part of the workshop "Reusing digital collections from GLAM Labs: a Jupyter Notebook approach" for the [DHNB 2024 conference](https://www.conftool.org/dhnb2024/sessions.php).
 
 ## Digital collections
 [Timarit.is](https://timarit.is/) is a collaborative project between the:
