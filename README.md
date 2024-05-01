@@ -1,5 +1,8 @@
 # workshop-notebooks-dhnb2024
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/workshop-notebooks-dhnb2024/HEAD)
+
+
 
 ## Digital collections
 [Timarit.is](https://timarit.is/) is a collaborative project between the:
