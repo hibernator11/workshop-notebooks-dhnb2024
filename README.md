@@ -16,9 +16,9 @@ The coordinators of the workshop are:
 ## Digital collections
 [Timarit.is](https://timarit.is/) is a collaborative project between the:
 
-- National Library of the Faroe Islands,
-- National and Public Library of Greenland and
-- National and University Library of Iceland.
+- National Library of the Faroe Islands
+- National and Public Library of Greenland
+- National and University Library of Iceland
 
 The access is open to everyone and the material is made available by using the latest methods in information technology.
 
