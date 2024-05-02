@@ -15,7 +15,7 @@ The coordinators of the workshop are:
 - Max Pedersen, Royal Danish Library, Denmark
 
 ## Digital collections
-[Timarit.is](https://timarit.is/) is a collaborative project between the:
+[Timarit.is](https://timarit.is/) is a collaborative project between the following institutions:
 
 - National Library of the Faroe Islands
 - National and Public Library of Greenland
