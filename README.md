@@ -1,7 +1,7 @@
 # workshop-notebooks-dhnb2024
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/workshop-notebooks-dhnb2024/HEAD)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hibernator11/workshop-notebooks-dhnb2024/blob/main/notebooks/yolo-example-cli.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hibernator11/workshop-notebooks-dhnb2024)
 
 <img src="images/dhnb.png" width="70%">
 
@@ -27,9 +27,10 @@ The access is open to everyone and the material is made available by using the l
 
 This project contains the following Jupyter Notebooks:
 
-- [yolo-example-cli.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-dhnb2024/blob/main/notebooks/yolo-example-cli.ipynb)
+- [yolo-example-cli.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-dhnb2024/blob/main/notebooks/yolo-example-cli.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hibernator11/workshop-notebooks-dhnb2024/blob/main/notebooks/yolo-example-cli.ipynb]
+  
 
-## Steps
+## Steps required for collab
 - !pip install opencv-python
 - !pip install opencv-python-headless
 - !pip install ultralytis==8.0.196
