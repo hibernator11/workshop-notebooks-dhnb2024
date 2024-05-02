@@ -21,6 +21,8 @@ The coordinators of the workshop are:
 - National and Public Library of Greenland
 - National and University Library of Iceland
 
+<img src="images/iceland-workshop-timarit.jpg" width="70%">
+
 The access is open to everyone and the material is made available by using the latest methods in information technology.
 
 ## Notebooks
