@@ -40,6 +40,23 @@ This steps are required to be able to run the notebooks in Google Colab, includi
 - `!curl -O https://raw.githubusercontent.com/hibernator11/workshop-notebooks-dhnb2024/main/images/timarit/Sheep/20180107i1p11.jpg`
 - `!yolo predict model=yolov8n.pt source='https://raw.githubusercontent.com/hibernator11/workshop-notebooks-dhnb2024/main/images/timarit/Sheep/20180107i1p11.jpg'`
 
+## Running the notebooks
+
+*To execute the notebook in Binder:*
+
+- Click the launch binder button above. Once the demo launches, click My_sample_notebook.ipynb in the file listing.
+- Run the notebook by selecting Cell > Run All. You call also click the play button to run the notebook cell by cell. You will the output of each cell.
+- You can edit the cells, and click on play to run and see the changes.
+
+*To execute the notebook in Colab:*
+
+- Click the Open in Colab button above. Select one notebook from the list provided.
+- Make the notebook live by clicking 'Connect' in the Colab toolbar.
+- You'll need to uncomment a few lines of code to make the notebook work. 
+- Uncomment this cell by removing the three leading #.
+- Select Runtime > Run All in the menu to execute the notebook. 
+- You can also run cell by cell the notebook by clicking on the play button.
+
 ## References
 
 - [Timarit.is](https://timarit.is/)
