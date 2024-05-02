@@ -30,10 +30,15 @@ This project contains the following Jupyter Notebooks:
 - [yolo-example-cli.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-dhnb2024/blob/main/notebooks/yolo-example-cli.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hibernator11/workshop-notebooks-dhnb2024/blob/main/notebooks/yolo-example-cli.ipynb)
   
 
-## Steps required for collab
+## Steps required for Colab
+
+This steps are required to be able to run the notebooks in Google Colab, including the installation of the python packages and the download of the images from GitHub (or using the GitHub url):
+
 - !pip install opencv-python
 - !pip install opencv-python-headless
 - !pip install ultralytis==8.0.196
+- !curl -O https://raw.githubusercontent.com/hibernator11/workshop-notebooks-dhnb2024/main/images/timarit/Sheep/20180107i1p11.jpg
+- !yolo predict model=yolov8n.pt source='https://raw.githubusercontent.com/hibernator11/workshop-notebooks-dhnb2024/main/images/timarit/Sheep/20180107i1p11.jpg'
 
 ## References
 
