@@ -1,0 +1,8 @@
+for result in results:
+    det = result.boxes
+    for c in det.cls.unique():
+        n = (det.cls == c).sum()  # detections per class
+        print(model.names[int(c)], int(n))
+
+
+https://www.freecodecamp.org/news/how-to-detect-objects-in-images-using-yolov8/#get_started
