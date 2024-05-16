@@ -64,6 +64,11 @@ This steps are required to be able to run the notebooks in Google Colab, includi
 - `!curl -O https://raw.githubusercontent.com/hibernator11/workshop-notebooks-dhnb2024/main/images/timarit/Sheep/20180107i1p11.jpg`
 - `!yolo predict model=yolov8n.pt source='https://raw.githubusercontent.com/hibernator11/workshop-notebooks-dhnb2024/main/images/timarit/Sheep/20180107i1p11.jpg'`
 
+## Additional examples
+
+Additional experimentations were performed using Icelandic corpora such as the [Corpus of Icelandic Academic Vocabulary](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/299) and [the Icelandic Academic Word List](https://iris.rais.is/en/datasets/the-icelandic-academic-word-list-v-10-lino-2). The examples are included in the [notebooks/other](notebooks/other) folder.
+- 
+-
 
 ## References
 
