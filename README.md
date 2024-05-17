@@ -67,7 +67,7 @@ This steps are required to be able to run the notebooks in Google Colab, includi
 
 ## Additional examples
 
-Additional experimentations were performed using Icelandic corpora such as the [Corpus of Icelandic Academic Vocabulary](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/299) and [the Icelandic Academic Word List](https://iris.rais.is/en/datasets/the-icelandic-academic-word-list-v-10-lino-2). The examples are included in the [notebooks/other](notebooks/other) folder.
+Additional experimentations were performed using Icelandic corpora such as the [Corpus of Icelandic Academic Vocabulary](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/299) and [the Icelandic Academic Word List](https://iris.rais.is/en/datasets/the-icelandic-academic-word-list-v-10-lino-2). The examples are included in the [notebooks/other](notebooks/other) folder. These intend to show how Icelandic datasets based on text corpora can be used for example to create word embeddings and an analysis of the word list using the python library pandas.
 
 
 ## References
