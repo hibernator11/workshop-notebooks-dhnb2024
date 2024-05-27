@@ -12,7 +12,7 @@ The coordinators of the workshop are:
 - Gustavo Candela, University of Alicante, Spain
 - Mirjam Cuper, National Library of the Netherlands
 - Olga Holownia, International Internet Preservation Consortium
-- Max Pedersen, Royal Danish Library, Denmark
+- Max Odsbjerg Pedersen, Royal Danish Library, Denmark
 
 ## Digital collections
 [Timarit.is](https://timarit.is/) is a collaborative project between the following institutions:
