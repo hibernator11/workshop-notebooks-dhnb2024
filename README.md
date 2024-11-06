@@ -1,5 +1,8 @@
 # workshop-notebooks-dhnb2024
 
+
+
+[![DOI](https://zenodo.org/badge/786151578.svg)](https://doi.org/10.5281/zenodo.14039762)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/workshop-notebooks-dhnb2024/HEAD)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hibernator11/workshop-notebooks-dhnb2024)
 
